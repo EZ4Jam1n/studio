@@ -40,9 +40,10 @@ jobs:
           > src/.vuepress/dist/.nojekyll
 
       - name: 🥎 部署文档
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
           # 这是文档部署到的分支名称
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           branch: gh-pages
           folder: src/.vuepress/dist
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+
