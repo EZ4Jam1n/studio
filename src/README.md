@@ -2,8 +2,8 @@
 home: true
 icon: home
 title: 主页
-heroImage: /JavaPark.svg
-heroText: JavaPark
+heroImage: /studio.svg
+heroText: studio
 tagline: 「Java 自学指南」Java 学习保姆级教程、面试总结、计算机基础、数据库、实战实践、效率工具、资源分享、程序人生。
 actions:
   - text: 开始阅读 💡
@@ -83,12 +83,12 @@ features:
 
 ## ✨ Star 趋势图
 
-> 🎈 [JavaPark](https://github.com/cunyu1943/JavaPark)
+> 🎈 [studio](https://github.com/ez4jam1n/studio)
 
 如果您觉得本项目对您有所帮助，那就去 Github **Star** 收藏一下吧！
 
 ::: center
-![](https://api.star-history.com/svg?repos=cunyu1943/JavaPark&type=Date){style=zoom:70%}
+![](https://api.star-history.com/svg?repos=ez4jam1n/studio&type=Date){style=zoom:70%}
 :::
 
 ## 赞助
@@ -96,9 +96,9 @@ features:
 开源不易，如果你觉得本仓库对你有帮助，或许可以请我喝杯咖啡 ☕️
 
 ::: center
-|支付宝|微信|
-|:-:|:-:|
-|![](/personal/alipay.png =150x)|![](/personal/wechatpay.png =150x)|
+|             支付宝              |                微信                |
+| :-----------------------------: | :--------------------------------: |
+| ![](/personal/alipay.png =150x) | ![](/personal/wechatpay.png =150x) |
 :::
 
 ## 🧑‍🤝‍🧑 参与贡献

@@ -11,7 +11,7 @@ date: 2022-02-02
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -214,7 +214,7 @@ IDEA 默认是不会对代码自动编译的，需要我们手动配置。设置
  * @author       : 村雨遥
  * @Email        : 747731461@qq.com
  * @公众号        : 村雨遥
- * @Website      : https://cunyu1943.github.io/JavaPark
+ * @Website      : https://ez4jam1n.github.io/studio
  * @Description  :
  */
 ```

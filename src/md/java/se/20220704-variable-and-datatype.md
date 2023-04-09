@@ -10,7 +10,7 @@ order: 15
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 原文：https://mp.weixin.qq.com/s/Yz41IdWSNTgqgj0R-Ffgqw
 
@@ -91,7 +91,7 @@ public class Main {
 1.  **强制**：变量命名只能使用 **字母（大小写均可）、数字、\$、\_**；
 2.  **强制**：变量名不能使用关键字（就是 Java 中内置的一些关键字，如 `int、for、long…`）；
 3.  **强制**：变量第一个字符不能使用数字，只能用字母、`$`、`_`；
-4.  更多命名规则推荐参考阿里巴巴推出的《Java 开发手册》，下载链接：https://github.com/cunyu1943/ebooks
+4.  更多命名规则推荐参考阿里巴巴推出的《Java 开发手册》，下载链接：https://github.com/ez4jam1n/ebooks
 
 ### 常见关键字
 
@@ -391,7 +391,7 @@ public class Person {
     // 成员变量，静态变量
     public static final String wechatPublic = "公众号：村雨遥";
     // 成员变量，静态变量
-    public static final String website = "http://cunyu1943.site";
+    public static final String website = "http://ez4jam1n.site";
 }
 ```
 
@@ -516,5 +516,5 @@ PS：`final` 修饰变量后，该变量则变为常量。而 `final` 也还可�
 **关注公众号，获取最新文章更新**
 
 ::: center
-![](https://cdn.jsdelivr.net/gh/cunyu1943/cunyu1943@main/imgs/wepublic.gif =200x)
+![](https://cdn.jsdelivr.net/gh/ez4jam1n/ez4jam1n@main/imgs/wepublic.gif =200x)
 :::

@@ -10,7 +10,7 @@ category:
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -101,7 +101,7 @@ class EmployeeApplicationTests {
         employee.setId(4L);
         employee.setName("赵六");
         employee.setSex("男");
-        employee.setEmail("zhaoliu@cunyu1943.com");
+        employee.setEmail("zhaoliu@ez4jam1n.com");
 
         Assert.assertEquals(1, employeeMapper.insert(employee));
         System.out.println("插入成功");
@@ -316,7 +316,7 @@ class EmployeeApplicationTests {
     void testUpdate() {
         Employee employee = new Employee();
 
-        employee.setEmail("zhao6@cunyu1943.com");
+        employee.setEmail("zhao6@ez4jam1n.com");
         employee.setName("赵 6");
         employee.setSex("女");
         employee.setId(4L);
@@ -582,7 +582,7 @@ class EmployeeApplicationTests {
         Employee employee = new Employee();
         employee.setId(5L);
         employee.setName("周七");
-        employee.setEmail("zhouqi@cunyu1943.com");
+        employee.setEmail("zhouqi@ez4jam1n.com");
         employee.setSex("女");
         Assert.assertTrue(employeeService.save(employee));
         System.out.println("插入成功");
@@ -637,13 +637,13 @@ class EmployeeApplicationTests {
     void testSaveBatch() {
         Employee employee1 = new Employee();
         employee1.setId(6L);
-        employee1.setEmail("zhangliang@cunyu1943.com");
+        employee1.setEmail("zhangliang@ez4jam1n.com");
         employee1.setSex("男");
         employee1.setName("张良");
 
         Employee employee2 = new Employee();
         employee2.setId(7L);
-        employee2.setEmail("zhouyu@cunyu1943.com");
+        employee2.setEmail("zhouyu@ez4jam1n.com");
         employee2.setName("周瑜");
         employee2.setSex("男");
 
@@ -700,13 +700,13 @@ class EmployeeApplicationTests {
     void testSaveBatch() {
         Employee employee1 = new Employee();
         employee1.setId(8L);
-        employee1.setEmail("jialuo@cunyu1943.com");
+        employee1.setEmail("jialuo@ez4jam1n.com");
         employee1.setSex("女");
         employee1.setName("迦罗");
 
         Employee employee2 = new Employee();
         employee2.setId(9L);
-        employee2.setEmail("zhugeliang@cunyu1943.com");
+        employee2.setEmail("zhugeliang@ez4jam1n.com");
         employee2.setName("诸葛亮");
         employee2.setSex("男");
 
@@ -766,7 +766,7 @@ class EmployeeApplicationTests {
         Employee employee = new Employee();
         employee.setId(5L);
         employee.setName("周武");
-        employee.setEmail("zhouwu@cunyu1943.com");
+        employee.setEmail("zhouwu@ez4jam1n.com");
         employee.setSex("男");
 
         Assert.assertTrue(employeeService.saveOrUpdate(employee));
@@ -820,13 +820,13 @@ class EmployeeApplicationTests {
     void testSaveOrUpdateBatch() {
         Employee employee1 = new Employee();
         employee1.setId(10L);
-        employee1.setEmail("zhongwuyan@cunyu1943.com");
+        employee1.setEmail("zhongwuyan@ez4jam1n.com");
         employee1.setSex("女");
         employee1.setName("钟无艳");
 
         Employee employee2 = new Employee();
         employee2.setId(11L);
-        employee2.setEmail("direnjie@cunyu1943.com");
+        employee2.setEmail("direnjie@ez4jam1n.com");
         employee2.setName("狄仁杰");
         employee2.setSex("男");
 
@@ -883,13 +883,13 @@ class EmployeeApplicationTests {
     void testSaveOrUpdateBatch() {
         Employee employee1 = new Employee();
         employee1.setId(12L);
-        employee1.setEmail("yuji@cunyu1943.com");
+        employee1.setEmail("yuji@ez4jam1n.com");
         employee1.setSex("女");
         employee1.setName("虞姬");
 
         Employee employee2 = new Employee();
         employee2.setId(13L);
-        employee2.setEmail("sulie@cunyu1943.com");
+        employee2.setEmail("sulie@ez4jam1n.com");
         employee2.setName("苏烈");
         employee2.setSex("男");
 
@@ -1092,7 +1092,7 @@ class EmployeeApplicationTests {
         employee.setId(3L);
         employee.setName("程咬金");
         employee.setSex("男");
-        employee.setEmail("chengyaojin@cunyu1943.com");
+        employee.setEmail("chengyaojin@ez4jam1n.com");
 
         Assert.assertTrue(employeeService.updateById(employee));
         System.out.println("更新成功");
@@ -1147,13 +1147,13 @@ class EmployeeApplicationTests {
         employee1.setId(6L);
         employee1.setName("妲己");
         employee1.setSex("女");
-        employee1.setEmail("daji@cunyu1943.com");
+        employee1.setEmail("daji@ez4jam1n.com");
 
         Employee employee2 = new Employee();
         employee2.setId(13L);
         employee2.setName("小乔");
         employee2.setSex("女");
-        employee2.setEmail("xiaoqiao@cunyu1943.com");
+        employee2.setEmail("xiaoqiao@ez4jam1n.com");
 
         List<Employee> employeeList = new ArrayList<>();
         employeeList.add(employee1);
@@ -1210,13 +1210,13 @@ class EmployeeApplicationTests {
         employee1.setId(7L);
         employee1.setName("武则天");
         employee1.setSex("女");
-        employee1.setEmail("wuzetian@cunyu1943.com");
+        employee1.setEmail("wuzetian@ez4jam1n.com");
 
         Employee employee2 = new Employee();
         employee2.setId(3L);
         employee2.setName("李元芳");
         employee2.setSex("男");
-        employee2.setEmail("liyuanfang@cunyu1943.com");
+        employee2.setEmail("liyuanfang@ez4jam1n.com");
 
         List<Employee> employeeList = new ArrayList<>();
         employeeList.add(employee1);

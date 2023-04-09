@@ -119,9 +119,9 @@ type: "link"
 - class_name: 其他平台
   class_desc: 我在其他平台的身影
   link_list:
-    - name: JavaPark
-      link: https://cunyu1943.github.io/JavaPark
-      avatar: https://cunyu1943.github.io/JavaPark/JavaPark.svg
+    - name: studio
+      link: https://ez4jam1n.github.io/studio
+      avatar: https://ez4jam1n.github.io/studio/studio.svg
       descr: Java 自学指南
 ```
 
@@ -249,8 +249,8 @@ highlight_height_limit: 300
 
 ```yml
 social:
-  fab fa-github: https://github.com/cunyu1943/JavaPark || JavaPark
-  fa-solid fa-c: https://cunyu1943.blog.csdn.net || CSDN
+  fab fa-github: https://github.com/ez4jam1n/studio || studio
+  fa-solid fa-c: https://ez4jam1n.blog.csdn.net || CSDN
   fas fa-envelope: mailto:747731461@qq.com || Email
 ```
 
@@ -526,8 +526,8 @@ rightside_item_order:
 修改站点相关的各种资料，比如标题、副标题以及邮箱等，修改根目录中的 `_config.yml` 即可。
 
 ```yml
-title: JavaPark
-subtitle: 'JavaPark 自学指南'
+title: studio
+subtitle: 'studio 自学指南'
 description: '「Java 自学指南」Java 学习保姆级教程、面试总结、计算机基础、数据库、实战实践、效率工具、资源分享、程序人生'
 keywords: 'Java、Spring、Spring Boot、Spring Cloud、面试、效率工具、教程'
 author: 村雨遥

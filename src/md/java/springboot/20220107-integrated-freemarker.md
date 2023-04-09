@@ -11,13 +11,13 @@ date: 2022-01-07
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
 ## 前言
 
-在之前的文章[Spring Boot 整合 Thymeleaf](https://cunyu1943.blog.csdn.net/article/details/107671467)中，我们学习了如何将模板 Thymeleaf 整合到 Spring Boot 中，那今天我们就来看看，另一个老牌的开源免费模板引擎 - FreeMarker！
+在之前的文章[Spring Boot 整合 Thymeleaf](https://ez4jam1n.blog.csdn.net/article/details/107671467)中，我们学习了如何将模板 Thymeleaf 整合到 Spring Boot 中，那今天我们就来看看，另一个老牌的开源免费模板引擎 - FreeMarker！
 
 ## FreeMarker 简介
 
@@ -41,7 +41,7 @@ date: 2022-01-07
 
 ### 添加 FreeMarker 依赖
 
-开始之前，我们需要添加 FreeMarker 的相关依赖，同样这里我们可以选择两种方式。一种是在创建项目时就添加上，另一种则是创建项目后在项目 `pom.xml` 文件中手动添加，接下来我们分别来看看两种不同的方式应该如何添加。如果还不清楚如何创建 Spring Boot 项目，可以参照我之前的一篇文章：[创建 Spring Boot 项目的 3 种方式](https://cunyu1943.blog.csdn.net/article/details/119618308)。
+开始之前，我们需要添加 FreeMarker 的相关依赖，同样这里我们可以选择两种方式。一种是在创建项目时就添加上，另一种则是创建项目后在项目 `pom.xml` 文件中手动添加，接下来我们分别来看看两种不同的方式应该如何添加。如果还不清楚如何创建 Spring Boot 项目，可以参照我之前的一篇文章：[创建 Spring Boot 项目的 3 种方式](https://ez4jam1n.blog.csdn.net/article/details/119618308)。
 
 1.  **第一种**
 
@@ -104,7 +104,7 @@ import org.springframework.stereotype.Component;
  * @createTime : 2021/11/30 21:55
  * @email : 747731461@qq.com
  * @公众号 : 村雨遥
- * @website : https://cunyu1943.github.io
+ * @website : https://ez4jam1n.github.io
  * @description :
  */
 
@@ -142,7 +142,7 @@ import org.springframework.web.bind.annotation.GetMapping;
  * @createTime : 2021/11/30 22:04
  * @email : 747731461@qq.com
  * @公众号 : 村雨遥
- * @website : https://cunyu1943.github.io
+ * @website : https://ez4jam1n.github.io
  * @description :
  */
 @Controller
@@ -199,5 +199,5 @@ public class UserController {
 
 ## 总结
 
-以上就是 Spring Boot 整合 FreeMarker 的具体过程了，可以结合之前的文章：[Spring Boot 整合 Thymeleaf 实例](https://cunyu1943.blog.csdn.net/article/details/107671467)共同阅读，对比 Thymeleaf 和 FreeMarker 在整合过程中的一些共同点和不同点，相信你会有更多的收获。
+以上就是 Spring Boot 整合 FreeMarker 的具体过程了，可以结合之前的文章：[Spring Boot 整合 Thymeleaf 实例](https://ez4jam1n.blog.csdn.net/article/details/107671467)共同阅读，对比 Thymeleaf 和 FreeMarker 在整合过程中的一些共同点和不同点，相信你会有更多的收获。
 

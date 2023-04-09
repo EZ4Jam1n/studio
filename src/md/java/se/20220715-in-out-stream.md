@@ -10,7 +10,7 @@ category:
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 原文：https://mp.weixin.qq.com/s/I8UJKtTtdqcbbxcTx_dVzg
 
@@ -70,8 +70,8 @@ public class FileObject {
 
 对于我们传入文件的路径，既可以使用绝对路径，也可以使用相对路径。
 
-- **相对路径**：以当前文件所在位置为参考，然后建立出另一个文件所在位置路径。我们最常用的有 `.` 和 `..`，前者表示当前目录，而后者则表示当前目录的上一级目录。假设我们当前目录为 `/home/cunyu1943/data`，则 `.` 仍然表示该目录，而 `..` 则表示 `/home/cunyu1943` 目录。
-- **绝对路径**：又可以分为 **本地绝对路径** 和 **网络绝对路径**。本地绝对路径以根目录为参考，指文件在硬盘中真实存在的路径，比如在 Windows 系统，我们的一个绝对路径是 `D:\\Softwares\\Typora\\Typora.exe`，而在类 `Unix` 系统中则为 `/home/cunyu1943/IO.md`，此时需要注意平台间的分隔符是不一样的，但为了同一，推荐同一写成 `/`，这样程序在不同系统中迁移时也不会出现问题。而网络绝对位置则指带有网址的路径，比如 `https://cunyu1943.site/index.html`。
+- **相对路径**：以当前文件所在位置为参考，然后建立出另一个文件所在位置路径。我们最常用的有 `.` 和 `..`，前者表示当前目录，而后者则表示当前目录的上一级目录。假设我们当前目录为 `/home/ez4jam1n/data`，则 `.` 仍然表示该目录，而 `..` 则表示 `/home/ez4jam1n` 目录。
+- **绝对路径**：又可以分为 **本地绝对路径** 和 **网络绝对路径**。本地绝对路径以根目录为参考，指文件在硬盘中真实存在的路径，比如在 Windows 系统，我们的一个绝对路径是 `D:\\Softwares\\Typora\\Typora.exe`，而在类 `Unix` 系统中则为 `/home/ez4jam1n/IO.md`，此时需要注意平台间的分隔符是不一样的，但为了同一，推荐同一写成 `/`，这样程序在不同系统中迁移时也不会出现问题。而网络绝对位置则指带有网址的路径，比如 `https://ez4jam1n.site/index.html`。
 
 ```java
 import java.io.File;
@@ -508,7 +508,7 @@ public class TestWriter {
         try (BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(file))) {
             bufferedWriter.write("公众号：村雨遥");
             bufferedWriter.newLine();
-            bufferedWriter.write("Blog：https://cunyu1943.site");
+            bufferedWriter.write("Blog：https://ez4jam1n.site");
             bufferedWriter.newLine();
             bufferedWriter.flush();
         } catch (IOException e) {
@@ -574,5 +574,5 @@ public class TestReader {
 **关注公众号，获取最新文章更新**
 
 ::: center
-![](https://cdn.jsdelivr.net/gh/cunyu1943/cunyu1943@main/imgs/wepublic.gif =200x)
+![](https://cdn.jsdelivr.net/gh/ez4jam1n/ez4jam1n@main/imgs/wepublic.gif =200x)
 :::

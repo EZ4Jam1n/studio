@@ -11,7 +11,7 @@ category:
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -51,14 +51,14 @@ category:
 
 ![](./assets/20220206-java-quick-start-with-idea/new-class.png)
 
-2.  接着在 `Name` 域输入 `com.cunyu1943.helloworld.HelloWorld`，然后回车，接着 `com.cunyu1943.hellowold` 包和 `HelloWorld` 类就创建好了。
+2.  接着在 `Name` 域输入 `com.ez4jam1n.helloworld.HelloWorld`，然后回车，接着 `com.ez4jam1n.hellowold` 包和 `HelloWorld` 类就创建好了。
 
 ![](./assets/20220206-java-quick-start-with-idea/pkg.png)
 
 ![](./assets/20220206-java-quick-start-with-idea/hello-class.png)
 
 ```java
-package com.cunyu1943.helloworld;
+package com.ez4jam1n.helloworld;
 
 /**
  * Created with IntelliJ IDEA.
@@ -66,12 +66,12 @@ package com.cunyu1943.helloworld;
  * @author : zhangliang
  * @version : 1.0
  * @project : HelloWorld
- * @package : com.cunyu1943.helloworld
+ * @package : com.ez4jam1n.helloworld
  * @className : HelloWorld
  * @createTime : 2021/9/14 9:53
  * @email : 747731461@qq.com
  * @公众号 : 村雨遥
- * @website : https://cunyu1943.github.io
+ * @website : https://ez4jam1n.github.io
  * @description :
  */
 public class HelloWorld {
@@ -81,7 +81,7 @@ public class HelloWorld {
 3.  然后输入 `main` 并选择 `main()` 方法的声明，接着在 `main()` 方法中输入如下打印 `Hello World!` 的代码。
 
 ```java
-package com.cunyu1943.helloworld;
+package com.ez4jam1n.helloworld;
 
 /**
  * Created with IntelliJ IDEA.
@@ -89,12 +89,12 @@ package com.cunyu1943.helloworld;
  * @author : zhangliang
  * @version : 1.0
  * @project : HelloWorld
- * @package : com.cunyu1943.helloworld
+ * @package : com.ez4jam1n.helloworld
  * @className : HelloWorld
  * @createTime : 2021/9/14 9:53
  * @email : 747731461@qq.com
  * @公众号 : 村雨遥
- * @website : https://cunyu1943.github.io
+ * @website : https://ez4jam1n.github.io
  * @description : Hello World 类
  */
 public class HelloWorld {

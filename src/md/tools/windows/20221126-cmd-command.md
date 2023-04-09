@@ -10,7 +10,7 @@ date: 2022-11-26
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 原文：https://mp.weixin.qq.com/s/LAZY7sMiwzNwimTpmlh0rw
 

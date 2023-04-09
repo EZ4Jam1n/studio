@@ -11,7 +11,7 @@ order: 1
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 原文：https://mp.weixin.qq.com/s/aGz8CBOK5mW8xjAlstlMQw
 

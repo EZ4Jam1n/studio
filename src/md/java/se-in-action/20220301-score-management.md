@@ -10,7 +10,7 @@ category:
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -229,7 +229,7 @@ public class Student {
 * @return
 * @description 录入学生信息
 * @date 2021/4/5 9:14
-* @author cunyu1943
+* @author ez4jam1n
 * @version 1.0
 */
 public void addScore(ArrayList<Student> students) {
@@ -297,7 +297,7 @@ public void addScore(ArrayList<Student> students) {
 * @return
 * @description 显示简单统计数据
 * @date 2021/4/5 10:08
-* @author cunyu1943
+* @author ez4jam1n
 * @version 1.0
 */
 public void showAvg(ArrayList<Student> students) {
@@ -324,7 +324,7 @@ public void showAvg(ArrayList<Student> students) {
 * @return
 * @description 查找对应学号学生的成绩信息
 * @date 2021/4/5 12:59
-* @author cunyu1943
+* @author ez4jam1n
 * @version 1.0
 */
 public void lookupStudent(ArrayList<Student> students) {
@@ -368,7 +368,7 @@ public void lookupStudent(ArrayList<Student> students) {
 * @return
 * @description 修改对应学号学生的信息
 * @date 2021/4/5 12:59
-* @author cunyu1943
+* @author ez4jam1n
 * @version 1.0
 */
 public void modifyStudent(ArrayList<Student> students) {
@@ -427,7 +427,7 @@ public void modifyStudent(ArrayList<Student> students) {
      * @return
      * @description 删除学生成绩
      * @date 2021/4/5 14:28
-     * @author cunyu1943
+     * @author ez4jam1n
      * @version 1.0
      */
 public void deleteStudent(ArrayList<Student> students) {
@@ -466,7 +466,7 @@ public void deleteStudent(ArrayList<Student> students) {
 * @return
 * @description 按照平均分排序
 * @date 2021/4/5 14:29
-* @author cunyu1943
+* @author ez4jam1n
 * @version 1.0
 */
 public void sortStudent(ArrayList<Student> students) {
@@ -500,7 +500,7 @@ public void sortStudent(ArrayList<Student> students) {
 * @return
 * @description 显示所有学生成绩
 * @date 2021/4/5 14:30
-* @author cunyu1943
+* @author ez4jam1n
 * @version 1.0
 */
 public void showAllStudent(ArrayList<Student> students) {
@@ -741,7 +741,7 @@ public class Student {
      * @return
      * @description 录入学生信息
      * @date 2021/4/5 9:14
-     * @author cunyu1943
+     * @author ez4jam1n
      * @version 1.0
      */
     public void addScore(ArrayList<Student> students) {
@@ -804,7 +804,7 @@ public class Student {
      * @return true，学号重复；false 学号可用
      * @description 判断学号是否可用
      * @date 2021/4/5 9:19
-     * @author cunyu1943
+     * @author ez4jam1n
      * @version 1.0
      */
     public boolean isValid(ArrayList<Student> students, long id) {
@@ -821,7 +821,7 @@ public class Student {
      * @return
      * @description 显示简单统计数据
      * @date 2021/4/5 10:08
-     * @author cunyu1943
+     * @author ez4jam1n
      * @version 1.0
      */
     public void showAvg(ArrayList<Student> students) {
@@ -842,7 +842,7 @@ public class Student {
      * @return
      * @description 查找对应学号学生的成绩信息
      * @date 2021/4/5 12:59
-     * @author cunyu1943
+     * @author ez4jam1n
      * @version 1.0
      */
     public void lookupStudent(ArrayList<Student> students) {
@@ -880,7 +880,7 @@ public class Student {
      * @return
      * @description 修改对应学号学生的信息
      * @date 2021/4/5 12:59
-     * @author cunyu1943
+     * @author ez4jam1n
      * @version 1.0
      */
     public void modifyStudent(ArrayList<Student> students) {
@@ -934,7 +934,7 @@ public class Student {
      * @return
      * @description 删除学生成绩
      * @date 2021/4/5 14:28
-     * @author cunyu1943
+     * @author ez4jam1n
      * @version 1.0
      */
     public void deleteStudent(ArrayList<Student> students) {
@@ -967,7 +967,7 @@ public class Student {
      * @return
      * @description 显示所有学生成绩
      * @date 2021/4/5 14:30
-     * @author cunyu1943
+     * @author ez4jam1n
      * @version 1.0
      */
     public void showAllStudent(ArrayList<Student> students) {
@@ -987,7 +987,7 @@ public class Student {
      * @return
      * @description 按照平均分排序
      * @date 2021/4/5 14:29
-     * @author cunyu1943
+     * @author ez4jam1n
      * @version 1.0
      */
     public void sortStudent(ArrayList<Student> students) {

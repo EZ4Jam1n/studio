@@ -10,7 +10,7 @@ date: 2022-04-03
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -54,7 +54,7 @@ date: 2022-04-03
 
 接下来是在 `main.yml` 中填入如下信息即可，具体实例的可以参考我的博客实例：
 
-> https://github.com/cunyu1943/cunyu1943.github.io/
+> https://github.com/ez4jam1n/ez4jam1n.github.io/
 
 ```yml
 # name 可以自定义
@@ -111,9 +111,9 @@ jobs:
 
 最后，贴出我的博客地址，可以去看看效果！
 
-- 项目文件：https://github.com/cunyu1943/cunyu1943.github.io
-- 预览地址：https://cunyu1943.github.io/
+- 项目文件：https://github.com/ez4jam1n/ez4jam1n.github.io
+- 预览地址：https://ez4jam1n.github.io/
 
 关注公众号，获取最新文章更新
 
-<img src="https://github.com/cunyu1943/cunyu1943/blob/main/imgs/wepublic.gif" width="200" alt="公众号" />
+<img src="https://github.com/ez4jam1n/ez4jam1n/blob/main/imgs/wepublic.gif" width="200" alt="公众号" />

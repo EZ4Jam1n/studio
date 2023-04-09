@@ -11,7 +11,7 @@ date: 2022-02-04
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -60,7 +60,7 @@ git clone Githu 仓库地址
 ```
 
 ```shell
-git clone https://github.com/cunyu1943/java-programming-instance.git
+git clone https://github.com/ez4jam1n/java-programming-instance.git
 ```
 
 ![](./assets/20220204-idea-integrate-with-git/clone.png)

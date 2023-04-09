@@ -10,7 +10,7 @@ date: 2022-10-02
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -173,7 +173,7 @@ var app = new Vue({
 var app = new Vue({
     el: "#app",
     data: {
-        message: "wechat cunyu1943"
+        message: "wechat ez4jam1n"
     },
     methods: {
         reverseMessage:function(){
@@ -220,7 +220,7 @@ var app = new Vue({
 
 ```html
 <div id="app">
-    <img src="https://gitee.com/cunyu1943/images/raw/master/ImgsUbuntu/20200510234310.png" v-show="isShow">
+    <img src="https://gitee.com/ez4jam1n/images/raw/master/ImgsUbuntu/20200510234310.png" v-show="isShow">
 </div>
 ```
 

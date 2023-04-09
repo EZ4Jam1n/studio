@@ -10,7 +10,7 @@ date: 2022-01-04
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -58,7 +58,7 @@ Swagger 所提供的的编辑器，主要用于编辑 Swagger 描述文件，支
 
 通过以上对 Swagger 简单的介绍之后，我们来看看如何在 Spring Boot 项目中使用 Swagger。
 
-首先需要创建一个简单的 Spring Boot 项目，如果你还不知道如何创建，可以参考我之前的一篇文章 [创建 Spring Boot 项目的 3 种方式](https://cunyu1943.blog.csdn.net/article/details/119618308)。
+首先需要创建一个简单的 Spring Boot 项目，如果你还不知道如何创建，可以参考我之前的一篇文章 [创建 Spring Boot 项目的 3 种方式](https://ez4jam1n.blog.csdn.net/article/details/119618308)。
 
 创建好之后的项目接口如下：
 
@@ -112,7 +112,7 @@ import java.util.ArrayList;
  * @email : 747731461@qq.com
  * @微信 : cunyu1024
  * @公众号 : 村雨遥
- * @网站 : https://cunyu1943.github.io
+ * @网站 : https://ez4jam1n.github.io
  * @description :
  */
 @Configuration
@@ -141,12 +141,12 @@ public class Swagger2Configuration {
 
     private ApiInfo apiInfo() {
         /*作者信息*/
-        Contact contact = new Contact("村雨遥", "https://cunyu1943.github.io", "747731461@qq.com");
+        Contact contact = new Contact("村雨遥", "https://ez4jam1n.github.io", "747731461@qq.com");
         return new ApiInfo(
                 "Swagger 测试接口文档",
                 "Spring Boot 集成 Swagger 测试接口文档",
                 "v1.0",
-                "https://cunyu1943.github.io",
+                "https://ez4jam1n.github.io",
                 contact,
                 "Apache 2.0",
                 "http://www.apache.org/licenses/LICENSE-2.0",
@@ -182,7 +182,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @email : 747731461@qq.com
  * @微信 : cunyu1024
  * @公众号 : 村雨遥
- * @网站 : https://cunyu1943.github.io
+ * @网站 : https://ez4jam1n.github.io
  * @description :
  */
 

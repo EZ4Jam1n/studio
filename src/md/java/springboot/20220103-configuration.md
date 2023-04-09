@@ -10,7 +10,7 @@ date: 2022-01-03
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -37,7 +37,7 @@ date: 2022-01-03
 ```properties
 cunyu.id=1024
 cunyu.name=村雨遥
-cunyu.website=https://cunyu1943.github.io
+cunyu.website=https://ez4jam1n.github.io
 ```
 
 2.  创建实体类来映射我们配置的属性；
@@ -158,7 +158,7 @@ spring.profiles.active={profile}
 ```properties
 my.id=1024
 my.name=村雨遥
-my.website=https://cunyu1943.github.io
+my.website=https://ez4jam1n.github.io
 ```
 
 2.  定义实体类，用于映射自定义配置文件中的内容；

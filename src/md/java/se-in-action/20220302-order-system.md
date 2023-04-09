@@ -10,7 +10,7 @@ category:
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -113,7 +113,7 @@ import java.util.Scanner;
  * @createTime : 2021/7/31 17:30
  * @email : 747731461@qq.com
  * @公众号 : 村雨遥
- * @website : https://cunyu1943.github.io
+ * @website : https://ez4jam1n.github.io
  * @description : 系统主界面
  */
 public class DishApp {
@@ -197,7 +197,7 @@ package com.cunyu;
  * @createTime : 2021/7/31 17:27
  * @email : 747731461@qq.com
  * @公众号 : 村雨遥
- * @website : https://cunyu1943.github.io
+ * @website : https://ez4jam1n.github.io
  * @description : 菜品类
  */
 public class Dish {
@@ -269,7 +269,7 @@ import java.util.List;
  * @createTime : 2021/7/31 20:26
  * @email : 747731461@qq.com
  * @公众号 : 村雨遥
- * @website : https://cunyu1943.github.io
+ * @website : https://ez4jam1n.github.io
  * @description :
  */
 public interface DishInterface {
@@ -441,6 +441,6 @@ public void checkout(List<Dish> orderedList) {
 
 好了，今天的内容就到此结束了，如果你有什么好的建议，欢迎留言交流。
 
-最后的最后，贴出本设计的 Github 仓库地址：https://github.com/cunyu1943/java-in-actions
+最后的最后，贴出本设计的 Github 仓库地址：https://github.com/ez4jam1n/java-in-actions
 
 有需要的童鞋可以自取，当然了，也希望大家给我一个 ⭐ **star**，满足一下我这个菜鸟的虚荣心呀 ~ :heart::heart::heart:

@@ -11,7 +11,7 @@ category:
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -48,7 +48,7 @@ category:
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.cunyu1943</groupId>
+    <groupId>com.ez4jam1n</groupId>
     <artifactId>springdemo1</artifactId>
     <version>1.0-SNAPSHOT</version>
 

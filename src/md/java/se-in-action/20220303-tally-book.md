@@ -10,7 +10,7 @@ category:
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -74,7 +74,7 @@ import java.util.Scanner;
  * @createTime : 2021/8/1 7:22
  * @email : 747731461@qq.com
  * @公众号 : 村雨遥
- * @website : https://cunyu1943.github.io
+ * @website : https://ez4jam1n.github.io
  * @description :
  */
 public class MainApp {
@@ -307,6 +307,6 @@ case "0":
 
 ## 总结
 
-好了，以上就是我们简单的记账本的实现了。实现的功能比较简陋，程序的健壮性也不够强，还有很大的优化空间。大家如果感兴趣或者有优化的地方，欢迎到本设计的 Github 仓库地址：https://github.com/cunyu1943/java-in-actions 提交 issue。当然了，如果你只是需要用来简单的做个示例，也可以自取。
+好了，以上就是我们简单的记账本的实现了。实现的功能比较简陋，程序的健壮性也不够强，还有很大的优化空间。大家如果感兴趣或者有优化的地方，欢迎到本设计的 Github 仓库地址：https://github.com/ez4jam1n/java-in-actions 提交 issue。当然了，如果你只是需要用来简单的做个示例，也可以自取。
 
 最后，如果本文对大家有用的话，希望给我一个 ⭐ **star**，满足一下我的虚荣心呀 ~ 🙊🙊🙊

@@ -10,7 +10,7 @@ date: 2022-07-20
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -27,7 +27,7 @@ date: 2022-07-20
 ```json
 {
     "baseInfo": {
-        "name": "cunyu1943",
+        "name": "ez4jam1n",
         "wepublic": "村雨遥",
         "wechat": "cunyu1024",
         "platform": ["juejin", "CSDN", "Github", "zhihu"]
@@ -49,7 +49,7 @@ date: 2022-07-20
 
 当然，首要的工作就是创建一个 `Maven` 项目，如果你还有点摸不着头脑，那可以移步先去看看前备知识：
 
-> [Maven 教程：使用 IDEA 创建 Maven 项目](https://cunyu1943.github.io/JavaPark/md/java/maven/20220104-maven-project-with-idea)
+> [Maven 教程：使用 IDEA 创建 Maven 项目](https://ez4jam1n.github.io/studio/md/java/maven/20220104-maven-project-with-idea)
 
 当我们创建完成一个 `Maven` 项目之后，首要的工作就是在项目的 `pom.xml` 中添加 `Fastjson V2` 的依赖。
 

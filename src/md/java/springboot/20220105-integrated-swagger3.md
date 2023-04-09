@@ -10,7 +10,7 @@ date: 2022-01-05
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -32,7 +32,7 @@ date: 2022-01-05
 
 ### 创建 Spring Boot 项目
 
-同样的，开始之前，我们需要创建一个简单的 Spring Boot 项目，这里不展开讲了，如果你对此还有所疑惑，可以先去熟悉下，这里建议参考我之前写过的一篇文章：[创建 Spring Boot 项目的 3 种方式](https://cunyu1943.blog.csdn.net/article/details/119618308 "创建 Spring Boot 项目的 3 种方式")。
+同样的，开始之前，我们需要创建一个简单的 Spring Boot 项目，这里不展开讲了，如果你对此还有所疑惑，可以先去熟悉下，这里建议参考我之前写过的一篇文章：[创建 Spring Boot 项目的 3 种方式](https://ez4jam1n.blog.csdn.net/article/details/119618308 "创建 Spring Boot 项目的 3 种方式")。
 
 项目创建成功之后，总体结构如下：
 
@@ -112,7 +112,7 @@ import java.util.ArrayList;
  * @email : 747731461@qq.com
  * @微信 : cunyu1024
  * @公众号 : 村雨遥
- * @网站 : https://cunyu1943.github.io
+ * @网站 : https://ez4jam1n.github.io
  * @description :
  */
 
@@ -141,12 +141,12 @@ public class SwaggerConfig {
 
     private ApiInfo apiInfo() {
         /*作者信息*/
-        Contact contact = new Contact("村雨遥", "https://cunyu1943.github.io", "747731461@qq.com");
+        Contact contact = new Contact("村雨遥", "https://ez4jam1n.github.io", "747731461@qq.com");
         return new ApiInfo(
                 "Spring Boot 集成 Swagger3 测试",
                 "Spring Boot 集成 Swagger3 测试接口文档",
                 "v1.0",
-                "https://cunyu1943.github.io",
+                "https://ez4jam1n.github.io",
                 contact,
                 "Apache 2.0",
                 "http://www.apache.org/licenses/LICENSE-2.0",
@@ -193,7 +193,7 @@ import lombok.NoArgsConstructor;
  * @email : 747731461@qq.com
  * @微信 : cunyu1024
  * @公众号 : 村雨遥
- * @网站 : https://cunyu1943.github.io
+ * @网站 : https://ez4jam1n.github.io
  * @description :
  */
 
@@ -238,7 +238,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @email : 747731461@qq.com
  * @微信 : cunyu1024
  * @公众号 : 村雨遥
- * @网站 : https://cunyu1943.github.io
+ * @网站 : https://ez4jam1n.github.io
  * @description :
  */
 

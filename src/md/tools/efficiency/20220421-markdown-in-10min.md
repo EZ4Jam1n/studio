@@ -10,7 +10,7 @@ category:
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -126,11 +126,11 @@ _公众号：村雨遥_
 
 ---
 
-个人博客：https://cunyu1943.github.io
+个人博客：https://ez4jam1n.github.io
 
 ---
 
-知乎：https://www.zhihu.com/people/cunyu1943
+知乎：https://www.zhihu.com/people/ez4jam1n
 
 ---
 ```
@@ -187,10 +187,10 @@ _公众号：村雨遥_
 1. 未完成任务
 
    - [ ] 公众号：村雨遥
-   - [ ] 个人博客：https://cunyu1943.github.io
+   - [ ] 个人博客：https://ez4jam1n.github.io
 
 2. 已完成任务
-   - [x] 知乎：https://www.zhihu.com/people/cunyu1943
+   - [x] 知乎：https://www.zhihu.com/people/ez4jam1n
    - [x] CSDN：https://blog.csdn.net/github_39655029
 ```
 
@@ -212,26 +212,26 @@ Markdown 中的表格也很方便，我们可以用 `:` 来调整表格对齐的
 
 ```markdown
 1. 左对齐
-   | 平台     | 链接                                   |
-   | :------- | :------------------------------------- |
-   | 公众号   | 村雨遥                                 |
-   | 个人博客 | https://cunyu1943.github.io            |
-   | 知乎     | https://www.zhihu.com/people/cunyu1943 |
+   | 平台     | 链接                                  |
+   | :------- | :------------------------------------ |
+   | 公众号   | 村雨遥                                |
+   | 个人博客 | https://ez4jam1n.github.io            |
+   | 知乎     | https://www.zhihu.com/people/ez4jam1n |
 
 2. 居中对齐
 
-|   平台   |                  链接                  |
-| :------: | :------------------------------------: |
-|  公众号  |                 村雨遥                 |
-| 个人博客 |      https://cunyu1943.github.io       |
-|   知乎   | https://www.zhihu.com/people/cunyu1943 |
+|   平台   |                 链接                  |
+| :------: | :-----------------------------------: |
+|  公众号  |                村雨遥                 |
+| 个人博客 |      https://ez4jam1n.github.io       |
+|   知乎   | https://www.zhihu.com/people/ez4jam1n |
 
 3. 右对齐
-   |     平台 |                                   链接 |
-   | -------: | -------------------------------------: |
-   |   公众号 |                                 村雨遥 |
-   | 个人博客 |            https://cunyu1943.github.io |
-   |     知乎 | https://www.zhihu.com/people/cunyu1943 |
+   |     平台 |                                  链接 |
+   | -------: | ------------------------------------: |
+   |   公众号 |                                村雨遥 |
+   | 个人博客 |            https://ez4jam1n.github.io |
+   |     知乎 | https://www.zhihu.com/people/ez4jam1n |
 ```
 
 ![表格](./assets/20220421-markdown-in-10min/table.png)
@@ -273,11 +273,11 @@ Markdown 支持 LaTeX 语法，可以实现行间公式和独立公式块，公�
 ```markdown
 1. 链接
 
-[村雨遥的杂货铺](https://cunyu1943.site)
+[村雨遥的杂货铺](https://ez4jam1n.site)
 
 2. 图片
 
-![村雨遥的杂货铺](https://cdn.jsdelivr.net/gh/cunyu1943/image-hosting-for-blog/blog/image-blogzhuye.png)
+![村雨遥的杂货铺](https://cdn.jsdelivr.net/gh/ez4jam1n/image-hosting-for-blog/blog/image-blogzhuye.png)
 ```
 
 ![](./assets/20220421-markdown-in-10min/link.png)

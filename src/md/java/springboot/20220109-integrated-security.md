@@ -10,7 +10,7 @@ icon: security
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -86,8 +86,8 @@ Security 为我们提供了配置，我们可以在项目的配置文件 `applic
 spring:
   security:
     user:
-      name: cunyu1943
-      password: cunyu1943@
+      name: ez4jam1n
+      password: ez4jam1n@
 ```
 
 然后重启我们的项目，就可以用我们配置的用户和密码来进行登陆了。

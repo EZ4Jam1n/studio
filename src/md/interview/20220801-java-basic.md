@@ -10,7 +10,7 @@ order: 1
 
 > 作者：村雨遥
 
-> 博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+> 博客：[studio](https://ez4jam1n.github.io/studio)
 
 ## 一个 Java 文件中是否可以存在多个类（修饰类除外）？
 

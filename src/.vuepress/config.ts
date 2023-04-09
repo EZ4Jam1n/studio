@@ -3,7 +3,7 @@ import { searchProPlugin } from "vuepress-plugin-search-pro";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/JavaPark/",
+  base: "/studio/",
   lang: "zh-CN",
 
   head: [
@@ -23,7 +23,7 @@ export default defineUserConfig({
 
   locales: {
     "/": {
-      title: "JavaPark",
+      title: "studio",
       description: "Java 自学指南",
     },
   },

@@ -10,7 +10,7 @@ date: 2022-04-20
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -27,7 +27,7 @@ date: 2022-04-20
 
 ## 编辑器
 
-主要针对的是使用 Markdown 语法的编辑器，如果你对 Markdown 语法还不太熟悉，可以先看看我的另一篇文章：[十分钟入门 Markdown 写作](https://cunyu1943.github.io/JavaPark/md/tools/efficiency/2022-04-21-markdown-in-10min)。
+主要针对的是使用 Markdown 语法的编辑器，如果你对 Markdown 语法还不太熟悉，可以先看看我的另一篇文章：[十分钟入门 Markdown 写作](https://ez4jam1n.github.io/studio/md/tools/efficiency/2022-04-21-markdown-in-10min)。
 
 ### Typora
 
@@ -136,7 +136,7 @@ date: 2022-04-20
 
 > 地址：http://github.com/
 
-是的，你没有看错，就是万能的 GitHub，我们不仅仅可以从这里找到开源的项目、软件、教程等，你还能把它当成你自己的免费图床。关于具体的搭建过程，可以参考以下我之前的一篇文章：[如何利用 GitHub 搭建自己的免费图床？](https://cunyu1943.github.io/JavaPark/efficiency/github-img-bed)
+是的，你没有看错，就是万能的 GitHub，我们不仅仅可以从这里找到开源的项目、软件、教程等，你还能把它当成你自己的免费图床。关于具体的搭建过程，可以参考以下我之前的一篇文章：[如何利用 GitHub 搭建自己的免费图床？](https://ez4jam1n.github.io/studio/efficiency/github-img-bed)
 
 ![](./assets/20220420-write-tools/github.png)
 
@@ -144,7 +144,7 @@ date: 2022-04-20
 
 > 地址：http://gitee.com/
 
-既然 GitHub 可以用来搭建图床，那我们的国内的 Gitee 也必须可以呀，而且相对 GitHub 来讲访问的速度更快，岂不是美哉。具体的搭建过程可以参考我之前的一篇文章：[Gitee + Typora，搭建自己的免费图床！](https://cunyu1943.github.io/JavaPark/efficiency/gitee-typora)
+既然 GitHub 可以用来搭建图床，那我们的国内的 Gitee 也必须可以呀，而且相对 GitHub 来讲访问的速度更快，岂不是美哉。具体的搭建过程可以参考我之前的一篇文章：[Gitee + Typora，搭建自己的免费图床！](https://ez4jam1n.github.io/studio/efficiency/gitee-typora)
 
 ![](./assets/20220420-write-tools/gitee.png)
 

@@ -10,7 +10,7 @@ category:
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 原文：https://mp.weixin.qq.com/s/DOXFxk5dk9WBfAVK0UJUng
 
@@ -529,7 +529,7 @@ public class JDBCUtils {
      * @return 连接对象
      * @description 获取连接
      * @date 2021/4/24 15:24
-     * @author cunyu1943
+     * @author ez4jam1n
      * @version 1.0
      */
     public static Connection getConnection() {
@@ -547,7 +547,7 @@ public class JDBCUtils {
      * @return
      * @description 关闭连接
      * @date 2021/4/24 15:27
-     * @author cunyu1943
+     * @author ez4jam1n
      * @version 1.0
      */
     public static void close(PreparedStatement preparedStatement, Connection connection) {
@@ -576,7 +576,7 @@ public class JDBCUtils {
      * @return
      * @description 关闭连接
      * @date 2021/4/24 15:28
-     * @author cunyu1943
+     * @author ez4jam1n
      * @version 1.0
      */
     public static void close(ResultSet resultSet, PreparedStatement preparedStatement, Connection connection) {
@@ -921,5 +921,5 @@ public class DruidTest {
 **关注公众号，获取最新文章更新**
 
 ::: center
-![](https://cdn.jsdelivr.net/gh/cunyu1943/cunyu1943@main/imgs/wepublic.gif =200x)
+![](https://cdn.jsdelivr.net/gh/ez4jam1n/ez4jam1n@main/imgs/wepublic.gif =200x)
 :::

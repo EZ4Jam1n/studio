@@ -11,11 +11,11 @@ export default hopeTheme({
     purple: "#c56cf0",
   },
 
-  hostname: "https://cunyu1943.site",
+  hostname: "https://ez4jam1n.site",
 
   author: {
     name: "村雨遥",
-    url: "https://cunyu1943.site/JavaPark",
+    url: "https://ez4jam1n.site/studio",
     email: "747731461@qq.com",
   },
 
@@ -23,9 +23,9 @@ export default hopeTheme({
 
   fullscreen: true,
 
-  logo: "/JavaPark.svg",
+  logo: "/studio.svg",
 
-  repo: "cunyu1943/JavaPark",
+  repo: "ez4jam1n/studio",
 
   docsDir: "src/md",
 
@@ -62,7 +62,7 @@ export default hopeTheme({
     copyright: {
       author: "村雨遥",
       license:
-        "转载请注明以下信息：『作者：村雨遥，博客：https://cunyu1943.site/JavaPark』",
+        "转载请注明以下信息：『作者：村雨遥，博客：https://ez4jam1n.site/studio』",
       global: true,
       triggerWords: 50,
     },
@@ -86,7 +86,7 @@ export default hopeTheme({
             path: "/",
             title: "🎉🎉🎉",
             content:
-              '<center>扫码加入<b><font color="green">JavaPark 官方交流群</font></b></br>和大家一起成长！</br></br><img src="https://cunyu1943.github.io/JavaPark/personal/wechat.png" width="150"></center>',
+              '<center>扫码加入<b><font color="green">studio 官方交流群</font></b></br>和大家一起成长！</br></br><img src="https://ez4jam1n.github.io/studio/personal/wechat.png" width="150"></center>',
             actions: [
               {
                 text: "我已加入",
@@ -118,7 +118,7 @@ export default hopeTheme({
        * Using Giscus
        */
       provider: "Giscus",
-      repo: "cunyu1943/JavaPark",
+      repo: "ez4jam1n/studio",
       repoId: "R_kgDOHI1mog",
       category: "Announcements",
       categoryId: "DIC_kwDOHI1mos4CUBUV",
@@ -133,7 +133,7 @@ export default hopeTheme({
        * Using Waline
        */
       // provider: "Waline",
-      // serverURL: "https://waline-bz1ai9zkr-cunyu1943.vercel.app/",
+      // serverURL: "https://waline-bz1ai9zkr-ez4jam1n.vercel.app/",
     },
 
     // Disable features you don’t want here
@@ -183,39 +183,39 @@ export default hopeTheme({
     },
 
     pwa: {
-      favicon: "/JavaPark.svg",
+      favicon: "/studio.svg",
       cacheHTML: false,
       cachePic: false,
       appendBase: false,
       apple: {
-        icon: "/JavaPark.svg",
+        icon: "/studio.svg",
         statusBarColor: "black",
       },
       msTile: {
-        image: "/JavaPark.svg",
+        image: "/studio.svg",
         color: "#ffffff",
       },
       manifest: {
         icons: [
           {
-            src: "/JavaPark.svg",
+            src: "/studio.svg",
             sizes: "512x512",
             purpose: "maskable",
             type: "image/svg+xml",
           },
           {
-            src: "/JavaPark.svg",
+            src: "/studio.svg",
             sizes: "192x192",
             purpose: "maskable",
             type: "image/svg+xml",
           },
           {
-            src: "/JavaPark.svg",
+            src: "/studio.svg",
             sizes: "512x512",
             type: "image/svg+xml",
           },
           {
-            src: "/JavaPark.svg",
+            src: "/studio.svg",
             sizes: "192x192",
             type: "image/svg+xml",
           },

@@ -1,5 +1,5 @@
 ---
-title: JavaPark(Java 自学指南)
+title: studio(Java 自学指南)
 icon: java
 isOriginal: true
 date: 2022-04-14
@@ -7,7 +7,7 @@ date: 2022-04-14
 
 ## 🌏 本站知识阅览
 
-![JavaPark 站点知识点导图](./.vuepress/public/personal/site-overview.png)
+![studio 站点知识点导图](./.vuepress/public/personal/site-overview.png)
 
 ## 🎖️ 精选专栏
 

@@ -10,7 +10,7 @@ date: 2022-01-06
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -24,7 +24,7 @@ date: 2022-01-06
 
 ### 创建 Spring Boot 项目
 
-既然要在 Spring Boot 中使用 Knife4j，那首先就得创建一个 Spring Boot 项目。当然，我在之前已经写过文章介绍如何创建 Spring Boot 项目了，所以这里不再赘述。如果你还对 Spring Boot 创建方式不太熟悉，可以参考我之前的文章：[Spring Boot 基础教程：创建项目的 3 种方式 | JavaPark](https://cunyu1943.github.io/JavaPark/java/spring-boot/the-methods-to-create-springboot-project.html)
+既然要在 Spring Boot 中使用 Knife4j，那首先就得创建一个 Spring Boot 项目。当然，我在之前已经写过文章介绍如何创建 Spring Boot 项目了，所以这里不再赘述。如果你还对 Spring Boot 创建方式不太熟悉，可以参考我之前的文章：[Spring Boot 基础教程：创建项目的 3 种方式 | studio](https://ez4jam1n.github.io/studio/java/spring-boot/the-methods-to-create-springboot-project.html)
 
 ### 添加依赖
 
@@ -78,7 +78,7 @@ public class Knife4jConfiguration {
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
                 .description("Kinfe4j 集成测试文档")
-                .contact(new Contact("村雨遥", "https://cunyu.gitub.io/JavaPark", "747731461@qq.com"))
+                .contact(new Contact("村雨遥", "https://cunyu.gitub.io/studio", "747731461@qq.com"))
                 .version("v1.1.0")
                 .title("API测试文档")
                 .build();

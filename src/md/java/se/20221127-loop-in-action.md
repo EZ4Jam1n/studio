@@ -10,7 +10,7 @@ order: 31
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 原文：https://mp.weixin.qq.com/s/K4aL8o_ND7R_W0mooNhusw
 
@@ -304,4 +304,4 @@ public class GuessNum {
 
 最后，文中所有代码已上传到 `Gitee`，有需要的朋友可以自取。
 
-> 传送门：https://gitee.com/cunyu1943/java-in-practice
+> 传送门：https://gitee.com/ez4jam1n/java-in-practice

@@ -10,7 +10,7 @@ date: 2022-04-23
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -34,7 +34,7 @@ date: 2022-04-23
 
 > 一个 Github 账号
 
-好了，就这么简单，只要你有一个 Github 账号就够了，你就能拥有一个免费的图床了，如果你还没有，那赶紧去 [注册](https://github.com/cunyu1943) 一个账号吧。
+好了，就这么简单，只要你有一个 Github 账号就够了，你就能拥有一个免费的图床了，如果你还没有，那赶紧去 [注册](https://github.com/ez4jam1n) 一个账号吧。
 
 ## 搭建过程
 
@@ -98,7 +98,7 @@ PicGo 的安装就不说了，去他的 [官网](https://molunerfinn.com/PicGo/)
 
 > `https://cdn.jsdelivr.net/gh/用户名/仓库名`
 
-比如我的就是 `https://cdn.jsdelivr.net/gh/cunyu1943/blog-imgs`
+比如我的就是 `https://cdn.jsdelivr.net/gh/ez4jam1n/blog-imgs`
 
 ![](./assets/20220423-github-img-bed/speed.png)
 

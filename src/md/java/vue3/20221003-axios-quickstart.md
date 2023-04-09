@@ -10,7 +10,7 @@ date: 2022-10-03
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -174,7 +174,7 @@ axios.put(url, {key=value, key2=value2}).then(function(response){}, function(err
 		<script>
 			data: {
 				name: "村雨遥",
-				id: "cunyu1943"
+				id: "ez4jam1n"
 			}
 			const btn = document.querySelector("button");
 			btn.onclick = function() {

@@ -10,7 +10,7 @@ category:
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -95,7 +95,7 @@ INSERT INTO user (id, name, password) VALUES (1, '村雨遥', '123456'),(2, '张
                 <property name="url"
                           value="jdbc:mysql://localhost:3306/learndb?characterEncoding=utf8"/>
                 <property name="username" value="root"/>
-                <property name="password" value="cunyu1943"/>
+                <property name="password" value="ez4jam1n"/>
             </dataSource>
         </environment>
     </environments>
@@ -130,7 +130,7 @@ import java.io.InputStream;
  * @Author : 村雨
  * @Email : 747731461@qq.com
  * @公众号 : 村雨遥
- * @Website : https://cunyu1943.github.io
+ * @Website : https://ez4jam1n.github.io
  * @Description : MyBatis 工具类
  */
 public class MybatisUtil {
@@ -179,7 +179,7 @@ import lombok.NoArgsConstructor;
  * @CreateTime : 2022/2/26 18:09
  * @Email : 747731461@qq.com
  * @公众号 : 村雨遥
- * @Website : https://cunyu1943.github.io
+ * @Website : https://ez4jam1n.github.io
  * @Description :
  */
 
@@ -246,7 +246,7 @@ import org.junit.Test;
  * @Author : 村雨
  * @Email : 747731461@qq.com
  * @公众号 : 村雨遥
- * @Website : https://cunyu1943.github.io
+ * @Website : https://ez4jam1n.github.io
  * @Description :
  */
 public class InsertTest {
@@ -323,7 +323,7 @@ import org.junit.Test;
  * @Author : 村雨
  * @Email : 747731461@qq.com
  * @公众号 : 村雨遥
- * @Website : https://cunyu1943.github.io
+ * @Website : https://ez4jam1n.github.io
  * @Description :
  */
 public class QueryTest {
@@ -394,7 +394,7 @@ import org.junit.Test;
  * @Author : 村雨
  * @Email : 747731461@qq.com
  * @公众号 : 村雨遥
- * @Website : https://cunyu1943.github.io
+ * @Website : https://ez4jam1n.github.io
  * @Description :
  */
 public class UpdateTest {
@@ -466,7 +466,7 @@ import org.junit.Test;
  * @Author : 村雨
  * @Email : 747731461@qq.com
  * @公众号 : 村雨遥
- * @Website : https://cunyu1943.github.io
+ * @Website : https://ez4jam1n.github.io
  * @Description :
  */
 public class DeleteTest {
@@ -496,4 +496,4 @@ public class DeleteTest {
 
 而关于文章中的示例代码，我已经上传到了 Github，如果有需要的朋友，可以自取。
 
-> 传送门：https://github.com/cunyu1943/java-learning-demos
+> 传送门：https://github.com/ez4jam1n/java-learning-demos

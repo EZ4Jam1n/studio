@@ -201,7 +201,7 @@ HTML 文档中的根标签，包含了整个页面的所有内容，其他所有
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 	</head>
 	<body>
-		<a href="https://cunyu1943.github.io/JavaPark">JavaPark(Java 自学指南)</a>
+		<a href="https://ez4jam1n.github.io/studio">studio(Java 自学指南)</a>
 	</body>
 </html>
 ```

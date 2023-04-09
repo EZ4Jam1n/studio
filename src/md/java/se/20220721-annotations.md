@@ -10,7 +10,7 @@ order: 76
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -39,7 +39,7 @@ package com.cunyu;
  * @author : cunyu
  * @version : 1.0
  * @email : 747731461@qq.com
- * @website : https://cunyu1943.github.io
+ * @website : https://ez4jam1n.github.io
  * @date : 2021/6/20 10:04
  * @project : JavaWeb
  * @package : com.cunyu
@@ -90,7 +90,7 @@ package com.cunyu;
  * @author : cunyu
  * @version : 1.0
  * @email : 747731461@qq.com
- * @website : https://cunyu1943.github.io
+ * @website : https://ez4jam1n.github.io
  * @公众号 : 村雨遥
  * @date : 2021/6/20 10:07
  * @project : JavaWeb
@@ -146,7 +146,7 @@ import java.util.List;
  * @author : cunyu
  * @version : 1.0
  * @email : 747731461@qq.com
- * @website : https://cunyu1943.github.io
+ * @website : https://ez4jam1n.github.io
  * @公众号 : 村雨遥
  * @date : 2021/6/20 10:07
  * @project : JavaWeb
@@ -372,5 +372,5 @@ public @interface AnnoDemo{
 **关注公众号，获取最新文章更新**
 
 ::: center
-![](https://cdn.jsdelivr.net/gh/cunyu1943/cunyu1943@main/imgs/wepublic.gif =200x)
+![](https://cdn.jsdelivr.net/gh/ez4jam1n/ez4jam1n@main/imgs/wepublic.gif =200x)
 :::

@@ -204,18 +204,18 @@ export const zhNavbar = navbar([
   {
     text: "优质书籍",
     icon: "book",
-    link: "https://github.com/cunyu1943/ebooks",
+    link: "https://github.com/ez4jam1n/ebooks",
   },
 
   {
     text: "旧版博客",
     icon: "blog",
-    link: "https://cunyu1943.github.io",
+    link: "https://ez4jam1n.github.io",
   },
   // {
   //   text: "效率神器",
   //   icon: "rocket",
-  //   link: "https://www.yuque.com/cunyu1943/nav/",
+  //   link: "https://www.yuque.com/ez4jam1n/nav/",
   // },
 
   {

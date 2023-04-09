@@ -11,7 +11,7 @@ category:
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -263,10 +263,10 @@ category:
 
 6.  **javaModelGenerator**
 
-这里主要用于配置自动生成的 PO 所在的包路径和项目路径，这里需要根据自己的需求进行配置，这里以我自己的配置为例，比如我的 PO 所在包为 `com.cunyu1943.mybatisgeneratordemo.entity`，项目路径为 `src/main/java`。
+这里主要用于配置自动生成的 PO 所在的包路径和项目路径，这里需要根据自己的需求进行配置，这里以我自己的配置为例，比如我的 PO 所在包为 `com.ez4jam1n.mybatisgeneratordemo.entity`，项目路径为 `src/main/java`。
 
 ```xml
-<javaModelGenerator targetPackage="com.cunyu1943.mybatisgeneratordemo.entity" targetProject="src/main/java">
+<javaModelGenerator targetPackage="com.ez4jam1n.mybatisgeneratordemo.entity" targetProject="src/main/java">
     <!-- 是否让 schema 作为包的后缀，默认为 false -->
     <property name="enableSubPackages" value="false"/>
     <!-- 是否针对 String 类型的字段在 set 方法中进行修剪，默认 false -->
@@ -288,7 +288,7 @@ category:
 配置 `Mapper` 接口所存放的路径，一般我们都是存放在项目的 `mapper` 包下，如我的配置为：
 
 ```xml
-<javaClientGenerator targetPackage="com.cunyu1943.mybatisgeneratordemo.mapper" targetProject="src/main/java"
+<javaClientGenerator targetPackage="com.ez4jam1n.mybatisgeneratordemo.mapper" targetProject="src/main/java"
                      type="XMLMAPPER">
 </javaClientGenerator>
 ```
@@ -377,7 +377,7 @@ category:
         </javaTypeResolver>
 
         <!-- 生成实体类地址 -->
-        <javaModelGenerator targetPackage="com.cunyu1943.mybatisgeneratordemo.entity" targetProject="src/main/java">
+        <javaModelGenerator targetPackage="com.ez4jam1n.mybatisgeneratordemo.entity" targetProject="src/main/java">
             <!-- 是否让 schema 作为包的后缀，默认为false -->
             <property name="enableSubPackages" value="false"/>
             <!-- 是否针对string类型的字段在set方法中进行修剪，默认false -->
@@ -390,7 +390,7 @@ category:
         </sqlMapGenerator>
 
         <!-- 生成 XxxMapper.java 接口-->
-        <javaClientGenerator targetPackage="com.cunyu1943.mybatisgeneratordemo.mapper" targetProject="src/main/java"
+        <javaClientGenerator targetPackage="com.ez4jam1n.mybatisgeneratordemo.mapper" targetProject="src/main/java"
                              type="XMLMAPPER">
         </javaClientGenerator>
 
@@ -429,4 +429,4 @@ jdbc.driver-class-name=com.mysql.cj.jdbc.Driver
 
 最后，关于本示例的相关代码，我已经传到了 Github，如果有需要的兄弟，可以自取。
 
-> 🎉🎉🎉 传送门 -> [mybatis-generator-demo](https://github.com/cunyu1943/java-learning-demos/tree/main/mybatis-generator-demo)
+> 🎉🎉🎉 传送门 -> [mybatis-generator-demo](https://github.com/ez4jam1n/java-learning-demos/tree/main/mybatis-generator-demo)

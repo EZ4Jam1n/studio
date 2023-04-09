@@ -11,7 +11,7 @@ date: 2022-06-02
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -23,7 +23,7 @@ date: 2022-06-02
 
 通过使用 `Mock`，我们能够降低单元测试的耦合，如果代码中对其他类或者接口有依赖关系，通过 `Mock` 就能帮我们模拟出这些依赖，并且帮我们验证所调用的依赖行为。通过使用 `Mock`，我们就可以验证对象的某些方法的调用情况，调用了多少次，方法的参数又是哪些。
 
-之前我们介绍过 Junit 相关的知识点，不熟悉的小伙伴可以去看看我之前的一篇文章 -> [是时候拥抱 JUnit 单元测试了！](https://cunyu1943.github.io/JavaPark/md/java/se/2022-07-18-test-with-junit) 。但使用 JUnit 时有个问题就是针对难以构造的复杂对象，我们可能需要费很大劲儿才能搞定。此时，我们就可以利用 `Mock` 测试和 JUnit 结合起来。
+之前我们介绍过 Junit 相关的知识点，不熟悉的小伙伴可以去看看我之前的一篇文章 -> [是时候拥抱 JUnit 单元测试了！](https://ez4jam1n.github.io/studio/md/java/se/2022-07-18-test-with-junit) 。但使用 JUnit 时有个问题就是针对难以构造的复杂对象，我们可能需要费很大劲儿才能搞定。此时，我们就可以利用 `Mock` 测试和 JUnit 结合起来。
 
 在众多的 `Mock` 框架中，`Mockito` 算是比较流行的一个框架了，大家经常将它和 JUnit 结合起来使用。`Mockito` 允许我们创建和配置 `Mock` 对象，从而最大程度上简化对外部依赖的测试类的开发。
 
@@ -70,7 +70,7 @@ date: 2022-06-02
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
         <modelVersion>4.0.0</modelVersion>
-    <groupId>site.cunyu1943</groupId>
+    <groupId>site.ez4jam1n</groupId>
     <artifactId>mockito-junit-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>mockito-junit-demo Tapestry 5 Application</name>

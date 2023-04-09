@@ -203,7 +203,7 @@ document.getElementsByClassName('类名')
 	<body>
 		<script>
 			document.write('公众号：村雨遥！</br>');
-			document.write("<font color='red'>wePublic: cunyu1943</font>");
+			document.write("<font color='red'>wePublic: ez4jam1n</font>");
 		</script>
 	</body>
 </html>
@@ -261,7 +261,7 @@ document.getElementsByClassName('类名')
 		<script>
 			let div = document.querySelector('div');
 			div.innerHTML = 'Java Park!';
-			div.innerHTML = '<a href="https://cunyu1943.github.io/JavaPark">JavaPark</a>';
+			div.innerHTML = '<a href="https://ez4jam1n.github.io/studio">studio</a>';
 		</script>
 	</body>
 </html>

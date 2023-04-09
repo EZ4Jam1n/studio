@@ -10,7 +10,7 @@ order: 5
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -93,7 +93,7 @@ order: 5
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.cunyu1943</groupId>
+    <groupId>org.ez4jam1n</groupId>
     <artifactId>springDemo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
@@ -129,7 +129,7 @@ import org.springframework.web.bind.annotation.RestController;
  * Version : 1.0
  * Author  : cunyu
  * Email   : cunyu1024@foxmail.com
- * Website : https://cunyu1943.github.io
+ * Website : https://ez4jam1n.github.io
  * 公众号   : 村雨遥
  * Date    : 2020/4/23 下午2:50
  * Project : springDemo

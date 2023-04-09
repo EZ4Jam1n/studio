@@ -1,7 +1,7 @@
 // place your custom styles here
 @font-face {
   font-family: bobohei;
-  src: url("/JavaPark/font/LXGWWenKaiScreen.ttf");
+  src: url("/studio/font/LXGWWenKaiScreen.ttf");
 }
 
 .navbar {
@@ -14,7 +14,7 @@
   }
 
   .site-name::after {
-    content: 'JavaPark';
+    content: 'studio';
     position: absolute;
     left: 0;
     top: -6px;

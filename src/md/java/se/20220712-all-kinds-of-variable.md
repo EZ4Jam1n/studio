@@ -11,7 +11,7 @@ category:
 
 作者：村雨遥
 
-博客：[JavaPark](https://cunyu1943.github.io/JavaPark)
+博客：[studio](https://ez4jam1n.github.io/studio)
 
 > 吾生也有涯，而知也无涯。
 
@@ -112,5 +112,5 @@ public class Demo {
 **关注公众号，获取最新文章更新**
 
 ::: center
-![](https://cdn.jsdelivr.net/gh/cunyu1943/cunyu1943@main/imgs/wepublic.gif =200x)
+![](https://cdn.jsdelivr.net/gh/ez4jam1n/ez4jam1n@main/imgs/wepublic.gif =200x)
 :::

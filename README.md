@@ -1,23 +1,23 @@
-# 📖 JavaPark | Java 自学指南
+# 📖 studio | Java 自学指南
 
 > 你好，我是村雨遥。一个从事 `Java` 的工程师。
 
-- 👉 推荐 [Github 在线阅读](https://cunyu1943.github.io/JavaPark) | [Gitee 在线阅读](https://cunyu1943.gitee.io/JavaPark)，`Github` 访问较慢，所以部分资源可能会加载较慢。
+- 👉 推荐 [Github 在线阅读](https://ez4jam1n.github.io/studio) | [Gitee 在线阅读](https://ez4jam1n.gitee.io/studio)，`Github` 访问较慢，所以部分资源可能会加载较慢。
 
-- 👉 项目同步维护：[Github](https://github.com/cunyu1943/JavaPark) | [Gitee](https://gitee.com/cunyu1943/JavaPark)
+- 👉 项目同步维护：[Github](https://github.com/ez4jam1n/studio) | [Gitee](https://gitee.com/ez4jam1n/studio)
 
 - 👉 这里有 `Java` 学习保姆级教程、面试总结、计算机基础、数据库、效率工具等诸多内容。
 
-- 👉 [『资源下载』](https://github.com/cunyu1943/ebooks)
+- 👉 [『资源下载』](https://github.com/ez4jam1n/ebooks)
 
-![](https://img.shields.io/github/stars/cunyu1943/JavaPark?style=social)
-![](https://img.shields.io/github/forks/cunyu1943/JavaPark?style=social)
-![](https://img.shields.io/github/watchers/cunyu1943/JavaPark?style=social)
+![](https://img.shields.io/github/stars/ez4jam1n/studio?style=social)
+![](https://img.shields.io/github/forks/ez4jam1n/studio?style=social)
+![](https://img.shields.io/github/watchers/ez4jam1n/studio?style=social)
 
-<center><img width="400px" src="./src/.vuepress/public/JavaPark.svg"></center>
+<center><img width="400px" src="./src/.vuepress/public/studio.svg"></center>
 
 ## 🔖 目录
-- [📖 JavaPark | Java 自学指南](#-javapark--java-自学指南)
+- [📖 studio | Java 自学指南](#-studio--java-自学指南)
   - [🔖 目录](#-目录)
   - [简介](#简介)
   - [Java](#java)
@@ -70,9 +70,9 @@
 
 [![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%9D%91%E9%9B%A8%E9%81%A5-brightgreen)](./src/.vuepress/public/personal/wechatpublic.png)
 [![](https://img.shields.io/badge/wechat-%E5%BE%AE%E4%BF%A1%E7%BE%A4-blueviolet)](./src/.vuepress/public/personal/wechat.png)
-[![](https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-informational)](https://www.zhihu.com/people/cunyu1943)
-[![](https://img.shields.io/badge/%E8%AF%AD%E9%9B%80-%E6%9D%91%E9%9B%A8%E9%81%A5-brightgreen)](https://yuque.com/cunyu1943)
-[![](https://img.shields.io/badge/csdn-CSDN-red)](https://cunyu1943.blog.csdn.net)
+[![](https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-informational)](https://www.zhihu.com/people/ez4jam1n)
+[![](https://img.shields.io/badge/%E8%AF%AD%E9%9B%80-%E6%9D%91%E9%9B%A8%E9%81%A5-brightgreen)](https://yuque.com/ez4jam1n)
+[![](https://img.shields.io/badge/csdn-CSDN-red)](https://ez4jam1n.blog.csdn.net)
 [![](https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue)](https://juejin.cn/user/747323637904519)
 [![](https://img.shields.io/badge/NowCoder-%E7%89%9B%E5%AE%A2-lightgrey)](https://www.nowcoder.com/users/806383223)
 
@@ -125,14 +125,14 @@
 4. [Spring 教程：3 种创建项目的方式](20220204-the-methods-to-create-spring-project.md)
 5. [Spring 教程：Bean 详解](20220205-bean.md)
 ### Spring MVC
-1. [Spring MVC 指南：简介及入门实例](100%20Learning%20学习/120%20开源项目/JavaPark/src/md/java/springmvc/20220201-intro-and-quick-start.md)
+1. [Spring MVC 指南：简介及入门实例](100%20Learning%20学习/120%20开源项目/studio/src/md/java/springmvc/20220201-intro-and-quick-start.md)
 ### MyBatis
 
 1. [MyBatis 教程：简介](20220201-introduction.md)
 2. [MyBatis 教程：快速入门](20220202-quick-start.md)
 3. [MyBatis 教程：MyBatis Generator 代码自动生成器](20220203-mybatis-generator.md)
 ### MyBatis Plus
-1. [MyBatis Plus 教程：简介及入门实例](100%20Learning%20学习/120%20开源项目/JavaPark/src/md/java/mybatisplus/20220201-intro-and-quick-start.md)
+1. [MyBatis Plus 教程：简介及入门实例](100%20Learning%20学习/120%20开源项目/studio/src/md/java/mybatisplus/20220201-intro-and-quick-start.md)
 2. [MyBatis Plus 教程：日志配置及常用 CRUD](20220202-log-and-common-crud.md)
 ### Spring Boot 基础教程
 
@@ -286,7 +286,7 @@
 
 ```
 作者：村雨遥
-链接：https://cunyu1943.github.io/JavaPark
+链接：https://ez4jam1n.github.io/studio
 来源：公众号「村雨遥」
 ````
 ## 赞助
@@ -295,11 +295,11 @@
 
 <center>
 
-|支付宝|微信|
-|:-:|:-:|
-|<img src="./src/.vuepress/public/personal/alipay.png" width="150">|<img src="./src/.vuepress/public/personal/wechatpay.png" width="150">|
+|                               支付宝                               |                                 微信                                  |
+| :----------------------------------------------------------------: | :-------------------------------------------------------------------: |
+| <img src="./src/.vuepress/public/personal/alipay.png" width="150"> | <img src="./src/.vuepress/public/personal/wechatpay.png" width="150"> |
 </center>
 
 ## Star 趋势图
 
-<center><img src="https://api.star-history.com/svg?repos=cunyu1943/JavaPark&type=Date" width="400"/></center>
+<center><img src="https://api.star-history.com/svg?repos=ez4jam1n/studio&type=Date" width="400"/></center>
