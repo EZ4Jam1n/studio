@@ -23,7 +23,7 @@ export default hopeTheme({
 
   fullscreen: true,
 
-  logo: "/studio.svg",
+  logo: "/JavaPark.svg",
 
   repo: "ez4jam1n/studio",
 
@@ -183,39 +183,39 @@ export default hopeTheme({
     },
 
     pwa: {
-      favicon: "/studio.svg",
+      favicon: "/JavaPark.svg",
       cacheHTML: false,
       cachePic: false,
       appendBase: false,
       apple: {
-        icon: "/studio.svg",
+        icon: "/JavaPark.svg",
         statusBarColor: "black",
       },
       msTile: {
-        image: "/studio.svg",
+        image: "/JavaPark.svg",
         color: "#ffffff",
       },
       manifest: {
         icons: [
           {
-            src: "/studio.svg",
+            src: "/JavaPark.svg",
             sizes: "512x512",
             purpose: "maskable",
             type: "image/svg+xml",
           },
           {
-            src: "/studio.svg",
+            src: "/JavaPark.svg",
             sizes: "192x192",
             purpose: "maskable",
             type: "image/svg+xml",
           },
           {
-            src: "/studio.svg",
+            src: "/JavaPark.svg",
             sizes: "512x512",
             type: "image/svg+xml",
           },
           {
-            src: "/studio.svg",
+            src: "/JavaPark.svg",
             sizes: "192x192",
             type: "image/svg+xml",
           },

@@ -121,7 +121,7 @@ type: "link"
   link_list:
     - name: studio
       link: https://ez4jam1n.github.io/studio
-      avatar: https://ez4jam1n.github.io/studio/studio.svg
+      avatar: https://ez4jam1n.github.io/studio/JavaPark.svg
       descr: Java 自学指南
 ```
 

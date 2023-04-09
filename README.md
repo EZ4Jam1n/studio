@@ -14,7 +14,7 @@
 ![](https://img.shields.io/github/forks/ez4jam1n/studio?style=social)
 ![](https://img.shields.io/github/watchers/ez4jam1n/studio?style=social)
 
-<center><img width="400px" src="./src/.vuepress/public/studio.svg"></center>
+<center><img width="400px" src="./src/.vuepress/public/JavaPark.svg"></center>
 
 ## 🔖 目录
 - [📖 studio | Java 自学指南](#-studio--java-自学指南)
