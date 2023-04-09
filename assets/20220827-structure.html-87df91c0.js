@@ -1,0 +1,1 @@
+import{_ as t,X as r,Y as a,Z as e,$ as c}from"./framework-dfc585d8.js";const s={},o=e("h2",{id:"目录",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#目录","aria-hidden":"true"},"#"),c(" 目录")],-1),_=[o];function n(d,i){return r(),a("div",null,_)}const l=t(s,[["render",n],["__file","20220827-structure.html.vue"]]);export{l as default};
