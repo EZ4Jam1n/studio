@@ -1,1 +1,0 @@
-import{_ as e,X as t,Y as _}from"./framework-dfc585d8.js";const c={};function r(a,i){return t(),_("div")}const o=e(c,[["render",r],["__file","20220203-idea-with-github.html.vue"]]);export{o as default};

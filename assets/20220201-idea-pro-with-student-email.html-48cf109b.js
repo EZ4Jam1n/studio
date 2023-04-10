@@ -1,1 +1,0 @@
-import{_ as e,X as t,Y as r}from"./framework-dfc585d8.js";const _={};function a(c,n){return t(),r("div")}const i=e(_,[["render",a],["__file","20220201-idea-pro-with-student-email.html.vue"]]);export{i as default};

@@ -1,1 +1,0 @@
-import{_ as t,X as e,Y as a}from"./framework-dfc585d8.js";const c={};function r(_,i){return e(),a("div")}const o=t(c,[["render",r],["__file","20220206-java-quick-start-with-idea.html.vue"]]);export{o as default};

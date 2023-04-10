@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://ez4jam1n.site/studio/sitemap.xml
+Sitemap: https://ez4jam1n.site/sitemap.xml
