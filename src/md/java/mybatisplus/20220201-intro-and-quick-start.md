@@ -8,9 +8,9 @@ category:
     - MyBatis Plus 教程
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 > 吾生也有涯，而知也无涯。
 
@@ -423,7 +423,7 @@ class EmployeeApplicationTests {
 
 可以看到执行我们测试代码后测试成功了，说明接口是没问题的。
 
-这里需要注意的是 `Assert.assertEquals(3, employees.size());` 这句代码，这里我们引入了 `Junit` 测试模块，所以需要记得在 `pom.xml` 中添加相关依赖，更多关于 `Junit` 测试相关的信息，可以参考我之前写的一篇文章：[抛弃传统注释测试，拥抱 Junit 单元测试](https://ez4jam1n.github.io/studio/md/java/se/20220718-test-with-junit)。
+这里需要注意的是 `Assert.assertEquals(3, employees.size());` 这句代码，这里我们引入了 `Junit` 测试模块，所以需要记得在 `pom.xml` 中添加相关依赖，更多关于 `Junit` 测试相关的信息，可以参考我之前写的一篇文章：[抛弃传统注释测试，拥抱 Junit 单元测试](https://benjam1n.eu.org/md/java/se/20220718-test-with-junit)。
 
 ```xml
 <dependency>

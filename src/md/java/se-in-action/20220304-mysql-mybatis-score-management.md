@@ -9,9 +9,9 @@ category:
 date: 2022-03-04
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 > 吾生也有涯，而知也无涯。
 
@@ -84,7 +84,7 @@ date: 2022-03-04
 
 ### 环境搭建
 
-本项目主要采用 Maven 来构造，而 IDE 则用的是最新版的 IntelliJ IDEA。所以首要工作就是搭建一个 Maven 工程，因为之前我已经写过相关的文章了，所以这里就不再啰嗦了，如果你还对创建 Maven 工程不太熟悉，可以参考：👉 [如何使用 IDEA 创建 Maven 项目](https://ez4jam1n.github.io/studio/md/java/maven/20220104-maven-project-with-idea)。
+本项目主要采用 Maven 来构造，而 IDE 则用的是最新版的 IntelliJ IDEA。所以首要工作就是搭建一个 Maven 工程，因为之前我已经写过相关的文章了，所以这里就不再啰嗦了，如果你还对创建 Maven 工程不太熟悉，可以参考：👉 [如何使用 IDEA 创建 Maven 项目](https://benjam1n.eu.org/md/java/maven/20220104-maven-project-with-idea)。
 
 ### POM 文件
 
@@ -134,7 +134,7 @@ date: 2022-03-04
 
 这里你可能对 Lombok 比较陌生，它主要是为了简化我们的代码而使用，所以也推荐大家了解下。对于 Lombok 的简单使用，我之前特意写了一篇相关文章，如果有感兴趣的小伙伴，可以去了解一下。传送门 👇：
 
-> [Lombok 安装及使用指南](https://ez4jam1n.github.io/studio/md/java/se/20220719-lombok-install-and-usage)
+> [Lombok 安装及使用指南](https://benjam1n.eu.org/md/java/se/20220719-lombok-install-and-usage)
 
 ### 数据库准备
 
@@ -253,7 +253,7 @@ import java.io.InputStream;
  * @Version : 1.0
  * @Author : 村雨
  * @Email : 747731461@qq.com
- * @公众号 : 村雨遥
+ * @公众号 : benjamin
  * @Website : https://ez4jam1n.github.io
  * @Description :
  */
@@ -275,7 +275,7 @@ public class MyBatisUtil {
      *
      * @param
      * @return
-     * @Author 村雨遥
+     * @Author benjamin
      * @Version 1.0
      * @Description
      * @Date 17:12 2022/3/5
@@ -305,7 +305,7 @@ import java.util.List;
  * @Version : 1.0
  * @Author : 村雨
  * @Email : 747731461@qq.com
- * @公众号 : 村雨遥
+ * @公众号 : benjamin
  * @Website : https://ez4jam1n.github.io
  * @Description :
  */
@@ -316,7 +316,7 @@ public interface StudentMapper {
      *
      * @param student 学生对象
      * @return
-     * @Author 村雨遥
+     * @Author benjamin
      * @Version 1.0
      * @Description
      * @Date 16:38 2022/3/5
@@ -328,7 +328,7 @@ public interface StudentMapper {
      *
      * @param
      * @return List<Student> 学生列表
-     * @Author 村雨遥
+     * @Author benjamin
      * @Version 1.0
      * @Description
      * @Date 16:45 2022/3/5
@@ -340,7 +340,7 @@ public interface StudentMapper {
      *
      * @param id 学号
      * @return
-     * @Author 村雨遥
+     * @Author benjamin
      * @Version 1.0
      * @Description
      * @Date 16:50 2022/3/5
@@ -352,7 +352,7 @@ public interface StudentMapper {
      *
      * @param student 学生
      * @return
-     * @Author 村雨遥
+     * @Author benjamin
      * @Version 1.0
      * @Description
      * @Date 16:53 2022/3/5
@@ -365,7 +365,7 @@ public interface StudentMapper {
      *
      * @param id 学号
      * @return
-     * @Author 村雨遥
+     * @Author benjamin
      * @Version 1.0
      * @Description
      * @Date 17:02 2022/3/5
@@ -449,7 +449,7 @@ import java.util.Scanner;
  * @Version : 1.0
  * @Author : 村雨
  * @Email : 747731461@qq.com
- * @公众号 : 村雨遥
+ * @公众号 : benjamin
  * @Website : https://ez4jam1n.github.io
  * @Description :
  */
@@ -527,7 +527,7 @@ import java.util.Scanner;
  * @Version : 1.0
  * @Author : 村雨
  * @Email : 747731461@qq.com
- * @公众号 : 村雨遥
+ * @公众号 : benjamin
  * @Website : https://ez4jam1n.github.io
  * @Description :
  */
@@ -596,7 +596,7 @@ public class Main {
      *
      * @param
      * @return
-     * @Author 村雨遥
+     * @Author benjamin
      * @Version 1.0
      * @Description
      * @Date 18:05 2022/3/5
@@ -674,7 +674,7 @@ public void insertScore() {
      *
      * @param
      * @return
-     * @Author 村雨遥
+     * @Author benjamin
      * @Version 1.0
      * @Description
      * @Date 18:06 2022/3/5
@@ -725,7 +725,7 @@ public void queryScoreById() {
      *
      * @param
      * @return
-     * @Author 村雨遥
+     * @Author benjamin
      * @Version 1.0
      * @Description
      * @Date 18:26 2022/3/5
@@ -757,7 +757,7 @@ public void queryScores() {
      *
      * @param
      * @return
-     * @Author 村雨遥
+     * @Author benjamin
      * @Version 1.0
      * @Description
      * @Date 18:40 2022/3/5
@@ -824,7 +824,7 @@ public void update() {
      *
      * @param
      * @return
-     * @Author 村雨遥
+     * @Author benjamin
      * @Version 1.0
      * @Description
      * @Date 18:38 2022/3/5

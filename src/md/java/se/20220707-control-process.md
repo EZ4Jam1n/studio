@@ -8,9 +8,9 @@ order: 30
 icon: flow
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 原文：https://mp.weixin.qq.com/s/3WU5l37DpPkR6o7CnFiStA
 
@@ -134,7 +134,7 @@ public class Main {
         int num1 = 10;
         double num2 = 34.9;
         float num3 = 3.34f;
-        String name = "村雨遥";
+        String name = "benjamin";
 
         //        换行及不换行输出
         System.out.println("公众号：" + name);

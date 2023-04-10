@@ -8,9 +8,9 @@ category:
 date: 2022-01-05
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 > 吾生也有涯，而知也无涯。
 
@@ -103,7 +103,7 @@ import java.util.ArrayList;
 /**
  * Created with IntelliJ IDEA.
  *
- * @author : 村雨遥
+ * @author : benjamin
  * @version : 1.0
  * @project : springboot-swagger3-demo
  * @package : com.cunyu.springbootswagger3demo.config
@@ -111,7 +111,7 @@ import java.util.ArrayList;
  * @createTime : 2022/1/6 14:19
  * @email : 747731461@qq.com
  * @微信 : cunyu1024
- * @公众号 : 村雨遥
+ * @公众号 : benjamin
  * @网站 : https://ez4jam1n.github.io
  * @description :
  */
@@ -141,7 +141,7 @@ public class SwaggerConfig {
 
     private ApiInfo apiInfo() {
         /*作者信息*/
-        Contact contact = new Contact("村雨遥", "https://ez4jam1n.github.io", "747731461@qq.com");
+        Contact contact = new Contact("benjamin", "https://ez4jam1n.github.io", "747731461@qq.com");
         return new ApiInfo(
                 "Spring Boot 集成 Swagger3 测试",
                 "Spring Boot 集成 Swagger3 测试接口文档",
@@ -184,7 +184,7 @@ import lombok.NoArgsConstructor;
 /**
  * Created with IntelliJ IDEA.
  *
- * @author : 村雨遥
+ * @author : benjamin
  * @version : 1.0
  * @project : springboot-swagger3-demo
  * @package : com.cunyu.springbootswagger3demo.entity
@@ -192,7 +192,7 @@ import lombok.NoArgsConstructor;
  * @createTime : 2022/1/6 11:17
  * @email : 747731461@qq.com
  * @微信 : cunyu1024
- * @公众号 : 村雨遥
+ * @公众号 : benjamin
  * @网站 : https://ez4jam1n.github.io
  * @description :
  */
@@ -202,7 +202,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @ApiModel("用户实体类")
 public class User {
-    @ApiModelProperty(value = "姓名", required = true, example = "村雨遥")
+    @ApiModelProperty(value = "姓名", required = true, example = "benjamin")
     private String name;
 
     @ApiModelProperty(value = "年龄", required = true, example = "20")
@@ -229,7 +229,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * Created with IntelliJ IDEA.
  *
- * @author : 村雨遥
+ * @author : benjamin
  * @version : 1.0
  * @project : springboot-swagger3-demo
  * @package : com.cunyu.springbootswagger3demo.controller
@@ -237,7 +237,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @createTime : 2022/1/6 11:02
  * @email : 747731461@qq.com
  * @微信 : cunyu1024
- * @公众号 : 村雨遥
+ * @公众号 : benjamin
  * @网站 : https://ez4jam1n.github.io
  * @description :
  */
@@ -249,7 +249,7 @@ public class UserController {
 
     @ApiOperation("测试接口1")
     @PostMapping("/show1")
-    public String show1(@ApiParam(value = "姓名", required = true, example = "村雨遥") @RequestBody String name) {
+    public String show1(@ApiParam(value = "姓名", required = true, example = "benjamin") @RequestBody String name) {
         return "hello," + name + ",welcome to springboot swagger3！";
     }
 
@@ -284,7 +284,7 @@ public class UserController {
 ```java
 @ApiOperation(value = "有参接口")
 @PostMapping("demo")
-public String demo(@ApiParam(value = "姓名", required = true, example = "村雨遥") @RequestBody String name) {
+public String demo(@ApiParam(value = "姓名", required = true, example = "benjamin") @RequestBody String name) {
     return "hello," + name;
 }
 ```
@@ -294,7 +294,7 @@ public String demo(@ApiParam(value = "姓名", required = true, example = "村�
 ```java
 @ApiOperation("测试接口1")
 @PostMapping("/show1")
-public String show1(@ApiParam(value = "姓名", required = true, example = "村雨遥") @RequestBody String name) {
+public String show1(@ApiParam(value = "姓名", required = true, example = "benjamin") @RequestBody String name) {
     return "hello," + name + ",welcome to springboot swagger3！";
 }
 ```

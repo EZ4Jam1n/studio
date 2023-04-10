@@ -8,9 +8,9 @@ date: 2022-07-21
 order: 76
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 > 吾生也有涯，而知也无涯。
 
@@ -67,7 +67,7 @@ public class OverrideTest {
 
     public static void main(String[] args) {
         Integer id = 101;
-        String name = "村雨遥";
+        String name = "benjamin";
         OverrideTest overrideTest = new OverrideTest(id, name);
 
         System.out.println(overrideTest);
@@ -91,7 +91,7 @@ package com.cunyu;
  * @version : 1.0
  * @email : 747731461@qq.com
  * @website : https://ez4jam1n.github.io
- * @公众号 : 村雨遥
+ * @公众号 : benjamin
  * @date : 2021/6/20 10:07
  * @project : JavaWeb
  * @package : com.cunyu
@@ -147,7 +147,7 @@ import java.util.List;
  * @version : 1.0
  * @email : 747731461@qq.com
  * @website : https://ez4jam1n.github.io
- * @公众号 : 村雨遥
+ * @公众号 : benjamin
  * @date : 2021/6/20 10:07
  * @project : JavaWeb
  * @package : com.cunyu
@@ -158,7 +158,7 @@ import java.util.List;
 public class SuppressWarningsTest {
     @SuppressWarnings("unchecked")
     public static void main(String[] args) {
-        String item = "村雨遥";
+        String item = "benjamin";
         @SuppressWarnings("rawtypes")
         List items = new ArrayList();
         items.add(item);
@@ -187,7 +187,7 @@ public @interface AnnotationName{
 
 ```java
 public @interface AnnoDemo{
-    String name() default "村雨遥";
+    String name() default "benjamin";
     int age() default 20;
     float score() default 60.0f;
 }
@@ -213,7 +213,7 @@ public interface AnnotationName extends java.lang.annotation.Annotation{}
 
 ```java
 public @interface AnnoDemo{
-    String name() default "村雨遥";
+    String name() default "benjamin";
     int age() default 20;
     float score() default 60.0f;
 }
@@ -222,7 +222,7 @@ public @interface AnnoDemo{
 如上述例子中，`name()`、`age()`、`score()` 就是我们自定义注解的参数。而当我们要是用该注解时，则通过如下方式来对参数进行赋值。
 
 ```java
-@AnnoDemo(name = "村雨遥", age = 26, score = 95.0f)
+@AnnoDemo(name = "benjamin", age = 26, score = 95.0f)
 public class Demo{
     ……
 }
@@ -251,7 +251,7 @@ public class Demo{
 ```java
 @Target(ElementType.TYPE)
 public @interface AnnoDemo{
-    String name() default "村雨遥";
+    String name() default "benjamin";
     int age() default 20;
     float score() default 60.0f;
 }
@@ -271,7 +271,7 @@ public @interface AnnoDemo{
 @Target(ElementType.TYPE)
 @Retention(RetentionPoicy.RUNTIME)
 public @interface AnnoDemo{
-    String name() default "村雨遥";
+    String name() default "benjamin";
     int age() default 20;
     float score() default 60.0f;
 }
@@ -286,7 +286,7 @@ public @interface AnnoDemo{
 @Retention(RetentionPoicy.RUNTIME)
 @Documented
 public @interface AnnoDemo{
-    String name() default "村雨遥";
+    String name() default "benjamin";
     int age() default 20;
     float score() default 60.0f;
 }
@@ -299,7 +299,7 @@ public @interface AnnoDemo{
 ```java
 @Inherited
 public @interface AnnoDemo{
-    String name() default "村雨遥";
+    String name() default "benjamin";
     int age() default 20;
     float score() default 60.0f;
 }
@@ -313,7 +313,7 @@ public @interface AnnoDemo{
 @Target(ElementType.TYPE)
 @Repeatable(AnnoDemos.class)
 public @interface AnnoDemo{
-    String name() default "村雨遥";
+    String name() default "benjamin";
     int age() default 20;
     float score() default 60.0f;
 }
@@ -326,7 +326,7 @@ public @interface AnnoDemos{
 利用 `@Repeatable` 配置自定义注解之后，我们就可以在某个类型声明处添加多个我们自定义的注解了。
 
 ```java
-@AnnoDemo(name = "村雨遥", age = 26, score = 88.0f)
+@AnnoDemo(name = "benjamin", age = 26, score = 88.0f)
 @AnnoDemo(name = "晓瑜", age = 27, score = 90.0f)
 public class Student{
     ……
@@ -348,7 +348,7 @@ public @interface AnnoDemo{
 
 ```java
 public @interface AnnoDemo{
-    String name() default "村雨遥";
+    String name() default "benjamin";
     int age() default 20;
     float score() default 60.0f;
 }
@@ -360,7 +360,7 @@ public @interface AnnoDemo{
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)
 public @interface AnnoDemo{
-    String name() default "村雨遥";
+    String name() default "benjamin";
     int age() default 20;
     float score() default 60.0f;
 }

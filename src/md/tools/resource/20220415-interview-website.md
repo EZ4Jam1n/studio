@@ -9,9 +9,9 @@ category:
 date: 2022-04-15
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 > 吾生也有涯，而知也无涯。
 

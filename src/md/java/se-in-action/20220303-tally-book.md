@@ -8,9 +8,9 @@ category:
     - Java 基础实战
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 > 吾生也有涯，而知也无涯。
 
@@ -73,7 +73,7 @@ import java.util.Scanner;
  * @className : MainApp
  * @createTime : 2021/8/1 7:22
  * @email : 747731461@qq.com
- * @公众号 : 村雨遥
+ * @公众号 : benjamin
  * @website : https://ez4jam1n.github.io
  * @description :
  */

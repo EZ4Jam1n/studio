@@ -8,9 +8,9 @@ category:
     - MyBatis 教程
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 > 吾生也有涯，而知也无涯。
 
@@ -43,7 +43,7 @@ CREATE TABLE user (
 3.  向数据库中插入数据
 
 ```sql
-INSERT INTO user (id, name, password) VALUES (1, '村雨遥', '123456'),(2, '张三', '1234567'),(3, '李四', '12345678');
+INSERT INTO user (id, name, password) VALUES (1, 'benjamin', '123456'),(2, '张三', '1234567'),(3, '李四', '12345678');
 ```
 
 ## 创建 Maven 工程
@@ -129,7 +129,7 @@ import java.io.InputStream;
  * @Version : 1.0
  * @Author : 村雨
  * @Email : 747731461@qq.com
- * @公众号 : 村雨遥
+ * @公众号 : benjamin
  * @Website : https://ez4jam1n.github.io
  * @Description : MyBatis 工具类
  */
@@ -147,7 +147,7 @@ public class MybatisUtil {
     }
 
     /**
-     * @Author 村雨遥
+     * @Author benjamin
      * @Version 1.0
      * @Description
      * @Date 22:21 2022/2/26
@@ -172,13 +172,13 @@ import lombok.NoArgsConstructor;
 /**
  * Created with IntelliJ IDEA.
  *
- * @Author : 村雨遥
+ * @Author : benjamin
  * @Version : 1.0
  * @Package : com.cunyu.entity
  * @ClassName : User.java
  * @CreateTime : 2022/2/26 18:09
  * @Email : 747731461@qq.com
- * @公众号 : 村雨遥
+ * @公众号 : benjamin
  * @Website : https://ez4jam1n.github.io
  * @Description :
  */
@@ -201,7 +201,7 @@ public class User {
 /**
      * @param user
      * @return
-     * @Author 村雨遥
+     * @Author benjamin
      * @Version 1.0
      * @Description
      * @Date 21:50 2022/2/26
@@ -245,7 +245,7 @@ import org.junit.Test;
  * @Version : 1.0
  * @Author : 村雨
  * @Email : 747731461@qq.com
- * @公众号 : 村雨遥
+ * @公众号 : benjamin
  * @Website : https://ez4jam1n.github.io
  * @Description :
  */
@@ -281,7 +281,7 @@ public class InsertTest {
 /**
      * @param
      * @return 对应 id 的用户
-     * @Author 村雨遥
+     * @Author benjamin
      * @Version 1.0
      * @Description
      * @Date 22:42 2022/2/26
@@ -322,7 +322,7 @@ import org.junit.Test;
  * @Version : 1.0
  * @Author : 村雨
  * @Email : 747731461@qq.com
- * @公众号 : 村雨遥
+ * @公众号 : benjamin
  * @Website : https://ez4jam1n.github.io
  * @Description :
  */
@@ -354,7 +354,7 @@ public class QueryTest {
 /**
      * @param
      * @return
-     * @Author 村雨遥
+     * @Author benjamin
      * @Version 1.0
      * @Description
      * @Date 22:52 2022/2/26
@@ -393,7 +393,7 @@ import org.junit.Test;
  * @Version : 1.0
  * @Author : 村雨
  * @Email : 747731461@qq.com
- * @公众号 : 村雨遥
+ * @公众号 : benjamin
  * @Website : https://ez4jam1n.github.io
  * @Description :
  */
@@ -428,7 +428,7 @@ public class UpdateTest {
 /**
      * @param id 用户 id
      * @return
-     * @Author 村雨遥
+     * @Author benjamin
      * @Version 1.0
      * @Description
      * @Date 22:53 2022/2/26
@@ -465,7 +465,7 @@ import org.junit.Test;
  * @Version : 1.0
  * @Author : 村雨
  * @Email : 747731461@qq.com
- * @公众号 : 村雨遥
+ * @公众号 : benjamin
  * @Website : https://ez4jam1n.github.io
  * @Description :
  */

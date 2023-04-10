@@ -8,9 +8,9 @@ category:
     - 效率提升
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 > 吾生也有涯，而知也无涯。
 
@@ -82,7 +82,7 @@ Markdown 格式是一种可用普通文本编辑器编写的标记语言，使�
 内容前后分别用两个 `*` 将其括起来，即 `** + 内容 + **`，具体格式如下：
 
 ```markdown
-**公众号：村雨遥**
+**公众号：benjamin**
 ```
 
 ![加粗](./assets/20220421-markdown-in-10min/bold.png)
@@ -92,7 +92,7 @@ Markdown 格式是一种可用普通文本编辑器编写的标记语言，使�
 和加粗很类似，不过只需要将内容前后分别用一个 `*` 包围起来即可，即 `* + 内容 + *`，具体格式如下：
 
 ```markdown
-_公众号：村雨遥_
+_公众号：benjamin_
 ```
 
 ![斜体](./assets/20220421-markdown-in-10min/italic.png)
@@ -102,7 +102,7 @@ _公众号：村雨遥_
 要给内容加上删除线的效果，只需要在内容前后分别用两个 `~` 将其包围即可，即 `~~ + 内容 + ~~`，具体格式如下：
 
 ```markdown
-~~ 公众号：村雨遥 ~~
+~~ 公众号：benjamin ~~
 ```
 
 ![删除线](./assets/20220421-markdown-in-10min/del-line.png)
@@ -112,7 +112,7 @@ _公众号：村雨遥_
 要实现下划线的效果，可以借助 HTML 语法 `<u> + 内容 + </u>`，具体格式如下：
 
 ```markdown
-<u>公众号：村雨遥</u>
+<u>公众号：benjamin</u>
 ```
 
 ![下划线](./assets/20220421-markdown-in-10min/under-line.png)
@@ -122,7 +122,7 @@ _公众号：村雨遥_
 如果要将不同内容之间插入一条分割线，可以使用 `---` 单独占一行来实现，具体格式如下：
 
 ```markdown
-公众号：村雨遥
+公众号：benjamin
 
 ---
 
@@ -171,7 +171,7 @@ _公众号：村雨遥_
 高亮语法在有的 Markdown 标准中可能不支持，但在这里也给出其用法，即 `== + 内容 + ==`，具体格式如下：
 
 ```markdown
-==公众号：村雨遥==
+==公众号：benjamin==
 ```
 
 ![高亮](./assets/20220421-markdown-in-10min/hightlight.png)
@@ -186,7 +186,7 @@ _公众号：村雨遥_
 ```markdown
 1. 未完成任务
 
-   - [ ] 公众号：村雨遥
+   - [ ] 公众号：benjamin
    - [ ] 个人博客：https://ez4jam1n.github.io
 
 2. 已完成任务
@@ -214,7 +214,7 @@ Markdown 中的表格也很方便，我们可以用 `:` 来调整表格对齐的
 1. 左对齐
    | 平台     | 链接                                  |
    | :------- | :------------------------------------ |
-   | 公众号   | 村雨遥                                |
+   | 公众号   | benjamin                              |
    | 个人博客 | https://ez4jam1n.github.io            |
    | 知乎     | https://www.zhihu.com/people/ez4jam1n |
 
@@ -222,14 +222,14 @@ Markdown 中的表格也很方便，我们可以用 `:` 来调整表格对齐的
 
 |   平台   |                 链接                  |
 | :------: | :-----------------------------------: |
-|  公众号  |                村雨遥                 |
+|  公众号  |               benjamin                |
 | 个人博客 |      https://ez4jam1n.github.io       |
 |   知乎   | https://www.zhihu.com/people/ez4jam1n |
 
 3. 右对齐
    |     平台 |                                  链接 |
    | -------: | ------------------------------------: |
-   |   公众号 |                                村雨遥 |
+   |   公众号 |                              benjamin |
    | 个人博客 |            https://ez4jam1n.github.io |
    |     知乎 | https://www.zhihu.com/people/ez4jam1n |
 ```
@@ -273,11 +273,11 @@ Markdown 支持 LaTeX 语法，可以实现行间公式和独立公式块，公�
 ```markdown
 1. 链接
 
-[村雨遥的杂货铺](https://ez4jam1n.site)
+[benjamin的杂货铺](https://ez4jam1n.site)
 
 2. 图片
 
-![村雨遥的杂货铺](https://cdn.jsdelivr.net/gh/ez4jam1n/image-hosting-for-blog/blog/image-blogzhuye.png)
+![benjamin的杂货铺](https://cdn.jsdelivr.net/gh/ez4jam1n/image-hosting-for-blog/blog/image-blogzhuye.png)
 ```
 
 ![](./assets/20220421-markdown-in-10min/link.png)

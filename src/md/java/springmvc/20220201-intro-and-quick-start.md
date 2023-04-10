@@ -7,9 +7,9 @@ category:
     - Spring MVC 指南
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 > 吾生也有涯，而知也无涯。
 
@@ -223,7 +223,7 @@ public class HelloController {
     // 浏览器访问 ip:port/项目名/hello
     @GetMapping("/hello")
     public String sayHello(Model model) {
-        String name = "村雨遥";
+        String name = "benjamin";
         model.addAttribute("name", name);
         // 访问 /WEB-INF/jsp/hello.jsp
         return "hello";
@@ -244,7 +244,7 @@ public class HelloController {
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>村雨遥的博客</title>
+    <title>benjamin的博客</title>
 </head>
 <body>
 你好，${name}，欢迎来到我的博客！

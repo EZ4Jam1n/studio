@@ -8,9 +8,9 @@ category:
 date: 2022-10-03
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 > 吾生也有涯，而知也无涯。
 
@@ -97,7 +97,7 @@ axios.get(url?key=value&key2=value2).then(function(response){}, function(err){})
 		<script>
 			const btn = document.querySelector("button");
 			btn.onclick = function() {
-				axios.get("https://www.baidu.com/s?wd=村雨遥").then(response => {
+				axios.get("https://www.baidu.com/s?wd=benjamin").then(response => {
 					console.log(response)
 				});
 			}
@@ -133,7 +133,7 @@ axios.post(url, {key=value, key2=value2}).then(function(response){}, function(er
 		</div>
 		<script>
             data: {
-                wd: "村雨遥"
+                wd: "benjamin"
             }
 			const btn = document.querySelector("button");
 			btn.onclick = function() {
@@ -173,7 +173,7 @@ axios.put(url, {key=value, key2=value2}).then(function(response){}, function(err
 		</div>
 		<script>
 			data: {
-				name: "村雨遥",
+				name: "benjamin",
 				id: "ez4jam1n"
 			}
 			const btn = document.querySelector("button");
@@ -215,7 +215,7 @@ axios.delete(url?key=value&key2=value2).then(function(response){}, function(err)
 		<script>
 			const btn = document.querySelector("button");
 			btn.onclick = function() {
-				axios.delete("https://www.baidu.com/s?wd=村雨遥").then(response => {
+				axios.delete("https://www.baidu.com/s?wd=benjamin").then(response => {
 					console.log(response)
 				});
 			}

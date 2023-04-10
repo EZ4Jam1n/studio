@@ -8,9 +8,9 @@ category:
     - Java 基础教程
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 原文：https://mp.weixin.qq.com/s/I8UJKtTtdqcbbxcTx_dVzg
 
@@ -452,7 +452,7 @@ import java.util.Arrays;
 public class EncodeAndDecode {
     public static void main(String[] args) throws UnsupportedEncodingException {
 //        编码
-        String str = "村雨遥";
+        String str = "benjamin";
         byte[] bytes1 = str.getBytes();
         byte[] bytes2 = str.getBytes("UTF-8");
         byte[] bytes3 = str.getBytes("GBK");
@@ -506,7 +506,7 @@ public class TestWriter {
     public static void main(String[] args) {
         File file = new File("D:/PersonalFiles/github/githubCodes/IDEA/TheWay2Java/IOStream/data/2.txt");
         try (BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(file))) {
-            bufferedWriter.write("公众号：村雨遥");
+            bufferedWriter.write("公众号：benjamin");
             bufferedWriter.newLine();
             bufferedWriter.write("Blog：https://ez4jam1n.site");
             bufferedWriter.newLine();

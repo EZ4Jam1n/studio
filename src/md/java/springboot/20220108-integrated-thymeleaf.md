@@ -8,9 +8,9 @@ category:
 date: 2022-01-08
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 > 吾生也有涯，而知也无涯。
 
@@ -138,7 +138,7 @@ public class UserController {
         modelAndView.addObject("title", "Thymeleaf 使用");
         modelAndView.addObject("desc", "Spring Boot 整合 Thymeleaf");
 
-        User author = new User(25, "村雨遥", "747731461@qq.com");
+        User author = new User(25, "benjamin", "747731461@qq.com");
 
         modelAndView.addObject("author", author);
         return modelAndView;

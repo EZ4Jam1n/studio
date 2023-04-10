@@ -8,9 +8,9 @@ category:
 date: 2022-11-26
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 原文：https://mp.weixin.qq.com/s/LAZY7sMiwzNwimTpmlh0rw
 

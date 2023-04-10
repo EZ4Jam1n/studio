@@ -1,8 +1,8 @@
 # 📖 studio | Java 自学指南
 
-> 你好，我是村雨遥。一个从事 `Java` 的工程师。
+> 你好，我是benjamin。一个从事 `Java` 的工程师。
 
-- 👉 推荐 [Github 在线阅读](https://ez4jam1n.github.io/studio) | [Gitee 在线阅读](https://ez4jam1n.gitee.io/studio)，`Github` 访问较慢，所以部分资源可能会加载较慢。
+- 👉 推荐 [Github 在线阅读](https://benjam1n.eu.org) | [Gitee 在线阅读](https://ez4jam1n.gitee.io/studio)，`Github` 访问较慢，所以部分资源可能会加载较慢。
 
 - 👉 项目同步维护：[Github](https://github.com/ez4jam1n/studio) | [Gitee](https://gitee.com/ez4jam1n/studio)
 
@@ -21,10 +21,10 @@
   - [🔖 目录](#-目录)
   - [简介](#简介)
   - [Java](#java)
-    - [Java 基础教程](#java-菜鸟入门)
-    - [Java 基础实战](#se-实训营)
+    - [Java 基础教程](#java-基础教程)
+    - [Java 基础实战](#java-基础实战)
     - [Java Web](#java-web)
-    - [Maven 教程](#maven-入门手册)
+    - [Maven 教程](#maven-教程)
     - [Spring](#spring)
     - [Spring MVC](#spring-mvc)
     - [MyBatis](#mybatis)
@@ -52,8 +52,9 @@
     - [软件设计师](#软件设计师)
   - [与我联系](#与我联系)
     - [加群交流](#加群交流)
-    - [公众号『村雨遥』](#公众号村雨遥)
+    - [公众号『benjamin』](#公众号benjamin)
   - [转载分享](#转载分享)
+  - [赞助](#赞助)
   - [Star 趋势图](#star-趋势图)
 
 ## 简介
@@ -267,12 +268,12 @@
 
 ### 加群交流
 
-建群的目的是希望给大家提供一个良好的技术学习交流平台，由于微信群人满 `100` 之后无法加入，请扫描下方二维码先添加作者 “村雨遥” 微信(`cunyu1024`)，备注：**加群**。
+建群的目的是希望给大家提供一个良好的技术学习交流平台，由于微信群人满 `100` 之后无法加入，请扫描下方二维码先添加作者 “benjamin” 微信(`cunyu1024`)，备注：**加群**。
 
 <center><img src="./src/.vuepress/public/personal/wechat.png" width="150"></center>
 
 
-### 公众号『村雨遥』
+### 公众号『benjamin』
 
 公众号佛系更新，最新的内容会优先发布到这里，防止失联，建议关注。
 
@@ -285,9 +286,9 @@
 建立本仓库的初衷是记录自己的学习和工作中所的所学、所思、所想，也希望能给遇到相同问题的小伙伴提供一点点帮助。如果您需要对仓库中的一些文章进行转载分享，请按照以下格式注明出处，感谢合作。
 
 ```
-作者：村雨遥
-链接：https://ez4jam1n.github.io/studio
-来源：公众号「村雨遥」
+作者：benjam1n
+链接：https://benjam1n.eu.org
+来源：公众号「字节工作室」
 ````
 ## 赞助
 

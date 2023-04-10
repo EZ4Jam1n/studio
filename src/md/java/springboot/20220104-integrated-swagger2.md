@@ -8,9 +8,9 @@ category:
 date: 2022-01-04
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 > 吾生也有涯，而知也无涯。
 
@@ -103,7 +103,7 @@ import java.util.ArrayList;
 /**
  * Created with IntelliJ IDEA.
  *
- * @author : 村雨遥
+ * @author : benjamin
  * @version : 1.0
  * @project : springboot-swagger-demo
  * @package : com.cunyu.springbootswaggerdemo.config
@@ -111,7 +111,7 @@ import java.util.ArrayList;
  * @createTime : 2022/1/5 22:21
  * @email : 747731461@qq.com
  * @微信 : cunyu1024
- * @公众号 : 村雨遥
+ * @公众号 : benjamin
  * @网站 : https://ez4jam1n.github.io
  * @description :
  */
@@ -141,7 +141,7 @@ public class Swagger2Configuration {
 
     private ApiInfo apiInfo() {
         /*作者信息*/
-        Contact contact = new Contact("村雨遥", "https://ez4jam1n.github.io", "747731461@qq.com");
+        Contact contact = new Contact("benjamin", "https://ez4jam1n.github.io", "747731461@qq.com");
         return new ApiInfo(
                 "Swagger 测试接口文档",
                 "Spring Boot 集成 Swagger 测试接口文档",
@@ -173,7 +173,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * Created with IntelliJ IDEA.
  *
- * @author : 村雨遥
+ * @author : benjamin
  * @version : 1.0
  * @project : springboot-swagger-demo
  * @package : com.cunyu.springbootswaggerdemo.controller
@@ -181,7 +181,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @createTime : 2022/1/5 22:21
  * @email : 747731461@qq.com
  * @微信 : cunyu1024
- * @公众号 : 村雨遥
+ * @公众号 : benjamin
  * @网站 : https://ez4jam1n.github.io
  * @description :
  */
@@ -197,7 +197,7 @@ public class SwaggerDemoController {
 
     @ApiOperation(value = "有参接口")
     @PostMapping("demo")
-    public String demo(@ApiParam(name = "name", value = "村雨遥", required = true) String name) {
+    public String demo(@ApiParam(name = "name", value = "benjamin", required = true) String name) {
         return "hello," + name;
     }
 }
@@ -226,7 +226,7 @@ public class SwaggerDemoController {
 
 ![](./assets/20220104-integrated-swagger2/execute.png)
 
-以我给的接口为例，我传入了一个参数 `name`，然后执行 `demo` 接口，最后会给我返回 `hello,name` 的结果，其中 `name` 是我传入的参数值，这里我传入了村雨遥，所以结果应该会得到 `hello,村雨遥`，可以看到 Swagger 测试中也给我返回了对应的结果，说明我们的接口测试成功！
+以我给的接口为例，我传入了一个参数 `name`，然后执行 `demo` 接口，最后会给我返回 `hello,name` 的结果，其中 `name` 是我传入的参数值，这里我传入了benjamin，所以结果应该会得到 `hello,benjamin`，可以看到 Swagger 测试中也给我返回了对应的结果，说明我们的接口测试成功！
 
 ![](./assets/20220104-integrated-swagger2/post.png)
 

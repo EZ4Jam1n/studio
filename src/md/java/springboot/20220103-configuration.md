@@ -8,9 +8,9 @@ category:
 date: 2022-01-03
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 > 吾生也有涯，而知也无涯。
 
@@ -36,7 +36,7 @@ date: 2022-01-03
 
 ```properties
 cunyu.id=1024
-cunyu.name=村雨遥
+cunyu.name=benjamin
 cunyu.website=https://ez4jam1n.github.io
 ```
 
@@ -157,7 +157,7 @@ spring.profiles.active={profile}
 
 ```properties
 my.id=1024
-my.name=村雨遥
+my.name=benjamin
 my.website=https://ez4jam1n.github.io
 ```
 

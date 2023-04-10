@@ -8,9 +8,9 @@ icon: variable
 order: 15
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 原文：https://mp.weixin.qq.com/s/Yz41IdWSNTgqgj0R-Ffgqw
 
@@ -50,14 +50,14 @@ order: 15
 // 基本类型的变量
 int id = 1;
 // 引用类型的变量
-String name = "村雨遥";
+String name = "benjamin";
 ```
 
 其中 `int` 是基本数据类型，表示这是一个整型数；而 `String` 则是引用类型，表示这是一个引用类型；
 
 `id` 和 `name` 则是标识符，也就是我们所说的 **变量**；
 
-`=` 则是赋值操作符，而 `1` 则是基本类型的值，`村雨遥` 则是引用类型的值；
+`=` 则是赋值操作符，而 `1` 则是基本类型的值，`benjamin` 则是引用类型的值；
 
 ### 变量的特点
 
@@ -389,7 +389,7 @@ public class Person {
     int age;
 
     // 成员变量，静态变量
-    public static final String wechatPublic = "公众号：村雨遥";
+    public static final String wechatPublic = "公众号：benjamin";
     // 成员变量，静态变量
     public static final String website = "http://ez4jam1n.site";
 }

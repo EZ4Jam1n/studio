@@ -62,7 +62,7 @@ HTML 文档中的根标签，包含了整个页面的所有内容，其他所有
 <!DOCTYPE html>
 <html>
     <body>
-		公众号：村雨遥
+		公众号：benjamin
 	</body>
 </html>
 ```
@@ -143,7 +143,7 @@ HTML 文档中的根标签，包含了整个页面的所有内容，其他所有
 <html>
     <body>
 		公众号</br>
-		村雨遥
+		benjamin
 	</body>
 </html>
 ```
@@ -201,7 +201,7 @@ HTML 文档中的根标签，包含了整个页面的所有内容，其他所有
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 	</head>
 	<body>
-		<a href="https://ez4jam1n.github.io/studio">studio(Java 自学指南)</a>
+		<a href="https://benjam1n.eu.org">studio(Java 自学指南)</a>
 	</body>
 </html>
 ```

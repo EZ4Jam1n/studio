@@ -8,9 +8,9 @@ category:
 date: 2022-10-04
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 > 吾生也有涯，而知也无涯。
 
@@ -51,7 +51,7 @@ npm --version
 
 如何还是不太清楚，那么可以参考我之前的一篇文章：
 
-> [Windows 教程：Node.js 安装教程](https://ez4jam1n.github.io/studio/md/tools/windows/20220414-nodejs-install)
+> [Windows 教程：Node.js 安装教程](https://benjam1n.eu.org/md/tools/windows/20220414-nodejs-install)
 
 初始工作做好之后，我们就可以开始搭建我们的第一个 `Vite` 项目了。
 

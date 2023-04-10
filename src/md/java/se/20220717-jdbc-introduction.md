@@ -8,9 +8,9 @@ category:
     - Java 基础教程
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 原文：https://mp.weixin.qq.com/s/DOXFxk5dk9WBfAVK0UJUng
 
@@ -389,7 +389,7 @@ public class UpdateTest {
         String updateString = "UPDATE students SET name = ? WHERE id = ?";
         try (Connection connection = DriverManager.getConnection(url, username, password); PreparedStatement preparedStatement = connection.prepareStatement(updateString);) {
             System.out.println("连接成功");
-            preparedStatement.setString(1, "村雨遥");
+            preparedStatement.setString(1, "benjamin");
             preparedStatement.setLong(2, 201);
             preparedStatement.executeUpdate();
             System.out.println("更新成功");
@@ -400,7 +400,7 @@ public class UpdateTest {
 }
 ```
 
-修改数据后，接着查询数据，得到如下结果，可以看到 `id = 201` 对应的数据列中，`name` 从小黄变成了村雨遥，说明数据更新成功。
+修改数据后，接着查询数据，得到如下结果，可以看到 `id = 201` 对应的数据列中，`name` 从小黄变成了benjamin，说明数据更新成功。
 
 ![](./assets/20220717-jdbc-introduction/update-qry.png)
 
@@ -444,7 +444,7 @@ public class QueryTest {
         String queryString = "INSET INTO students VALUES(null,?,……)";
         try (Connection connection = DriverManager.getConnection(url, username, password); PreparedStatement preparedStatement = connection.prepareStatement(queryString, Statement.RETURN_GENERATED_KEYS); ResultSet resultSet = preparedStatement.getGeneratedKeys();) {
             System.out.println("连接成功");
-            preparedStatement.setString(1, "村雨遥");
+            preparedStatement.setString(1, "benjamin");
             ……
             preparedStatement.executeUpdate();
             System.out.println("查询到的信息如下：");
@@ -916,7 +916,7 @@ public class DruidTest {
 
 今天的内容到此就结束了，老规矩，点赞关注走一波 🧐。
 
-对于文中有错或遗漏的地方，还烦请各位大佬在评论区指出来。我是村雨遥，一个技术栈主要为 Java 的菜鸟程序员，关注我，一起学习成长吧！
+对于文中有错或遗漏的地方，还烦请各位大佬在评论区指出来。我是benjamin，一个技术栈主要为 Java 的菜鸟程序员，关注我，一起学习成长吧！
 
 **关注公众号，获取最新文章更新**
 

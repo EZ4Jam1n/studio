@@ -8,9 +8,9 @@ category:
     - Java 基础教程
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 原文：https://mp.weixin.qq.com/s/f0sJpAhgI6B7oirsJfv9jQ
 
@@ -397,7 +397,7 @@ public class Demo3 {
         System.out.println(person1);
 
         System.out.println("带参创建对象");
-        Object object = constructor2.newInstance(20, "村雨遥", 1312020, 3, 99.0F, 2);
+        Object object = constructor2.newInstance(20, "benjamin", 1312020, 3, 99.0F, 2);
         System.out.println(object);
     }
 }
@@ -463,7 +463,7 @@ public class Demo4 {
         System.out.println(getAgeMethod);
 
 //        执行方法
-        Person person = new Person(20, "村雨遥", 1312020, 3, 99.0F, 2);
+        Person person = new Person(20, "benjamin", 1312020, 3, 99.0F, 2);
         int age = (int) getAgeMethod.invoke(person);
         System.out.println(age);
 

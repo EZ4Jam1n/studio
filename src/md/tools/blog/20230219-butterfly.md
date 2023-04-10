@@ -120,8 +120,8 @@ type: "link"
   class_desc: 我在其他平台的身影
   link_list:
     - name: studio
-      link: https://ez4jam1n.github.io/studio
-      avatar: https://ez4jam1n.github.io/studio/JavaPark.svg
+      link: https://benjam1n.eu.org
+      avatar: https://benjam1n.eu.org/JavaPark.svg
       descr: Java 自学指南
 ```
 
@@ -530,7 +530,7 @@ title: studio
 subtitle: 'studio 自学指南'
 description: '「Java 自学指南」Java 学习保姆级教程、面试总结、计算机基础、数据库、实战实践、效率工具、资源分享、程序人生'
 keywords: 'Java、Spring、Spring Boot、Spring Cloud、面试、效率工具、教程'
-author: 村雨遥
+author: benjamin
 language: zh-CN
 timezone: 'Asia/Shanghai'
 ```

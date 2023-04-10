@@ -9,9 +9,9 @@ category:
 date: 2022-06-01
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 > 吾生也有涯，而知也无涯。
 
@@ -138,7 +138,7 @@ D:\个人文件\代码\IDEA\JAVAWEB-IDEA-DEMO
         <title>主页</title>
     </head>
     <body>
-        <p>你好，我是村雨遥</p>
+        <p>你好，我是benjamin</p>
     </body>
 </html>
 ```

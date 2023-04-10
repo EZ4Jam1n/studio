@@ -14,7 +14,7 @@ export default hopeTheme({
   hostname: "https://ez4jam1n.site",
 
   author: {
-    name: "村雨遥",
+    name: "benjamin",
     url: "https://ez4jam1n.site/studio",
     email: "747731461@qq.com",
   },
@@ -60,9 +60,9 @@ export default hopeTheme({
     blog: true,
 
     copyright: {
-      author: "村雨遥",
+      author: "benjamin",
       license:
-        "转载请注明以下信息：『作者：村雨遥，博客：https://ez4jam1n.site/studio』",
+        "转载请注明以下信息：『作者：benjamin，博客：https://ez4jam1n.site/studio』",
       global: true,
       triggerWords: 50,
     },
@@ -86,7 +86,7 @@ export default hopeTheme({
             path: "/",
             title: "🎉🎉🎉",
             content:
-              '<center>扫码加入<b><font color="green">studio 官方交流群</font></b></br>和大家一起成长！</br></br><img src="https://ez4jam1n.github.io/studio/personal/wechat.png" width="150"></center>',
+              '<center>扫码加入<b><font color="green">studio 官方交流群</font></b></br>和大家一起成长！</br></br><img src="https://benjam1n.eu.org/personal/wechat.png" width="150"></center>',
             actions: [
               {
                 text: "我已加入",

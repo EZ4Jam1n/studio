@@ -8,9 +8,9 @@ category:
     - 效率提升
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 > 吾生也有涯，而知也无涯。
 
@@ -21,9 +21,9 @@ category:
 ## 时序图（Sequence Diagrams）
 
 ```sequence
-村雨 -> 村雨遥: 你好, 村雨遥！
-Note right of 村雨遥: 思考！
-村雨遥 --> 村雨: 你好，村雨，很高兴与你合作！
+村雨 -> benjamin: 你好, benjamin！
+Note right of benjamin: 思考！
+benjamin --> 村雨: 你好，村雨，很高兴与你合作！
 ```
 
 ## 流程图（Flowcharts）

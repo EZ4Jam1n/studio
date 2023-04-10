@@ -8,9 +8,9 @@ category:
 date: 2022-04-24
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 > 吾生也有涯，而知也无涯。
 
@@ -18,7 +18,7 @@ date: 2022-04-24
 
 对于写博客的朋友们来讲，图床这个东西一定不会陌生，而且在一定程度上也给大家造成过一定困扰。
 
-上一篇文章中我们讲了如何 [利用 Github 搭建自己的免费图床](https://ez4jam1n.github.io/studio/efficiency/github-img-bed)，但有人反映 Github 访问有点慢，而且也不太稳定，所以就推荐用国内的 Gitee 来搭建，于是今天就带来新鲜热乎的基于 Gitee 所搭建的免费图床教程，也水一篇文章，希望对大家伙有所帮助。
+上一篇文章中我们讲了如何 [利用 Github 搭建自己的免费图床](https://benjam1n.eu.org/efficiency/github-img-bed)，但有人反映 Github 访问有点慢，而且也不太稳定，所以就推荐用国内的 Gitee 来搭建，于是今天就带来新鲜热乎的基于 Gitee 所搭建的免费图床教程，也水一篇文章，希望对大家伙有所帮助。
 
 ## 准备工作
 

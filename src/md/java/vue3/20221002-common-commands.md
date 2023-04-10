@@ -8,9 +8,9 @@ category:
 date: 2022-10-02
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 > 吾生也有涯，而知也无涯。
 
@@ -50,7 +50,7 @@ var app = new Vue({
 var app = new Vue({
     el: "#app",
     data: {
-        message: "公众号：村雨遥"
+        message: "公众号：benjamin"
     }
 })
 ```
@@ -209,7 +209,7 @@ var app = new Vue({
 var app = new Vue({
     el: "#app",
     data: {
-        message: "村雨遥"
+        message: "benjamin"
     }
 })
 ```

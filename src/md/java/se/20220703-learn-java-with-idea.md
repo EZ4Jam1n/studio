@@ -8,9 +8,9 @@ order: 10
 date: 2022-07-03
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 原文：https://mp.weixin.qq.com/s/Pkf1WTj-x6JH4Jo8mOr8SQ
 
@@ -183,4 +183,4 @@ Hello World!
 
 > 最后，针对更多 IntelliJ IDEA 的使用，我特地写了一篇文章，赶紧去看看吧！
 >
-> -> [传送门](https://ez4jam1n.github.io/studio/md/dev-tools/idea)
+> -> [传送门](https://benjam1n.eu.org/md/dev-tools/idea)

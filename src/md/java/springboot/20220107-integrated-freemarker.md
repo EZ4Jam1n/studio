@@ -9,9 +9,9 @@ date: 2022-01-07
 
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 > 吾生也有涯，而知也无涯。
 
@@ -103,7 +103,7 @@ import org.springframework.stereotype.Component;
  * @className : User
  * @createTime : 2021/11/30 21:55
  * @email : 747731461@qq.com
- * @公众号 : 村雨遥
+ * @公众号 : benjamin
  * @website : https://ez4jam1n.github.io
  * @description :
  */
@@ -141,7 +141,7 @@ import org.springframework.web.bind.annotation.GetMapping;
  * @className : UserController
  * @createTime : 2021/11/30 22:04
  * @email : 747731461@qq.com
- * @公众号 : 村雨遥
+ * @公众号 : benjamin
  * @website : https://ez4jam1n.github.io
  * @description :
  */
@@ -152,7 +152,7 @@ public class UserController {
         User user = new User();
         user.setAge(26);
         user.setEmail("747731461@qq.com");
-        user.setName("村雨遥");
+        user.setName("benjamin");
         model.addAttribute("user", user);
         return "index";
     }

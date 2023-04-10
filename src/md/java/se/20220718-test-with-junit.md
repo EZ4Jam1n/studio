@@ -8,9 +8,9 @@ category:
     - Java 基础教程
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 原文：https://mp.weixin.qq.com/s/_FWd0Bj3DlbCReex6pqJKQ
 
@@ -257,8 +257,8 @@ public class CalcTest {
 
     @Test
     public void test() {
-        String str1 = "村雨遥";
-        String str2 = "村雨遥";
+        String str1 = "benjamin";
+        String str2 = "benjamin";
         String str3 = "1943";
         String str4 = "1943";
         String str5 = null;

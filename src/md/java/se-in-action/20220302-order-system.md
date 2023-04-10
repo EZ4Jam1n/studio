@@ -8,9 +8,9 @@ category:
     - Java 基础实战
 ---
 
-作者：村雨遥
+作者：benjamin
 
-博客：[studio](https://ez4jam1n.github.io/studio)
+博客：[studio](https://benjam1n.eu.org)
 
 > 吾生也有涯，而知也无涯。
 
@@ -112,7 +112,7 @@ import java.util.Scanner;
  * @className : DishApp
  * @createTime : 2021/7/31 17:30
  * @email : 747731461@qq.com
- * @公众号 : 村雨遥
+ * @公众号 : benjamin
  * @website : https://ez4jam1n.github.io
  * @description : 系统主界面
  */
@@ -196,7 +196,7 @@ package com.cunyu;
  * @className : Dish
  * @createTime : 2021/7/31 17:27
  * @email : 747731461@qq.com
- * @公众号 : 村雨遥
+ * @公众号 : benjamin
  * @website : https://ez4jam1n.github.io
  * @description : 菜品类
  */
@@ -268,7 +268,7 @@ import java.util.List;
  * @className : DishInterface
  * @createTime : 2021/7/31 20:26
  * @email : 747731461@qq.com
- * @公众号 : 村雨遥
+ * @公众号 : benjamin
  * @website : https://ez4jam1n.github.io
  * @description :
  */
