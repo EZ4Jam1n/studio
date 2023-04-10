@@ -1,0 +1,1 @@
+import{_ as e,X as t,Y as r}from"./framework-dfc585d8.js";const _={};function c(a,n){return t(),r("div")}const l=e(_,[["render",c],["__file","20220306-muti-table-query.html.vue"]]);export{l as default};

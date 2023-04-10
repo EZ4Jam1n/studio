@@ -1,0 +1,1 @@
+import{_ as e,X as t,Y as a}from"./framework-dfc585d8.js";const n={};function r(_,c){return t(),a("div")}const s=e(n,[["render",r],["__file","20221113-data-representation.html.vue"]]);export{s as default};

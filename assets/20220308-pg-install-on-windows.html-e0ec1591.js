@@ -1,0 +1,1 @@
+import{_ as e,X as n,Y as t}from"./framework-dfc585d8.js";const o={};function s(_,c){return n(),t("div")}const r=e(o,[["render",s],["__file","20220308-pg-install-on-windows.html.vue"]]);export{r as default};
