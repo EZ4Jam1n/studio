@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://cunyu1943.site/JavaPark/rss.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://ez4jam1n.site/studio/rss.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="https://cunyu1943.site/JavaPark/rss.xml" rel="self" type="application/rss+xml"/>
-    <title>JavaPark</title>
-    <link>https://cunyu1943.site/JavaPark/</link>
+    <atom:link href="https://ez4jam1n.site/studio/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>studio</title>
+    <link>https://ez4jam1n.site/studio/</link>
     <description>Java 自学指南</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 09 Apr 2023 11:34:00 GMT</pubDate>
-    <lastBuildDate>Sun, 09 Apr 2023 11:34:00 GMT</lastBuildDate>
+    <pubDate>Mon, 10 Apr 2023 02:03:14 GMT</pubDate>
+    <lastBuildDate>Mon, 10 Apr 2023 02:03:14 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>开发工具</category>
@@ -32,14 +32,14 @@
     <category>HTML 教程</category>
     <item>
       <title>Git 使用手册</title>
-      <link>https://cunyu1943.site/JavaPark/md/dev-tools/git/20220209-git-guide.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/dev-tools/git/20220209-git-guide.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">Git 使用手册</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 什么是 Git 概述 Git 是一个分布式版本控制工具，而对应的，还有一种集中式版本控制工具，其中最为典型并被大家所熟知的产品就是 SVN. 其中，集中式版本控制工具的的核心是服务器，所有开发者在开始更新代码前，都必须从服务器中获取代码，然后各自开发，最后则是解决冲突。</description>
+      <link>https://ez4jam1n.site/studio/md/dev-tools/git/20220209-git-guide.html</link>
+      <guid>https://ez4jam1n.site/studio/md/dev-tools/git/20220209-git-guide.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">Git 使用手册</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 什么是 Git 概述 Git 是一个分布式版本控制工具，而对应的，还有一种集中式版本控制工具，其中最为典型并被大家所熟知的产品就是 SVN. 其中，集中式版本控制工具的的核心是服务器，所有开发者在开始更新代码前，都必须从服务器中获取代码，然后各自开发，最后则是解决冲突。</description>
       <category>开发工具</category>
       <pubDate>Wed, 09 Feb 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -234,17 +234,17 @@
     </item>
     <item>
       <title>Java 基础面试总结</title>
-      <link>https://cunyu1943.site/JavaPark/md/interview/20220801-java-basic.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/interview/20220801-java-basic.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">Java 基础面试总结</source>
-      <description>作者：村雨遥 博客：JavaPark 一个 Java 文件中是否可以存在多个类（修饰类除外）？ 一个 Java 文件中是可以存在多个类的，但是一个 Java 文件中只能存在一个 public 所修饰的类，而且这个 Java 文件的文件名还必须和 public 所修饰类的类名保持一致，一个简单的实例如下。</description>
+      <link>https://ez4jam1n.site/studio/md/interview/20220801-java-basic.html</link>
+      <guid>https://ez4jam1n.site/studio/md/interview/20220801-java-basic.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">Java 基础面试总结</source>
+      <description>作者：村雨遥 博客：studio 一个 Java 文件中是否可以存在多个类（修饰类除外）？ 一个 Java 文件中是可以存在多个类的，但是一个 Java 文件中只能存在一个 public 所修饰的类，而且这个 Java 文件的文件名还必须和 public 所修饰类的类名保持一致，一个简单的实例如下。</description>
       <category>面试宝典</category>
       <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
 <p>作者：村雨遥</p>
 </blockquote>
 <blockquote>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 </blockquote>
 <h2> 一个 Java 文件中是否可以存在多个类（修饰类除外）？</h2>
 <p>一个 Java 文件中是可以存在多个类的，但是一个 Java 文件中只能存在一个 <code>public</code> 所修饰的类，而且这个 Java 文件的文件名还必须和 <code>public</code> 所修饰类的类名保持一致，一个简单的实例如下。</p>
@@ -1267,14 +1267,14 @@
     </item>
     <item>
       <title>Java 容器面试总结</title>
-      <link>https://cunyu1943.site/JavaPark/md/interview/20220802-collection.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/interview/20220802-collection.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">Java 容器面试总结</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 Java 集合类简介 集合概览 Java 集合类主要都是从 Collection 和 Map 两个接口派生而成，其中 Collection 又包含 List、Set 和 Queue，如下图。Java 集合就像容器，能够将多个同类型的对象装进该容器中，所以又叫容器。其中各集合含义如下：</description>
+      <link>https://ez4jam1n.site/studio/md/interview/20220802-collection.html</link>
+      <guid>https://ez4jam1n.site/studio/md/interview/20220802-collection.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">Java 容器面试总结</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 Java 集合类简介 集合概览 Java 集合类主要都是从 Collection 和 Map 两个接口派生而成，其中 Collection 又包含 List、Set 和 Queue，如下图。Java 集合就像容器，能够将多个同类型的对象装进该容器中，所以又叫容器。其中各集合含义如下：</description>
       <category>面试宝典</category>
       <pubDate>Tue, 02 Aug 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -1828,7 +1828,7 @@
 </tbody>
 </table>
 <h3> HashMap</h3>
-<p>最基础常用的一种 <code>Map</code>，无序且以散列表的方式进行存储。<code>HashSet</code> 其实就是基于 <code>HashMap</code>，将其 <code>key</code> 作为单个元素进行存储。关于 <code>HashMap</code> 的更多知识，可以参看 <a href="/JavaPark/md/interview/20220803-hashmap.html" target="blank">HashMap 知多少</a>。</p>
+<p>最基础常用的一种 <code>Map</code>，无序且以散列表的方式进行存储。<code>HashSet</code> 其实就是基于 <code>HashMap</code>，将其 <code>key</code> 作为单个元素进行存储。关于 <code>HashMap</code> 的更多知识，可以参看 <a href="/studio/md/interview/20220803-hashmap.html" target="blank">HashMap 知多少</a>。</p>
 <h3> LinkedHashMap</h3>
 <p><code>HashMap</code> 的一个子类，和 <code>HashMap</code> 最大的区别在于 <code>LinkedHashMap</code> 遍历时是有序的，可以保存插入时的顺序，使用 <code>Iterator</code> 遍历时，先得到的记录肯定是先插入的，也可以在构造时带参数，按照访问次序排序，同时还可以设置根据最近访问的元素放在最前面（即 <code>LRU</code>）；</p>
 <h3> TreeMap（可排序）</h3>
@@ -1900,14 +1900,14 @@
     </item>
     <item>
       <title>HashMap 面试解惑</title>
-      <link>https://cunyu1943.site/JavaPark/md/interview/20220803-hashmap.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/interview/20220803-hashmap.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">HashMap 面试解惑</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 HashMap 简介 推荐阅读：https://zhuanlan.zhihu.com/p/31610616</description>
+      <link>https://ez4jam1n.site/studio/md/interview/20220803-hashmap.html</link>
+      <guid>https://ez4jam1n.site/studio/md/interview/20220803-hashmap.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">HashMap 面试解惑</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 HashMap 简介 推荐阅读：https://zhuanlan.zhihu.com/p/31610616</description>
       <category>面试宝典</category>
       <pubDate>Wed, 03 Aug 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -2039,14 +2039,14 @@
     </item>
     <item>
       <title>Java 异常面试总结</title>
-      <link>https://cunyu1943.site/JavaPark/md/interview/20220804-exception.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/interview/20220804-exception.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">Java 异常面试总结</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 异常简介 异常类层次结构 从结构图可以看出，所有异常均继承自 Throwable 类，它有两个重要的子类：Exception 和 Error ，各自又包含大量子类。</description>
+      <link>https://ez4jam1n.site/studio/md/interview/20220804-exception.html</link>
+      <guid>https://ez4jam1n.site/studio/md/interview/20220804-exception.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">Java 异常面试总结</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 异常简介 异常类层次结构 从结构图可以看出，所有异常均继承自 Throwable 类，它有两个重要的子类：Exception 和 Error ，各自又包含大量子类。</description>
       <category>面试宝典</category>
       <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -2177,14 +2177,14 @@
     </item>
     <item>
       <title>Java 并发面试总结</title>
-      <link>https://cunyu1943.site/JavaPark/md/interview/20220805-concurrence.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/interview/20220805-concurrence.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">Java 并发面试总结</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 进程和线程 进程 进程是系统中正在运行的一个程序，是 资源分配的基本单位，每个进程都有独立的地址空间。 进程控制块（Process Control Block，PCB）描述了进程的基本信息和运行状态，所谓的创建和撤销进程，都是指对于 PCB 的操作；</description>
+      <link>https://ez4jam1n.site/studio/md/interview/20220805-concurrence.html</link>
+      <guid>https://ez4jam1n.site/studio/md/interview/20220805-concurrence.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">Java 并发面试总结</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 进程和线程 进程 进程是系统中正在运行的一个程序，是 资源分配的基本单位，每个进程都有独立的地址空间。 进程控制块（Process Control Block，PCB）描述了进程的基本信息和运行状态，所谓的创建和撤销进程，都是指对于 PCB 的操作；</description>
       <category>面试宝典</category>
       <pubDate>Fri, 05 Aug 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -2555,14 +2555,14 @@
     </item>
     <item>
       <title>JVM 面试总结</title>
-      <link>https://cunyu1943.site/JavaPark/md/interview/20220806-jvm.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/interview/20220806-jvm.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">JVM 面试总结</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 JVM 内存区域？ JVM 定义及组成 JVM 是一种用于计算设备的规范，是一个虚构出来的计算机，通过在实体机上仿真模拟各种计算机功能来实现。JVM 运行在操作系统之上，与硬件之间并没有进行直接交互，这也就为什么 Java 语言只需要编译一次，就能够在不同平台上运行，通常有如下组成部分：</description>
+      <link>https://ez4jam1n.site/studio/md/interview/20220806-jvm.html</link>
+      <guid>https://ez4jam1n.site/studio/md/interview/20220806-jvm.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">JVM 面试总结</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 JVM 内存区域？ JVM 定义及组成 JVM 是一种用于计算设备的规范，是一个虚构出来的计算机，通过在实体机上仿真模拟各种计算机功能来实现。JVM 运行在操作系统之上，与硬件之间并没有进行直接交互，这也就为什么 Java 语言只需要编译一次，就能够在不同平台上运行，通常有如下组成部分：</description>
       <category>面试宝典</category>
       <pubDate>Sat, 06 Aug 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -3132,14 +3132,14 @@
     </item>
     <item>
       <title>MySQL 面试总结</title>
-      <link>https://cunyu1943.site/JavaPark/md/interview/20220807-mysql.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/interview/20220807-mysql.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">MySQL 面试总结</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 数据库基础 使用数据库的优点 最开始，我们是将数据保存在 内存 中，这能够保证我们十分 快速存取，但是一旦断电，数据就丢失了，无法永久保存。 于是我们将数据存放在 文件 中，这样一来我们就 能够将数据永久保存，但每次都要进行频繁的 IO 操作，相对于内存来讲速度就慢了许多，而且进行查询操作也不方便。 于是，我们转移到了 数据库 存储，通过这种方式不但 能将永久保存数据，而且查询管理也更加高效方便。</description>
+      <link>https://ez4jam1n.site/studio/md/interview/20220807-mysql.html</link>
+      <guid>https://ez4jam1n.site/studio/md/interview/20220807-mysql.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">MySQL 面试总结</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 数据库基础 使用数据库的优点 最开始，我们是将数据保存在 内存 中，这能够保证我们十分 快速存取，但是一旦断电，数据就丢失了，无法永久保存。 于是我们将数据存放在 文件 中，这样一来我们就 能够将数据永久保存，但每次都要进行频繁的 IO 操作，相对于内存来讲速度就慢了许多，而且进行查询操作也不方便。 于是，我们转移到了 数据库 存储，通过这种方式不但 能将永久保存数据，而且查询管理也更加高效方便。</description>
       <category>面试宝典</category>
       <pubDate>Sun, 07 Aug 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -3884,14 +3884,14 @@
     </item>
     <item>
       <title>Spring 面试总结</title>
-      <link>https://cunyu1943.site/JavaPark/md/interview/20220808-spring.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/interview/20220808-spring.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">Spring 面试总结</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 Spring 特点 Spring 主要有如下特点： 轻量级：Spring 是非侵入式，其中的对象不依赖 Spring 的特定类； 控制反转（IoC）：通过 IoC，促进了低耦合，一个对象依赖的其他对象通过被动的方式传递进来，而不用该对象主动创建或查找； 面向切面（AOP）：支持面向切面编程，将应用业务逻辑层和系统服务层分开； 容器：包含并管理应用对象的配置以及生命周期，此时 Spring 就相当于一个容器； 框架集合：能将简单的组件进行配置，组合成为更为复杂的应用；在 Spring 中，应用对象被声明式地组合在一个 XML 文件中；此外，Spring 也提供了事务管理、 持久化框架集成等基础功能，将应用逻辑的开发留给开发者；</description>
+      <link>https://ez4jam1n.site/studio/md/interview/20220808-spring.html</link>
+      <guid>https://ez4jam1n.site/studio/md/interview/20220808-spring.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">Spring 面试总结</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 Spring 特点 Spring 主要有如下特点： 轻量级：Spring 是非侵入式，其中的对象不依赖 Spring 的特定类； 控制反转（IoC）：通过 IoC，促进了低耦合，一个对象依赖的其他对象通过被动的方式传递进来，而不用该对象主动创建或查找； 面向切面（AOP）：支持面向切面编程，将应用业务逻辑层和系统服务层分开； 容器：包含并管理应用对象的配置以及生命周期，此时 Spring 就相当于一个容器； 框架集合：能将简单的组件进行配置，组合成为更为复杂的应用；在 Spring 中，应用对象被声明式地组合在一个 XML 文件中；此外，Spring 也提供了事务管理、 持久化框架集成等基础功能，将应用逻辑的开发留给开发者；</description>
       <category>面试宝典</category>
       <pubDate>Mon, 08 Aug 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -4209,14 +4209,14 @@
     </item>
     <item>
       <title>数据结构简介</title>
-      <link>https://cunyu1943.site/JavaPark/md/cs-basics/algorithm/20220501-datastructure.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/cs-basics/algorithm/20220501-datastructure.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">数据结构简介</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 什么是数据结构 在开始正式学习数据结构前，咱们先来看看什么是数据。所谓数据，就是用来描述客观事物的符号，在计算机中就是可以操作的对象，能够被计算机识别并输入给计算机处理的符号集合。数据不仅包括整型、浮点型等数值类型，还包括字符、声音、图像、视频等非数值型类型。</description>
+      <link>https://ez4jam1n.site/studio/md/cs-basics/algorithm/20220501-datastructure.html</link>
+      <guid>https://ez4jam1n.site/studio/md/cs-basics/algorithm/20220501-datastructure.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">数据结构简介</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 什么是数据结构 在开始正式学习数据结构前，咱们先来看看什么是数据。所谓数据，就是用来描述客观事物的符号，在计算机中就是可以操作的对象，能够被计算机识别并输入给计算机处理的符号集合。数据不仅包括整型、浮点型等数值类型，还包括字符、声音、图像、视频等非数值型类型。</description>
       <category>数据结构与算法</category>
       <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -4296,14 +4296,14 @@
     </item>
     <item>
       <title>算法简介</title>
-      <link>https://cunyu1943.site/JavaPark/md/cs-basics/algorithm/20220502-algorithm.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/cs-basics/algorithm/20220502-algorithm.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">算法简介</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 什么是算法 什么是算法？简单来讲，算法就是用于描述解决问题的方法。而现今普遍对算法的定义为：解决特定问题求解步骤的描述，在计算机中表现为指令的有限序列，并且每条指令含有一个或多个操作。 算法的特性 算法具有五个基本特性，分别是：</description>
+      <link>https://ez4jam1n.site/studio/md/cs-basics/algorithm/20220502-algorithm.html</link>
+      <guid>https://ez4jam1n.site/studio/md/cs-basics/algorithm/20220502-algorithm.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">算法简介</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 什么是算法 什么是算法？简单来讲，算法就是用于描述解决问题的方法。而现今普遍对算法的定义为：解决特定问题求解步骤的描述，在计算机中表现为指令的有限序列，并且每条指令含有一个或多个操作。 算法的特性 算法具有五个基本特性，分别是：</description>
       <category>数据结构与算法</category>
       <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -4512,14 +4512,14 @@
     </item>
     <item>
       <title>数据库简介</title>
-      <link>https://cunyu1943.site/JavaPark/md/database/mysql/20220301-overview.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/database/mysql/20220301-overview.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">数据库简介</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 之前在 Java 基础部分的学习中，我们更多的是写一些和控制台进行交互的小程序，而这些小程序有个特点就是：一旦程序终止，那么程序中的数据就消失了。为了满足存储数据的需求，我们可以选择将程序中的数据保存到文本文件或者数据库中。而今天，我们就来看看数据库的简单知识，为后续基于数据库的开发打下基础。</description>
+      <link>https://ez4jam1n.site/studio/md/database/mysql/20220301-overview.html</link>
+      <guid>https://ez4jam1n.site/studio/md/database/mysql/20220301-overview.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">数据库简介</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 之前在 Java 基础部分的学习中，我们更多的是写一些和控制台进行交互的小程序，而这些小程序有个特点就是：一旦程序终止，那么程序中的数据就消失了。为了满足存储数据的需求，我们可以选择将程序中的数据保存到文本文件或者数据库中。而今天，我们就来看看数据库的简单知识，为后续基于数据库的开发打下基础。</description>
       <category>MySQL 教程</category>
       <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -4713,14 +4713,14 @@
     </item>
     <item>
       <title>环境搭建</title>
-      <link>https://cunyu1943.site/JavaPark/md/database/mysql/20220302-install.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/database/mysql/20220302-install.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">环境搭建</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 了解了数据库的相关知识之后，接下来就是搭建 MySQL 的开发环境了。今天就来看看，如何在你的电脑中安装 MySQL。在正式安装过程开始之前，你需要先下载好 MySQL 的安装压缩包，下载地址如下。 https://dev.mysql.com/downloads/mysql/</description>
+      <link>https://ez4jam1n.site/studio/md/database/mysql/20220302-install.html</link>
+      <guid>https://ez4jam1n.site/studio/md/database/mysql/20220302-install.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">环境搭建</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 了解了数据库的相关知识之后，接下来就是搭建 MySQL 的开发环境了。今天就来看看，如何在你的电脑中安装 MySQL。在正式安装过程开始之前，你需要先下载好 MySQL 的安装压缩包，下载地址如下。 https://dev.mysql.com/downloads/mysql/</description>
       <category>MySQL 教程</category>
       <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -4771,14 +4771,14 @@
     </item>
     <item>
       <title>MySQL 常用语法</title>
-      <link>https://cunyu1943.site/JavaPark/md/database/mysql/20220303-grammar.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/database/mysql/20220303-grammar.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">MySQL 常用语法</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 之前了解了数据库的相关知识，然后又学习了如何安装 MySQL，接下来就来看看 SQL 常用语法，然后利用所学语法来操作我们的 MySQL 数据库实现增、删、改、查。 SQL 通用语法 所谓通用语法，就是适用于所有关系型数据库的语法，而不是只针对某一个数据库。</description>
+      <link>https://ez4jam1n.site/studio/md/database/mysql/20220303-grammar.html</link>
+      <guid>https://ez4jam1n.site/studio/md/database/mysql/20220303-grammar.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">MySQL 常用语法</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 之前了解了数据库的相关知识，然后又学习了如何安装 MySQL，接下来就来看看 SQL 常用语法，然后利用所学语法来操作我们的 MySQL 数据库实现增、删、改、查。 SQL 通用语法 所谓通用语法，就是适用于所有关系型数据库的语法，而不是只针对某一个数据库。</description>
       <category>MySQL 教程</category>
       <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -5356,14 +5356,14 @@
     </item>
     <item>
       <title>MySQL 中的函数</title>
-      <link>https://cunyu1943.site/JavaPark/md/database/mysql/20220304-function.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/database/mysql/20220304-function.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">MySQL 中的函数</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 定义 所谓函数，就是指的一段可以直接被另一端程序所调用的程序或者代码，就像 Java 中的方法一样。 字符串函数 函数 说明 concat(S1, S2, …, Sn) 字符串凭借，将 S1、S2、……Sn 拼接成一个字符串 lower(str) 将字符串 str 全部转换为小写 upper(str) 将字符串 str 全部转换为大写 lpad(str, n, pad) 左填充，用字符串 pad 对 str 的左边进行填充，达到 n 个字符串长度 rpad(str, n, pad) 右填充，用字符串 pad 对 str 的右边进行填充，达到 n 个字符串长度 trim(str) 去除字符串头部和尾部的空格 substring(str, start, len) 返回字符串 str 从 start 位置起长度为 len 的字符串</description>
+      <link>https://ez4jam1n.site/studio/md/database/mysql/20220304-function.html</link>
+      <guid>https://ez4jam1n.site/studio/md/database/mysql/20220304-function.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">MySQL 中的函数</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 定义 所谓函数，就是指的一段可以直接被另一端程序所调用的程序或者代码，就像 Java 中的方法一样。 字符串函数 函数 说明 concat(S1, S2, …, Sn) 字符串凭借，将 S1、S2、……Sn 拼接成一个字符串 lower(str) 将字符串 str 全部转换为小写 upper(str) 将字符串 str 全部转换为大写 lpad(str, n, pad) 左填充，用字符串 pad 对 str 的左边进行填充，达到 n 个字符串长度 rpad(str, n, pad) 右填充，用字符串 pad 对 str 的右边进行填充，达到 n 个字符串长度 trim(str) 去除字符串头部和尾部的空格 substring(str, start, len) 返回字符串 str 从 start 位置起长度为 len 的字符串</description>
       <category>MySQL 教程</category>
       <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -5513,14 +5513,14 @@
     </item>
     <item>
       <title>约束</title>
-      <link>https://cunyu1943.site/JavaPark/md/database/mysql/20220305-constraint.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/database/mysql/20220305-constraint.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">约束</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 概述 所谓约束，就是作用于表中字段上的规则，用来限制存储在表中的数据。使用的目的是为了保证数据库中数据的正确性、有效性以及完整性。 约束有很多种，常见的约束分类如下表。 关键字 约束 描述 NOT NULL 非空约束 限制该字段的数据不能为 null UNIQUE 唯一约束 保证该字段的所有数据都是唯一不重复的 PRIMARY KEY 主键约束 主键是一行数据的唯一标识，要求非空且唯一 DEFAULT 默认约束 保存数据时，若未指定该字段的值，则采用默认值 CHECK 检查约束（8.0.16 版本之后） 保证字段值满足某一个条件 FOREIGN KEY 外键约束 用于让两张表之间的数据建立连接，从而保证数据的一致性和完整性</description>
+      <link>https://ez4jam1n.site/studio/md/database/mysql/20220305-constraint.html</link>
+      <guid>https://ez4jam1n.site/studio/md/database/mysql/20220305-constraint.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">约束</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 概述 所谓约束，就是作用于表中字段上的规则，用来限制存储在表中的数据。使用的目的是为了保证数据库中数据的正确性、有效性以及完整性。 约束有很多种，常见的约束分类如下表。 关键字 约束 描述 NOT NULL 非空约束 限制该字段的数据不能为 null UNIQUE 唯一约束 保证该字段的所有数据都是唯一不重复的 PRIMARY KEY 主键约束 主键是一行数据的唯一标识，要求非空且唯一 DEFAULT 默认约束 保存数据时，若未指定该字段的值，则采用默认值 CHECK 检查约束（8.0.16 版本之后） 保证字段值满足某一个条件 FOREIGN KEY 外键约束 用于让两张表之间的数据建立连接，从而保证数据的一致性和完整性</description>
       <category>MySQL 教程</category>
       <pubDate>Sat, 05 Mar 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -5614,14 +5614,14 @@
     </item>
     <item>
       <title>多表查询</title>
-      <link>https://cunyu1943.site/JavaPark/md/database/mysql/20220306-muti-table-query.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/database/mysql/20220306-muti-table-query.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">多表查询</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 多表关系 项目开发进行数据库表结构设计时，需要根据业务需求和业务模块之间的关系，分析并设计表结构。但由于不同业务之间存在着的关联关系，因此各个表结构之间也存在着各种关系，常见的表结构之间的关系可以分为以下三种： 一对多（多对一） 多对多 一对一</description>
+      <link>https://ez4jam1n.site/studio/md/database/mysql/20220306-muti-table-query.html</link>
+      <guid>https://ez4jam1n.site/studio/md/database/mysql/20220306-muti-table-query.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">多表查询</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 多表关系 项目开发进行数据库表结构设计时，需要根据业务需求和业务模块之间的关系，分析并设计表结构。但由于不同业务之间存在着的关联关系，因此各个表结构之间也存在着各种关系，常见的表结构之间的关系可以分为以下三种： 一对多（多对一） 多对多 一对一</description>
       <category>MySQL 教程</category>
       <pubDate>Sun, 06 Mar 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -5707,14 +5707,14 @@
     </item>
     <item>
       <title>事务</title>
-      <link>https://cunyu1943.site/JavaPark/md/database/mysql/20220307-transaction.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/database/mysql/20220307-transaction.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">事务</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 事务简介 事务是一组操作的集合，是一个不可分割的工作单位，它会将所有的操作当做一个整体一起向系统提交或者撤销操作请求，因此这些操作要么同时成功，那么同时失败，最常见的就是业务场景就是银行转账。</description>
+      <link>https://ez4jam1n.site/studio/md/database/mysql/20220307-transaction.html</link>
+      <guid>https://ez4jam1n.site/studio/md/database/mysql/20220307-transaction.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">事务</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 事务简介 事务是一组操作的集合，是一个不可分割的工作单位，它会将所有的操作当做一个整体一起向系统提交或者撤销操作请求，因此这些操作要么同时成功，那么同时失败，最常见的就是业务场景就是银行转账。 事务操作</description>
       <category>MySQL 教程</category>
       <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -5828,14 +5828,14 @@
     </item>
     <item>
       <title>简介及环境搭建</title>
-      <link>https://cunyu1943.site/JavaPark/md/database/postgresql/20220308-pg-install-on-windows.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/database/postgresql/20220308-pg-install-on-windows.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">简介及环境搭建</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 之前由于学习，所以选择的是受众范围较广的 MySQL。至于 MySQL，在这里就不用说了，想必大家都是很熟悉的。正式参加工作之后，才发现原来不同的公司选择的数据库都不一样，有的选择 Oracle，有的选择 MySQL，而有的则选择 PostgreSQL。Oracle 的确很厉害，不过始终是面向收费的，一般小体量的公司用起来成本太高，所以大家还是更倾向于 MySQL。关于 MySQL 的教程、知识分享博客有很多，而且大家写的也很详细，所以在这里就不在赘述了。我们今天就主要来聊聊另一款数据库 PostgreSQL，揭开他的神秘面纱，一探究竟。</description>
+      <link>https://ez4jam1n.site/studio/md/database/postgresql/20220308-pg-install-on-windows.html</link>
+      <guid>https://ez4jam1n.site/studio/md/database/postgresql/20220308-pg-install-on-windows.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">简介及环境搭建</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 之前由于学习，所以选择的是受众范围较广的 MySQL。至于 MySQL，在这里就不用说了，想必大家都是很熟悉的。正式参加工作之后，才发现原来不同的公司选择的数据库都不一样，有的选择 Oracle，有的选择 MySQL，而有的则选择 PostgreSQL。Oracle 的确很厉害，不过始终是面向收费的，一般小体量的公司用起来成本太高，所以大家还是更倾向于 MySQL。关于 MySQL 的教程、知识分享博客有很多，而且大家写的也很详细，所以在这里就不在赘述了。我们今天就主要来聊聊另一款数据库 PostgreSQL，揭开他的神秘面纱，一探究竟。</description>
       <category>PostgreSQL 教程</category>
       <pubDate>Tue, 08 Mar 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -5912,14 +5912,14 @@
     </item>
     <item>
       <title>白嫖 IntelliJ IDEA 专业版使用权</title>
-      <link>https://cunyu1943.site/JavaPark/md/dev-tools/idea/20220201-idea-pro-with-student-email.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/dev-tools/idea/20220201-idea-pro-with-student-email.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">白嫖 IntelliJ IDEA 专业版使用权</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 大家在使用 JetBrains 开发工具时，往往会受限于社区版某些功能的缺失。为了进行必要的开发工作，不得不使用专业版，这样一来问题就来了。专业版需要授权，但是对于个人用户来说价格还是有点贵的，于是为了寻求免费授权，不得不去网上找各种激活码或者破解教程，然后呢过一段时间可能又失效了，折腾来折腾去就很心累了。为了减少必要的麻烦，所以我们这里教你免费申请 JetBrains 开发工具一年使用权，等到一年过后，再次重新认证下就可以继续使用了，省去了折腾的时间，再也不用担心我们的 JetBrains 开发工具弹出授权失效的弹窗了。</description>
+      <link>https://ez4jam1n.site/studio/md/dev-tools/idea/20220201-idea-pro-with-student-email.html</link>
+      <guid>https://ez4jam1n.site/studio/md/dev-tools/idea/20220201-idea-pro-with-student-email.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">白嫖 IntelliJ IDEA 专业版使用权</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 大家在使用 JetBrains 开发工具时，往往会受限于社区版某些功能的缺失。为了进行必要的开发工作，不得不使用专业版，这样一来问题就来了。专业版需要授权，但是对于个人用户来说价格还是有点贵的，于是为了寻求免费授权，不得不去网上找各种激活码或者破解教程，然后呢过一段时间可能又失效了，折腾来折腾去就很心累了。为了减少必要的麻烦，所以我们这里教你免费申请 JetBrains 开发工具一年使用权，等到一年过后，再次重新认证下就可以继续使用了，省去了折腾的时间，再也不用担心我们的 JetBrains 开发工具弹出授权失效的弹窗了。</description>
       <category>IDEA 教程</category>
       <pubDate>Tue, 01 Feb 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -5973,14 +5973,14 @@
     </item>
     <item>
       <title>最新版 IDEA 简单使用手册</title>
-      <link>https://cunyu1943.site/JavaPark/md/dev-tools/idea/20220202-idea-guide.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/dev-tools/idea/20220202-idea-guide.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">最新版 IDEA 简单使用手册</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 因为自己电脑最近实在是太卡了，也一直提示更新，索性就直接重装了个系统。因为需要重装下 IDEA，而现在新版本的 IDEA 和之前的版本还是有很大变化的，所以在这里写一篇博客做个记录，方便自己后续配置，也顺便分享给大家。</description>
+      <link>https://ez4jam1n.site/studio/md/dev-tools/idea/20220202-idea-guide.html</link>
+      <guid>https://ez4jam1n.site/studio/md/dev-tools/idea/20220202-idea-guide.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">最新版 IDEA 简单使用手册</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 因为自己电脑最近实在是太卡了，也一直提示更新，索性就直接重装了个系统。因为需要重装下 IDEA，而现在新版本的 IDEA 和之前的版本还是有很大变化的，所以在这里写一篇博客做个记录，方便自己后续配置，也顺便分享给大家。 IDEA 的优势</description>
       <category>IDEA 教程</category>
       <pubDate>Wed, 02 Feb 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -6135,14 +6135,14 @@
     </item>
     <item>
       <title>IDEA + Github 多设备同步开发</title>
-      <link>https://cunyu1943.site/JavaPark/md/dev-tools/idea/20220203-idea-with-github.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/dev-tools/idea/20220203-idea-with-github.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">IDEA + Github 多设备同步开发</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 在我们日常工作生活中，当我们换设备或者重装系统后，往往需要将我们之前的代码进行同步。这个时候我们常常都是采用 U 盘拷贝的方式，但是这样十分麻烦，那有没有不用通过 U 盘之类的介质拷贝就能实现的呢。今天我们看看如何利用 IDEA + Github，实现跨设备跨平台之间的同步。后续步骤均建立在安装好 git 和拥有 Github 账户的基础上，如果还没有安装 git 或者没有 Github 账户，那赶紧先去安装 git 和申请一个 Github 账户吧。</description>
+      <link>https://ez4jam1n.site/studio/md/dev-tools/idea/20220203-idea-with-github.html</link>
+      <guid>https://ez4jam1n.site/studio/md/dev-tools/idea/20220203-idea-with-github.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">IDEA + Github 多设备同步开发</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 在我们日常工作生活中，当我们换设备或者重装系统后，往往需要将我们之前的代码进行同步。这个时候我们常常都是采用 U 盘拷贝的方式，但是这样十分麻烦，那有没有不用通过 U 盘之类的介质拷贝就能实现的呢。今天我们看看如何利用 IDEA + Github，实现跨设备跨平台之间的同步。后续步骤均建立在安装好 git 和拥有 Github 账户的基础上，如果还没有安装 git 或者没有 Github 账户，那赶紧先去安装 git 和申请一个 Github 账户吧。</description>
       <category>IDEA 教程</category>
       <pubDate>Thu, 03 Feb 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -6235,14 +6235,14 @@
     </item>
     <item>
       <title>集成并使用 Git 图文教程</title>
-      <link>https://cunyu1943.site/JavaPark/md/dev-tools/idea/20220204-idea-integrate-with-git.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/dev-tools/idea/20220204-idea-integrate-with-git.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">集成并使用 Git 图文教程</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 一般在进行项目开发时，都离不开版本控制，当前主流的版本控制工具无非就是 Git 和 SVN，而且现在 Git 的使用率可以说是已经远远超过 SVN，本文就主要看看，如何使用 IDEA + Git 来控制代码版本，让团队开发更流畅！</description>
+      <link>https://ez4jam1n.site/studio/md/dev-tools/idea/20220204-idea-integrate-with-git.html</link>
+      <guid>https://ez4jam1n.site/studio/md/dev-tools/idea/20220204-idea-integrate-with-git.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">集成并使用 Git 图文教程</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 一般在进行项目开发时，都离不开版本控制，当前主流的版本控制工具无非就是 Git 和 SVN，而且现在 Git 的使用率可以说是已经远远超过 SVN，本文就主要看看，如何使用 IDEA + Git 来控制代码版本，让团队开发更流畅！</description>
       <category>IDEA 教程</category>
       <pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -6355,14 +6355,14 @@
     </item>
     <item>
       <title>不得不知的实用小技巧</title>
-      <link>https://cunyu1943.site/JavaPark/md/dev-tools/idea/20220205-idea-tips.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/dev-tools/idea/20220205-idea-tips.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">不得不知的实用小技巧</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 人人都说 IDEA 好，但你知道他的强大之处在哪儿么？今天就来看看，增进日常开发效率的 IDEA 小技巧。 代码编辑 复制 &amp;amp; 粘贴 我们知道，最常用的复制粘贴是通过 Ctrl + C/V，但如果要针对复制历史进行粘贴，此时在 IDEA 中可以通过 Ctrl + Shift + V 来进行自主选择自己想要粘贴的内容；</description>
+      <link>https://ez4jam1n.site/studio/md/dev-tools/idea/20220205-idea-tips.html</link>
+      <guid>https://ez4jam1n.site/studio/md/dev-tools/idea/20220205-idea-tips.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">不得不知的实用小技巧</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 人人都说 IDEA 好，但你知道他的强大之处在哪儿么？今天就来看看，增进日常开发效率的 IDEA 小技巧。 代码编辑 复制 &amp;amp; 粘贴 我们知道，最常用的复制粘贴是通过 Ctrl + C/V，但如果要针对复制历史进行粘贴，此时在 IDEA 中可以通过 Ctrl + Shift + V 来进行自主选择自己想要粘贴的内容；</description>
       <category>IDEA 教程</category>
       <pubDate>Sat, 05 Feb 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -6427,14 +6427,14 @@
     </item>
     <item>
       <title>创建 Java 入门应用</title>
-      <link>https://cunyu1943.site/JavaPark/md/dev-tools/idea/20220206-java-quick-start-with-idea.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/dev-tools/idea/20220206-java-quick-start-with-idea.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">创建 Java 入门应用</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 本篇文章中，我们将学习如何使用 IDEA 来创建、运行并打包我们的第一个 Hello World! Java 程序。通过阅读该教程，希望大家能对如何使用 IDEA 来创建、运行并打包 Java 程序有一个简单的了解，熟悉一下 IDEA 的一些简单使用技巧，去感受 IDEA 为我们开发者所带来的便利，接下来我们就来具体看看具体的创建、运行以及打包过程。</description>
+      <link>https://ez4jam1n.site/studio/md/dev-tools/idea/20220206-java-quick-start-with-idea.html</link>
+      <guid>https://ez4jam1n.site/studio/md/dev-tools/idea/20220206-java-quick-start-with-idea.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">创建 Java 入门应用</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 本篇文章中，我们将学习如何使用 IDEA 来创建、运行并打包我们的第一个 Hello World! Java 程序。通过阅读该教程，希望大家能对如何使用 IDEA 来创建、运行并打包 Java 程序有一个简单的了解，熟悉一下 IDEA 的一些简单使用技巧，去感受 IDEA 为我们开发者所带来的便利，接下来我们就来具体看看具体的创建、运行以及打包过程。</description>
       <category>IDEA 教程</category>
       <pubDate>Sun, 06 Feb 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -6469,7 +6469,7 @@
 </ol>
 <p></p>
 <ol start="2">
-<li>接着在 <code>Name</code> 域输入 <code>com.cunyu1943.helloworld.HelloWorld</code>，然后回车，接着 <code>com.cunyu1943.hellowold</code> 包和 <code>HelloWorld</code> 类就创建好了。</li>
+<li>接着在 <code>Name</code> 域输入 <code>com.ez4jam1n.helloworld.HelloWorld</code>，然后回车，接着 <code>com.ez4jam1n.hellowold</code> 包和 <code>HelloWorld</code> 类就创建好了。</li>
 </ol>
 <p></p>
 <p></p>
@@ -6507,14 +6507,14 @@
     </item>
     <item>
       <title>连接 MySQL 失败解决方案</title>
-      <link>https://cunyu1943.site/JavaPark/md/dev-tools/idea/20220207-connect-mysql-fail.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/dev-tools/idea/20220207-connect-mysql-fail.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">连接 MySQL 失败解决方案</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 此文章用于记录自己在 IDEA 中使用 MySQL 开发过程中所遇到的问题及如何修复。 Bug 及修复 使用正确的用户及密码连接数据库时，但却连不上 Bug 重现</description>
+      <link>https://ez4jam1n.site/studio/md/dev-tools/idea/20220207-connect-mysql-fail.html</link>
+      <guid>https://ez4jam1n.site/studio/md/dev-tools/idea/20220207-connect-mysql-fail.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">连接 MySQL 失败解决方案</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 此文章用于记录自己在 IDEA 中使用 MySQL 开发过程中所遇到的问题及如何修复。 Bug 及修复 使用正确的用户及密码连接数据库时，但却连不上 Bug 重现</description>
       <category>IDEA 教程</category>
       <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -6537,14 +6537,14 @@
     </item>
     <item>
       <title>Tomcat 控制台乱码解决方法</title>
-      <link>https://cunyu1943.site/JavaPark/md/dev-tools/idea/20220208-tomcat-console-error-code.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/dev-tools/idea/20220208-tomcat-console-error-code.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">Tomcat 控制台乱码解决方法</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 当我们在 Windows 下使用 IntelliJ IDEA + Tomcat 运行自己的 Web 程序时，常会遇见控制台 Tomcat 中文乱码的情况，在网上试了很多方法，最终找到成功解决的方法，现记录如下； 解决方法</description>
+      <link>https://ez4jam1n.site/studio/md/dev-tools/idea/20220208-tomcat-console-error-code.html</link>
+      <guid>https://ez4jam1n.site/studio/md/dev-tools/idea/20220208-tomcat-console-error-code.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">Tomcat 控制台乱码解决方法</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 当我们在 Windows 下使用 IntelliJ IDEA + Tomcat 运行自己的 Web 程序时，常会遇见控制台 Tomcat 中文乱码的情况，在网上试了很多方法，最终找到成功解决的方法，现记录如下； 解决方法</description>
       <category>IDEA 教程</category>
       <pubDate>Tue, 08 Feb 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -6574,14 +6574,14 @@
     </item>
     <item>
       <title>IDEA 代码提交前流程及提交日志模板化</title>
-      <link>https://cunyu1943.site/JavaPark/md/dev-tools/idea/20221124-code-commit.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/dev-tools/idea/20221124-code-commit.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">IDEA 代码提交前流程及提交日志模板化</source>
-      <description>作者：村雨遥 博客：JavaPark 原文：https://mp.weixin.qq.com/s/Mhc7tygE6Fl5_3h8mz7A9g 吾生也有涯，而知也无涯。</description>
+      <link>https://ez4jam1n.site/studio/md/dev-tools/idea/20221124-code-commit.html</link>
+      <guid>https://ez4jam1n.site/studio/md/dev-tools/idea/20221124-code-commit.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">IDEA 代码提交前流程及提交日志模板化</source>
+      <description>作者：村雨遥 博客：studio 原文：https://mp.weixin.qq.com/s/Mhc7tygE6Fl5_3h8mz7A9g 吾生也有涯，而知也无涯。</description>
       <category>IDEA 教程</category>
       <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <p>原文：<a href="https://mp.weixin.qq.com/s/Mhc7tygE6Fl5_3h8mz7A9g" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/Mhc7tygE6Fl5_3h8mz7A9g</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
@@ -6791,14 +6791,14 @@
     </item>
     <item>
       <title>IDEA 破解图文教程</title>
-      <link>https://cunyu1943.site/JavaPark/md/dev-tools/idea/20221126-idea-crack.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/dev-tools/idea/20221126-idea-crack.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">IDEA 破解图文教程</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 之前的文章中，我已经介绍过了如何安装 IDEA，并且也给出了如何白嫖 IDEA 旗舰版的免费使用权。不过想白嫖并不容易，得需要有一个长期可用的教育邮箱。</description>
+      <link>https://ez4jam1n.site/studio/md/dev-tools/idea/20221126-idea-crack.html</link>
+      <guid>https://ez4jam1n.site/studio/md/dev-tools/idea/20221126-idea-crack.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">IDEA 破解图文教程</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 之前的文章中，我已经介绍过了如何安装 IDEA，并且也给出了如何白嫖 IDEA 旗舰版的免费使用权。不过想白嫖并不容易，得需要有一个长期可用的教育邮箱。 那有的朋友就很烦了，又想用旗舰版，但又没有长期可用的教育邮箱，该怎么破？为了解决大家这个烦恼，今天进给大家来分享一个 IDEA 的破解激活教程。手把手教学，仅需几分钟就能搞定。</description>
       <category>IDEA 教程</category>
       <pubDate>Tue, 01 Feb 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -6808,7 +6808,7 @@
 <p>那有的朋友就很烦了，又想用旗舰版，但又没有长期可用的教育邮箱，该怎么破？为了解决大家这个烦恼，今天进给大家来分享一个 <code>IDEA</code> 的破解激活教程。手把手教学，仅需几分钟就能搞定。</p>
 <blockquote>
 <p><strong>前排提示，条件允许的情况下，建议大家有限购买正版！此外，本教程中的破解补丁收集自网络，仅供个人学习使用，希望大家低调使用。</strong></p>
-<p><strong>另外，文章一段时间后可能会被封禁，大家可以把 <a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">https://cunyu1943.github.io/JavaPark</a> 加入浏览器书签，以便不时之需。</strong></p>
+<p><strong>另外，文章一段时间后可能会被封禁，大家可以把 <a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">https://ez4jam1n.github.io/studio</a> 加入浏览器书签，以便不时之需。</strong></p>
 <p><strong>如有侵权，请联系作者删除。</strong></p>
 </blockquote>
 <h2> 开始激活</h2>
@@ -6821,9 +6821,9 @@
     </item>
     <item>
       <title>计算机系统</title>
-      <link>https://cunyu1943.site/JavaPark/md/exam/software-developer/20221113-computer-system.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/exam/software-developer/20221113-computer-system.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">计算机系统</source>
+      <link>https://ez4jam1n.site/studio/md/exam/software-developer/20221113-computer-system.html</link>
+      <guid>https://ez4jam1n.site/studio/md/exam/software-developer/20221113-computer-system.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">计算机系统</source>
       <description>CPU 计算机系统硬件组成 计算机系统是由软硬件共同组成，协同运行程序。计算机的基本硬件由 运算器、控制器、存储器、输入设备、输出设备 5 大部件组成。其中，运算器和控制器等部件集成到一起的部分称为中央处理器（CPU）。CPU 是硬件系统的核心，用于加工处理各种数据，能完成各种算术、逻辑运算以及控制功能。 其中，存储器是计算机系统中的记忆设备，分为 内部存储 和 外部存储。内部存储速度快，但容量小，一般用来临时存放程序、数据及中间结果。而外部存储容量大，但速度慢，能长期保存程序和数据。</description>
       <category>软件设计师</category>
       <pubDate>Sun, 13 Nov 2022 00:00:00 GMT</pubDate>
@@ -7065,14 +7065,14 @@
     </item>
     <item>
       <title>数据的表示</title>
-      <link>https://cunyu1943.site/JavaPark/md/exam/software-developer/20221113-data-representation.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/exam/software-developer/20221113-data-representation.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">数据的表示</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 复习到数据表示方面相关的知识，所以在这里做一下记录，也方便大家参考。 什么是 R 进制 对于 R 机制，如果要实现与十进制的转换，则使用 按权展开法，其具体操作为：</description>
+      <link>https://ez4jam1n.site/studio/md/exam/software-developer/20221113-data-representation.html</link>
+      <guid>https://ez4jam1n.site/studio/md/exam/software-developer/20221113-data-representation.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">数据的表示</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 复习到数据表示方面相关的知识，所以在这里做一下记录，也方便大家参考。 什么是 R 进制 对于 R 机制，如果要实现与十进制的转换，则使用 按权展开法，其具体操作为：</description>
       <category>软件设计师</category>
       <pubDate>Sun, 13 Nov 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -7290,9 +7290,9 @@
     </item>
     <item>
       <title>简介</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/js/20220501-introduction.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/js/20220501-introduction.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">简介</source>
+      <link>https://ez4jam1n.site/studio/md/java/js/20220501-introduction.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/js/20220501-introduction.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">简介</source>
       <description>什么是 JavaScript 作为世界上最流行的语言之一，是一种运行在客户端的脚本语言。而所谓脚本语言，就是不需要编译就能运行的编程语言，JavaScript 在运行过程中通过 JS 解释器来逐行解释然后执行。 JavaScript 能做什么？ 最初的时候，JavaScript 被设计出来的初衷是为了实现表单的动态校验，比如密码长度校验、邮箱格式校验等。但渐渐随着 JavaScript 的发展，JavaScript 变得越来越强大，也发展出了许多产物，如 Node.js、Electron、Cordova、Ruff、cocos2d-js。利用这些产物，我们可以用来进行服务器的开发、桌面程序的搭建、APP 的开发、硬件-物联网的控制、游戏开发等等工作。</description>
       <category>JavaScript 教程</category>
       <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
@@ -7355,9 +7355,9 @@
     </item>
     <item>
       <title>数据类型</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/js/20220503-datatype.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/js/20220503-datatype.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">数据类型</source>
+      <link>https://ez4jam1n.site/studio/md/java/js/20220503-datatype.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/js/20220503-datatype.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">数据类型</source>
       <description>导读 初步了解 JavaScript 之后，我们又学习了注释、输入输出以及变量的相关知识。本文紧接上两部分，来继续带领大家学习 JavaScript 中的数据类型知识，本文主要内容如下： 数据类型简介 数据类型分类 变量数据类型获取 常用的数据类型转换 简介 在计算机中，不同数据所需要的存储空间是不一样的，为了尽可能的提高内存利用率，方便把数据划分为所需内存大小不同的数据，于是需要将不同数据定义为对应的数据类型。 最常见的就是字符串和数字，就像“公众号：村雨遥”这个字符串和 1943 这个数字所对应的类型是不一样。</description>
       <category>JavaScript 教程</category>
       <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
@@ -7607,9 +7607,9 @@
     </item>
     <item>
       <title>操作符</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/js/20220504-operator.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/js/20220504-operator.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">操作符</source>
+      <link>https://ez4jam1n.site/studio/md/java/js/20220504-operator.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/js/20220504-operator.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">操作符</source>
       <description>运算符（operator），也叫做操作符，主要是用于实现赋值、比较以及执行算数运算等功能的符号。在 JavaScript 中，主要有以下几类常见的运算符： 算数运算符 递增递减运算符 比较运算符 逻辑运算符 赋值运算符 以下就分别来看看，这些运算符都是怎么用的。 算数运算符 这个我们应该都不陌生，从小学开始，我们就学习加、减、乘、除、取余等算数运算。而算数运算符也就是供我们算术运算所使用的的符号，主要用来执行两个变量或值的算数运算。</description>
       <category>JavaScript 教程</category>
       <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
@@ -7830,9 +7830,9 @@
     </item>
     <item>
       <title>流程控制</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/js/20220505-process-control.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/js/20220505-process-control.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">流程控制</source>
+      <link>https://ez4jam1n.site/studio/md/java/js/20220505-process-control.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/js/20220505-process-control.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">流程控制</source>
       <description>一个程序中，各个代码之间的执行顺序对于程序结果是会造成影响的。就拿下面简单的例子来说，假如我们拿先使用 num 这个变量然后再定义和先定义变量再使用相比。先使用再定义会报错 undefined，而定义再使用就没有问题。也就是说，代码的先后顺序会对我们的程序结果造成直接影响。 console.log(num); var num = 10;</description>
       <category>JavaScript 教程</category>
       <pubDate>Thu, 05 May 2022 00:00:00 GMT</pubDate>
@@ -7927,9 +7927,9 @@
     </item>
     <item>
       <title>数组</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/js/20220506-array.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/js/20220506-array.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">数组</source>
+      <link>https://ez4jam1n.site/studio/md/java/js/20220506-array.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/js/20220506-array.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">数组</source>
       <description>什么是数组 之前的学习中，如果我们要存储一个值，一般都是通过变量来存储。但如果我们现在想要存储一系列的值，又该如何存储呢，你可能会说可以用多个变量来进行存储。这种方法也可以，但如果你想，一旦值过多，那岂不是就要多个变量，到时候管理就很混乱了。这时候就想，有没有一个可以存储多个值的数据结构，方便我们进行多个值的存储管理呢？ 针对上面这一需求，提出了数组这一数据结构。 数组是指一组数据的集合，数组中的每个数据被称为元素，而且数组中可以存放任意类型的元素。通过使用数组，当我们需要存储多个值时，就可以不用再去多个创建变量，而只需要创建一个数组就好了。</description>
       <category>JavaScript 教程</category>
       <pubDate>Fri, 06 May 2022 00:00:00 GMT</pubDate>
@@ -7981,9 +7981,9 @@
     </item>
     <item>
       <title>函数</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/js/20220507-function.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/js/20220507-function.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">函数</source>
+      <link>https://ez4jam1n.site/studio/md/java/js/20220507-function.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/js/20220507-function.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">函数</source>
       <description>函数简介 编程时，可能会定义许多相同或者功能相似的代码，此时我们每需要使用一次，就需要重写编写一次。虽然利用循环结构也能够实现一些简单的重复操作，但是功能较为局限。此时，我们就需要使用到 JavaScript 中的函数。 所谓函数，就是通过将一段可以重复调用的代码块进行封装，从而实现代码的重复利用。 函数使用 了解了函数是个啥，接下来就来看看如何使用函数。 函数使用，主要可以分为两步：声明函数和调用函数。 函数声明</description>
       <category>JavaScript 教程</category>
       <pubDate>Sat, 07 May 2022 00:00:00 GMT</pubDate>
@@ -8076,9 +8076,9 @@
     </item>
     <item>
       <title>面向对象</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/js/20220508-oop.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/js/20220508-oop.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">面向对象</source>
+      <link>https://ez4jam1n.site/studio/md/java/js/20220508-oop.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/js/20220508-oop.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">面向对象</source>
       <description>什么是对象 之前学习的数据类型在存储一些复杂的信息时，十分不方便，而且也难以区分。为此，为了更加详细方便的描述某一个事物，因而提出面向对象的概念。 那什么是对象呢？ 所谓对象，也是 JavaScript 中的一种数据类型，可以看做是一系列无序数据的集合。 有了对象，就可以用来描述某一个事物，比如用对象来描述一个人。其中人的一些静态特征比如姓名、年龄、性别、身高、体重我们就可以用数字类型、字符串类型、数组、布尔类型等数据结构来表示，而人的一些动作比如吃喝拉撒啥的，就可以用函数来进行表示。 如何使用对象</description>
       <category>JavaScript 教程</category>
       <pubDate>Sun, 08 May 2022 00:00:00 GMT</pubDate>
@@ -8175,9 +8175,9 @@
     </item>
     <item>
       <title>DOM 元素获取、属性修改</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/js/20220509-dom-get-attribute.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/js/20220509-dom-get-attribute.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">DOM 元素获取、属性修改</source>
+      <link>https://ez4jam1n.site/studio/md/java/js/20220509-dom-get-attribute.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/js/20220509-dom-get-attribute.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">DOM 元素获取、属性修改</source>
       <description>什么是 Web API Web API 是指网页服务器或者网页浏览器的应用程序接口。简单来讲，就是我们在编写 JavaScript 代码时，可以通过 Web API 来操作 HTML 网页和浏览器。 Web API 又可以分为两类： DOM（文档对象模型） BOM（浏览器对象模型） DOM（Document Object Model），即文档对象模型，主要用来呈现以及与 HTML 或 XML 文档交互的 API。说白了就是用来操作网页内容，实现各种特效，让用户用起来更顺手。</description>
       <category>JavaScript 教程</category>
       <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
@@ -8292,9 +8292,9 @@
     </item>
     <item>
       <title>DOM 事件</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/js/20220510-dom-event.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/js/20220510-dom-event.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">DOM 事件</source>
+      <link>https://ez4jam1n.site/studio/md/java/js/20220510-dom-event.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/js/20220510-dom-event.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">DOM 事件</source>
       <description>事件 什么是事件 在之前 DOM 的学习中，我们主要学习了如何获取 DOM 元素，并且学会了如何给获取的元素进行属性修改等操作。但这些基本都是静态的修改，并没有接触到一些动作。而今天要学习的事件，其实就是这些动作的总称。 所谓事件，就是在编程时系统内所发生的动作或者发生的事情，比如在网页中点击一个按钮之后，我们就能实现登录或者注册之类的功能。 事件监听 事件监听，就是让程序检测是否有事件产生，一旦有事件触发，就立即调用一个函数做出响应，这个过程就叫做注册事件。其语法结构如下： 元素.addEventListener(&amp;apos;事件&amp;apos;, 要执行的函数);</description>
       <category>JavaScript 教程</category>
       <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
@@ -8467,9 +8467,9 @@
     </item>
     <item>
       <title>JS 教程「11」：DOM 节点</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/js/20220511-dom-node.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/js/20220511-dom-node.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">JS 教程「11」：DOM 节点</source>
+      <link>https://ez4jam1n.site/studio/md/java/js/20220511-dom-node.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/js/20220511-dom-node.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">JS 教程「11」：DOM 节点</source>
       <description>节点操作 什么是节点 前边已经讲了什么是 DOM 树，知道了 DOM 树，那么节点就很简单了。在 DOM 树中，每一个内容我们都可以称为节点。 按照 DOM 树中内容的不同，我们又可以对节点进行分类，主要可以分为以下几类： 元素节点：HTML 页面中的所有标签，比如 body、div 、a、img 等。 属性节点：标签的属性，比如 a 标签中的 href，img 标签中的 src 等。 文本节点：也就是页面中的文本，比如 title 元素中所含文本。</description>
       <category>JavaScript 教程</category>
       <pubDate>Sun, 24 Apr 2022 16:15:00 GMT</pubDate>
@@ -8491,14 +8491,14 @@
     </item>
     <item>
       <title>简介，安装及配置</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/maven/20220101-maven-intro-install.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/maven/20220101-maven-intro-install.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">简介，安装及配置</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 在我们之前的开发过程中，往往会遇到以下问题： 一个项目就是一个工程，当项目过大时，难以管理； 项目中的 jar 包（也就是我们的依赖文件），需要我们手动进行移动到 Web 项目的 WEB-INF/lib 目录中； jar 一般是通过下载或其他人打包后获取； 各个 jar 包之间繁琐的依赖关系需要我们自行解决；</description>
+      <link>https://ez4jam1n.site/studio/md/java/maven/20220101-maven-intro-install.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/maven/20220101-maven-intro-install.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">简介，安装及配置</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 在我们之前的开发过程中，往往会遇到以下问题： 一个项目就是一个工程，当项目过大时，难以管理； 项目中的 jar 包（也就是我们的依赖文件），需要我们手动进行移动到 Web 项目的 WEB-INF/lib 目录中； jar 一般是通过下载或其他人打包后获取； 各个 jar 包之间繁琐的依赖关系需要我们自行解决；</description>
       <category>Maven 教程</category>
       <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -8584,14 +8584,14 @@
     </item>
     <item>
       <title>常用命令及项目骨架生成</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/maven/20220102-maven-command-skeleton.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/maven/20220102-maven-command-skeleton.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">常用命令及项目骨架生成</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 上一篇文章中我们已经介绍了什么是 Maven，以及如何进行 Maven 的安装，最后还对 Maven 安装后的简单配置进行了讲解。今天我们就主要来看看 Maven 中的核心概念以及 Maven 在日常使用中常用的命令。</description>
+      <link>https://ez4jam1n.site/studio/md/java/maven/20220102-maven-command-skeleton.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/maven/20220102-maven-command-skeleton.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">常用命令及项目骨架生成</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 上一篇文章中我们已经介绍了什么是 Maven，以及如何进行 Maven 的安装，最后还对 Maven 安装后的简单配置进行了讲解。今天我们就主要来看看 Maven 中的核心概念以及 Maven 在日常使用中常用的命令。 Maven 核心</description>
       <category>Maven 教程</category>
       <pubDate>Sun, 02 Jan 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -8700,14 +8700,14 @@
     </item>
     <item>
       <title>仓库、坐标以及依赖管理</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/maven/20220103-maven-warehouse-dependency.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/maven/20220103-maven-warehouse-dependency.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">仓库、坐标以及依赖管理</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 在我们创建使用 Maven 项目的过程中，当需要用到第三方的插件时，都是通过依赖管理来达成，也就是 Maven 项目中必有的 pom.xml 文件。POM（Project Object Model），即 项目对象模型，其中定义了 Maven 项目的形式。因此，pom.xml 可以看做是 Maven 项目中的导航。</description>
+      <link>https://ez4jam1n.site/studio/md/java/maven/20220103-maven-warehouse-dependency.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/maven/20220103-maven-warehouse-dependency.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">仓库、坐标以及依赖管理</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 在我们创建使用 Maven 项目的过程中，当需要用到第三方的插件时，都是通过依赖管理来达成，也就是 Maven 项目中必有的 pom.xml 文件。POM（Project Object Model），即 项目对象模型，其中定义了 Maven 项目的形式。因此，pom.xml 可以看做是 Maven 项目中的导航。</description>
       <category>Maven 教程</category>
       <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -8809,14 +8809,14 @@
     </item>
     <item>
       <title>使用 IDEA 创建 Maven 项目</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/maven/20220104-maven-project-with-idea.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/maven/20220104-maven-project-with-idea.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">使用 IDEA 创建 Maven 项目</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 之前我们已经学习过 Maven 是什么，我们可以用它来干什么。接着我们又介绍了如何安装和配置 Maven，再接着，我们又了解了 Maven 中常用的一些命令以及如何利用 Archetype 来生成项目骨架，并对利用 Maven 所生成项目的结构进行了描述。最后则是 Maven 中的一些核心概念和如何进行依赖管理，并说明当依赖产生冲突时，应该如何解决。但以上始终还是停留在概念的阶段，并未进入我们实际的开发中。那么今天的内容就主要来看看，我们如何利用 IDEA 搭配 Maven 来开发一个简单的 Demo。</description>
+      <link>https://ez4jam1n.site/studio/md/java/maven/20220104-maven-project-with-idea.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/maven/20220104-maven-project-with-idea.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">使用 IDEA 创建 Maven 项目</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 之前我们已经学习过 Maven 是什么，我们可以用它来干什么。接着我们又介绍了如何安装和配置 Maven，再接着，我们又了解了 Maven 中常用的一些命令以及如何利用 Archetype 来生成项目骨架，并对利用 Maven 所生成项目的结构进行了描述。最后则是 Maven 中的一些核心概念和如何进行依赖管理，并说明当依赖产生冲突时，应该如何解决。但以上始终还是停留在概念的阶段，并未进入我们实际的开发中。那么今天的内容就主要来看看，我们如何利用 IDEA 搭配 Maven 来开发一个简单的 Demo。</description>
       <category>Maven 教程</category>
       <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -8871,14 +8871,14 @@
     </item>
     <item>
       <title>简介</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/mybatis/20220201-introduction.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/mybatis/20220201-introduction.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">简介</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 什么是持久化 持久化是将程序数据在持久状态和瞬时状态间转换的机制，将数据保存到可永久保存的存储设备中。最常见的就是将内存中的对象存储在数据库中，或者存在磁盘文件、XML 数据文件中等等。其中，文件 IO 属于持久化机制，而 JDBC 也是一种持久化机制。</description>
+      <link>https://ez4jam1n.site/studio/md/java/mybatis/20220201-introduction.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/mybatis/20220201-introduction.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">简介</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 什么是持久化 持久化是将程序数据在持久状态和瞬时状态间转换的机制，将数据保存到可永久保存的存储设备中。最常见的就是将内存中的对象存储在数据库中，或者存在磁盘文件、XML 数据文件中等等。其中，文件 IO 属于持久化机制，而 JDBC 也是一种持久化机制。</description>
       <category>MyBatis 教程</category>
       <pubDate>Tue, 01 Feb 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -8950,14 +8950,14 @@
     </item>
     <item>
       <title>快速入门</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/mybatis/20220202-quick-start.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/mybatis/20220202-quick-start.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">快速入门</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 上一篇文章中我们讲了什么是持久化以及 Mybatis 的相关简介，今天就来看看如何创建一个 Mybatis 入门实例以及如何利用 Mybatis 进行 CRUD。 数据库准备 首先，我们来创建一个数据库，用于后序步骤的使用；</description>
+      <link>https://ez4jam1n.site/studio/md/java/mybatis/20220202-quick-start.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/mybatis/20220202-quick-start.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">快速入门</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 上一篇文章中我们讲了什么是持久化以及 Mybatis 的相关简介，今天就来看看如何创建一个 Mybatis 入门实例以及如何利用 Mybatis 进行 CRUD。 数据库准备 首先，我们来创建一个数据库，用于后序步骤的使用；</description>
       <category>MyBatis 教程</category>
       <pubDate>Wed, 02 Feb 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -8976,8 +8976,8 @@
 </ol>
 <div class="language-sql line-numbers-mode" data-ext="sql"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 创建 Maven 工程</h2>
 <ol>
-<li>对于如何创建 Maven 工程，可以参照我之前写的一篇文章：<a href="/JavaPark/md/java/maven/20220104-maven-project-with-idea.html" target="blank">利用 IDEA 搭建一个 Maven 项目 </a></li>
-<li>接着在项目的 <code>pom.xml</code> 中添加 MyBatis、MySQL、Junit 以及 Lombok 的依赖，关于更多 Lombok 的使用，可以参考我的另一篇文章：<a href="/JavaPark/md/java/se/20220719-lombok-install-and-usage.html" target="blank">Lombok 安装及使用指南</a></li>
+<li>对于如何创建 Maven 工程，可以参照我之前写的一篇文章：<a href="/studio/md/java/maven/20220104-maven-project-with-idea.html" target="blank">利用 IDEA 搭建一个 Maven 项目 </a></li>
+<li>接着在项目的 <code>pom.xml</code> 中添加 MyBatis、MySQL、Junit 以及 Lombok 的依赖，关于更多 Lombok 的使用，可以参考我的另一篇文章：<a href="/studio/md/java/se/20220719-lombok-install-and-usage.html" target="blank">Lombok 安装及使用指南</a></li>
 </ol>
 <div class="language-xml line-numbers-mode" data-ext="xml"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 准备工作</h2>
 <ol>
@@ -9043,20 +9043,20 @@
 <p>以上就是我们今天的所有内容了，原创不易，如果你觉得我的文章对你有所帮助，那就帮忙点赞关注吧，我们就下篇文章再见吧 ~</p>
 <p>而关于文章中的示例代码，我已经上传到了 Github，如果有需要的朋友，可以自取。</p>
 <blockquote>
-<p>传送门：<a href="https://github.com/cunyu1943/java-learning-demos" target="_blank" rel="noopener noreferrer">https://github.com/cunyu1943/java-learning-demos</a></p>
+<p>传送门：<a href="https://github.com/ez4jam1n/java-learning-demos" target="_blank" rel="noopener noreferrer">https://github.com/ez4jam1n/java-learning-demos</a></p>
 </blockquote>
 ]]></content:encoded>
     </item>
     <item>
       <title>MyBatis Generator 代码自动生成器</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/mybatis/20220203-mybatis-generator.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/mybatis/20220203-mybatis-generator.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">MyBatis Generator 代码自动生成器</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 在日常开发工作中，我们往往需要自己去构建各种数据表所对应的持久化对象（PO）、用于操作数据库的接口（DAO）以及跟 DAO 所绑定的对应 XML。这都是一些重复性的操作，不需要多大技术含量，这时候我们不禁会去想，有没有一种工具，能够帮助我们去自动生成这些文件呢？答案是：有的！</description>
+      <link>https://ez4jam1n.site/studio/md/java/mybatis/20220203-mybatis-generator.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/mybatis/20220203-mybatis-generator.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">MyBatis Generator 代码自动生成器</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 在日常开发工作中，我们往往需要自己去构建各种数据表所对应的持久化对象（PO）、用于操作数据库的接口（DAO）以及跟 DAO 所绑定的对应 XML。这都是一些重复性的操作，不需要多大技术含量，这时候我们不禁会去想，有没有一种工具，能够帮助我们去自动生成这些文件呢？答案是：有的！</description>
       <category>MyBatis 教程</category>
       <pubDate>Thu, 03 Feb 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -9234,7 +9234,7 @@
 <ol start="6">
 <li><strong>javaModelGenerator</strong></li>
 </ol>
-<p>这里主要用于配置自动生成的 PO 所在的包路径和项目路径，这里需要根据自己的需求进行配置，这里以我自己的配置为例，比如我的 PO 所在包为 <code>com.cunyu1943.mybatisgeneratordemo.entity</code>，项目路径为 <code>src/main/java</code>。</p>
+<p>这里主要用于配置自动生成的 PO 所在的包路径和项目路径，这里需要根据自己的需求进行配置，这里以我自己的配置为例，比如我的 PO 所在包为 <code>com.ez4jam1n.mybatisgeneratordemo.entity</code>，项目路径为 <code>src/main/java</code>。</p>
 <div class="language-xml line-numbers-mode" data-ext="xml"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ol start="7">
 <li><strong>sqlMapGenerator</strong></li>
 </ol>
@@ -9257,20 +9257,20 @@
 <p>以上就是利用 Maven 搭配 MyBatis Generator 来配置生成项目 PO、Mapper、XXXMapper.xml 的具体搭建过程了。如果你也刚好有这个需求，那赶紧去试试吧。搭建过程中如果遇到什么问题，欢迎评论区留言交流，我会在看到的第一时间回复。</p>
 <p>最后，关于本示例的相关代码，我已经传到了 Github，如果有需要的兄弟，可以自取。</p>
 <blockquote>
-<p>🎉🎉🎉 传送门 -&gt; <a href="https://github.com/cunyu1943/java-learning-demos/tree/main/mybatis-generator-demo" target="_blank" rel="noopener noreferrer">mybatis-generator-demo</a></p>
+<p>🎉🎉🎉 传送门 -&gt; <a href="https://github.com/ez4jam1n/java-learning-demos/tree/main/mybatis-generator-demo" target="_blank" rel="noopener noreferrer">mybatis-generator-demo</a></p>
 </blockquote>
 ]]></content:encoded>
     </item>
     <item>
       <title>简介及入门实例</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/mybatisplus/20220201-intro-and-quick-start.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/mybatisplus/20220201-intro-and-quick-start.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">简介及入门实例</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 最开始，要在 Java 中使用数据库时，需要使用 JDBC，创建 Connection、ResultSet 等，然后我们又对 JDBC 的操作进行了封装，创建了许多类似于 DBUtil 等工具类。再慢慢的，出现了一系列持久层的框架：Hibernate、JPA，Mybatis 等。各个框架的特点如下：</description>
+      <link>https://ez4jam1n.site/studio/md/java/mybatisplus/20220201-intro-and-quick-start.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/mybatisplus/20220201-intro-and-quick-start.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">简介及入门实例</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 最开始，要在 Java 中使用数据库时，需要使用 JDBC，创建 Connection、ResultSet 等，然后我们又对 JDBC 的操作进行了封装，创建了许多类似于 DBUtil 等工具类。再慢慢的，出现了一系列持久层的框架：Hibernate、JPA，Mybatis 等。各个框架的特点如下：</description>
       <category>MyBatis Plus 教程</category>
       <pubDate>Tue, 01 Feb 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -9366,7 +9366,7 @@
 <p>好了，完成上面的步骤之后，我们就可以去测试接口了。去测试的主程序 <code>EmployeeApplicationTests</code> 中，添加如下代码进行接口测试。</p>
 <div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p></p>
 <p>可以看到执行我们测试代码后测试成功了，说明接口是没问题的。</p>
-<p>这里需要注意的是 <code>Assert.assertEquals(3, employees.size());</code> 这句代码，这里我们引入了 <code>Junit</code> 测试模块，所以需要记得在 <code>pom.xml</code> 中添加相关依赖，更多关于 <code>Junit</code> 测试相关的信息，可以参考我之前写的一篇文章：<a href="https://cunyu1943.github.io/JavaPark/md/java/se/20220718-test-with-junit" target="_blank" rel="noopener noreferrer">抛弃传统注释测试，拥抱 Junit 单元测试</a>。</p>
+<p>这里需要注意的是 <code>Assert.assertEquals(3, employees.size());</code> 这句代码，这里我们引入了 <code>Junit</code> 测试模块，所以需要记得在 <code>pom.xml</code> 中添加相关依赖，更多关于 <code>Junit</code> 测试相关的信息，可以参考我之前写的一篇文章：<a href="https://ez4jam1n.github.io/studio/md/java/se/20220718-test-with-junit" target="_blank" rel="noopener noreferrer">抛弃传统注释测试，拥抱 Junit 单元测试</a>。</p>
 <div class="language-xml line-numbers-mode" data-ext="xml"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 总结</h2>
 <p>今天的文章到此就结束了，主要介绍了 Mybatis-Plus 的一些相关简介，然后就是利用 Mybatis-Plus 来进行我们的一个实例操作了。</p>
 <p>最后，创作不易，如果本文对你有所帮助，还请各位小伙伴可以 <strong>一键三连</strong>。感谢大家的支持，我们下期文章再见！</p>
@@ -9374,14 +9374,14 @@
     </item>
     <item>
       <title>日志配置及常用 CRUD</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/mybatisplus/20220202-log-and-common-crud.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/mybatisplus/20220202-log-and-common-crud.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">日志配置及常用 CRUD</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 上一篇文章中我们讲了 Mybatis-Plus 的定义以及相关特点，并从零开始编写了一个 SpringBoot + Mybatis-Plus 的实例。今天我们就来看看，如何利用 MP 来实现对数据库的增删改查。</description>
+      <link>https://ez4jam1n.site/studio/md/java/mybatisplus/20220202-log-and-common-crud.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/mybatisplus/20220202-log-and-common-crud.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">日志配置及常用 CRUD</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 上一篇文章中我们讲了 Mybatis-Plus 的定义以及相关特点，并从零开始编写了一个 SpringBoot + Mybatis-Plus 的实例。今天我们就来看看，如何利用 MP 来实现对数据库的增删改查。 日志配置</description>
       <category>MyBatis Plus 教程</category>
       <pubDate>Wed, 02 Feb 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -9838,9 +9838,9 @@
     </item>
     <item>
       <title>目录结构与运行原理</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/nginx/20220827-structure.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/nginx/20220827-structure.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">目录结构与运行原理</source>
+      <link>https://ez4jam1n.site/studio/md/java/nginx/20220827-structure.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/nginx/20220827-structure.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">目录结构与运行原理</source>
       <description>目录</description>
       <category>Nginx 教程</category>
       <pubDate>Sat, 27 Aug 2022 00:00:00 GMT</pubDate>
@@ -9849,14 +9849,14 @@
     </item>
     <item>
       <title>Nginx 简介与安装</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/nginx/20220901-intro-install.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/nginx/20220901-intro-install.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">Nginx 简介与安装</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 简介 什么是 Nginx Nginx 是一个跨平台、轻量级、高性能的 HTTP 和反向代理 web 服务器，而且同时也提供了 IMAP/POP3/SMTP 服务。Nginx 最高能够支持高到 50000 个并发连接数的相应，在最高并发连接的情况下，可以作为 Apache 服务的一个替代品。</description>
+      <link>https://ez4jam1n.site/studio/md/java/nginx/20220901-intro-install.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/nginx/20220901-intro-install.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">Nginx 简介与安装</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 简介 什么是 Nginx Nginx 是一个跨平台、轻量级、高性能的 HTTP 和反向代理 web 服务器，而且同时也提供了 IMAP/POP3/SMTP 服务。Nginx 最高能够支持高到 50000 个并发连接数的相应，在最高并发连接的情况下，可以作为 Apache 服务的一个替代品。</description>
       <category>Nginx 教程</category>
       <pubDate>Thu, 01 Sep 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -9957,14 +9957,14 @@
     </item>
     <item>
       <title>Java 简介</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se/20220701-intro-to-java.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se/20220701-intro-to-java.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">Java 简介</source>
-      <description>作者：村雨遥 博客：JavaPark 原文：https://mp.weixin.qq.com/s/aGz8CBOK5mW8xjAlstlMQw 吾生也有涯，而知也无涯。</description>
+      <link>https://ez4jam1n.site/studio/md/java/se/20220701-intro-to-java.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se/20220701-intro-to-java.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">Java 简介</source>
+      <description>作者：村雨遥 博客：studio 原文：https://mp.weixin.qq.com/s/aGz8CBOK5mW8xjAlstlMQw 吾生也有涯，而知也无涯。</description>
       <category>Java 基础教程</category>
       <pubDate>Fri, 01 Jul 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <p>原文：<a href="https://mp.weixin.qq.com/s/aGz8CBOK5mW8xjAlstlMQw" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/aGz8CBOK5mW8xjAlstlMQw</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
@@ -10143,14 +10143,14 @@
     </item>
     <item>
       <title>开发环境搭建及入门程序</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se/20220702-jdk-install-and-hello-world.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se/20220702-jdk-install-and-hello-world.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">开发环境搭建及入门程序</source>
-      <description>作者：村雨遥 博客：JavaPark 原文：https://mp.weixin.qq.com/s/geOWlAwVMhtmmIMvFvjSpQ 吾生也有涯，而知也无涯。</description>
+      <link>https://ez4jam1n.site/studio/md/java/se/20220702-jdk-install-and-hello-world.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se/20220702-jdk-install-and-hello-world.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">开发环境搭建及入门程序</source>
+      <description>作者：村雨遥 博客：studio 原文：https://mp.weixin.qq.com/s/geOWlAwVMhtmmIMvFvjSpQ 吾生也有涯，而知也无涯。</description>
       <category>Java 基础教程</category>
       <pubDate>Sat, 02 Jul 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <p>原文：<a href="https://mp.weixin.qq.com/s/geOWlAwVMhtmmIMvFvjSpQ" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/geOWlAwVMhtmmIMvFvjSpQ</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
@@ -10159,7 +10159,7 @@
 <p>作为一个入门的学习者，要进行 Java 开发，那怎么能少得了 JDK 呢，本文就先来看看如何安装并配置 JDK，为后续的学习做好铺垫。</p>
 <h2> 下载并安装 JDK</h2>
 <p>什么是 JDK 呢？JDK（Java Development Kit）即 Java 开发者工具包，使我们学习 Java 语言必须安装的一个工具。</p>
-<p>这里主要以 Windows 和 macOS 系统中 JDK 的安装为例，一来因为考虑到大家用的最多的还是 Windows 和 macOS 系统，二来则是因为手边没有安装 Linux 图形化系统。如果恰好你使用的是 Linux 系统，那么推荐你参考一下其他的资料，同样你也可以参考我的另一篇文章：<a href="https://cunyu1943.blog.csdn.net/article/details/105648148" target="_blank" rel="noopener noreferrer">手把手带你玩转 Ubuntu</a>。</p>
+<p>这里主要以 Windows 和 macOS 系统中 JDK 的安装为例，一来因为考虑到大家用的最多的还是 Windows 和 macOS 系统，二来则是因为手边没有安装 Linux 图形化系统。如果恰好你使用的是 Linux 系统，那么推荐你参考一下其他的资料，同样你也可以参考我的另一篇文章：<a href="https://ez4jam1n.blog.csdn.net/article/details/105648148" target="_blank" rel="noopener noreferrer">手把手带你玩转 Ubuntu</a>。</p>
 <h3> Windows</h3>
 <h4> 安装</h4>
 <ol>
@@ -10324,14 +10324,14 @@
     </item>
     <item>
       <title>利用 IDEA 进行 Java 开发</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se/20220703-learn-java-with-idea.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se/20220703-learn-java-with-idea.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">利用 IDEA 进行 Java 开发</source>
-      <description>作者：村雨遥 博客：JavaPark 原文：https://mp.weixin.qq.com/s/Pkf1WTj-x6JH4Jo8mOr8SQ 吾生也有涯，而知也无涯。</description>
+      <link>https://ez4jam1n.site/studio/md/java/se/20220703-learn-java-with-idea.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se/20220703-learn-java-with-idea.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">利用 IDEA 进行 Java 开发</source>
+      <description>作者：村雨遥 博客：studio 原文：https://mp.weixin.qq.com/s/Pkf1WTj-x6JH4Jo8mOr8SQ 吾生也有涯，而知也无涯。</description>
       <category>Java 基础教程</category>
       <pubDate>Sun, 03 Jul 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <p>原文：<a href="https://mp.weixin.qq.com/s/Pkf1WTj-x6JH4Jo8mOr8SQ" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/Pkf1WTj-x6JH4Jo8mOr8SQ</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
@@ -10462,20 +10462,20 @@
 <p>这里如果您想了解 IDEA 的更多使用技巧，可以关注一下，后边我会抽空写一个完整的教程系列，敬请期待吧！您要是等不及了，那就加我微信来催我更文吧！</p>
 <blockquote>
 <p>最后，针对更多 IntelliJ IDEA 的使用，我特地写了一篇文章，赶紧去看看吧！</p>
-<p>-&gt; <a href="https://cunyu1943.github.io/JavaPark/md/dev-tools/idea" target="_blank" rel="noopener noreferrer">传送门</a></p>
+<p>-&gt; <a href="https://ez4jam1n.github.io/studio/md/dev-tools/idea" target="_blank" rel="noopener noreferrer">传送门</a></p>
 </blockquote>
 ]]></content:encoded>
     </item>
     <item>
       <title>变量与数据类型</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se/20220704-variable-and-datatype.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se/20220704-variable-and-datatype.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">变量与数据类型</source>
-      <description>作者：村雨遥 博客：JavaPark 原文：https://mp.weixin.qq.com/s/Yz41IdWSNTgqgj0R-Ffgqw 吾生也有涯，而知也无涯。</description>
+      <link>https://ez4jam1n.site/studio/md/java/se/20220704-variable-and-datatype.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se/20220704-variable-and-datatype.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">变量与数据类型</source>
+      <description>作者：村雨遥 博客：studio 原文：https://mp.weixin.qq.com/s/Yz41IdWSNTgqgj0R-Ffgqw 吾生也有涯，而知也无涯。</description>
       <category>Java 基础教程</category>
       <pubDate>Mon, 04 Jul 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <p>原文：<a href="https://mp.weixin.qq.com/s/Yz41IdWSNTgqgj0R-Ffgqw" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/Yz41IdWSNTgqgj0R-Ffgqw</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
@@ -10517,7 +10517,7 @@
 <li><strong>强制</strong>：变量命名只能使用 <strong>字母（大小写均可）、数字、$、_</strong>；</li>
 <li><strong>强制</strong>：变量名不能使用关键字（就是 Java 中内置的一些关键字，如 <code>int、for、long…</code>）；</li>
 <li><strong>强制</strong>：变量第一个字符不能使用数字，只能用字母、<code>$</code>、<code>_</code>；</li>
-<li>更多命名规则推荐参考阿里巴巴推出的《Java 开发手册》，下载链接：<a href="https://github.com/cunyu1943/ebooks" target="_blank" rel="noopener noreferrer">https://github.com/cunyu1943/ebooks</a></li>
+<li>更多命名规则推荐参考阿里巴巴推出的《Java 开发手册》，下载链接：<a href="https://github.com/ez4jam1n/ebooks" target="_blank" rel="noopener noreferrer">https://github.com/ez4jam1n/ebooks</a></li>
 </ol>
 <h3> 常见关键字</h3>
 <p>这是一种事先定义好的，有特定意义的标识符，也叫做保留字。对于 Java 编译器有着特殊意义，用来表示一种数据类型，或者表示程序的结构等。此外，关键字不能用作变量名、方法名、类名、包名和参数名。常见的关键字可以分为如下几类，具体的关键字如下图所示：</p>
@@ -10889,21 +10889,21 @@
 <p>最后，码字不易，如果觉得本文对您有所帮助，可以点赞关注，帮忙分享一波哦！🙏</p>
 <p><strong>关注公众号，获取最新文章更新</strong></p>
 <div style="text-align:center">
-<p><img src="https://cdn.jsdelivr.net/gh/cunyu1943/cunyu1943@main/imgs/wepublic.gif" alt="" width="200"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/ez4jam1n/ez4jam1n@main/imgs/wepublic.gif" alt="" width="200"></p>
 </div>
 ]]></content:encoded>
       <enclosure url="https://img-blog.csdnimg.cn/9f8fed4aeeda4dea9d1de0ff7677ca4a.png" type="image/png"/>
     </item>
     <item>
       <title>常用进制转换</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se/20220705-binary-convert.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se/20220705-binary-convert.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">常用进制转换</source>
-      <description>作者：村雨遥 博客：JavaPark 原文：https://mp.weixin.qq.com/s/2f_dODoVco-tSS66lF0U5A 吾生也有涯，而知也无涯。</description>
+      <link>https://ez4jam1n.site/studio/md/java/se/20220705-binary-convert.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se/20220705-binary-convert.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">常用进制转换</source>
+      <description>作者：村雨遥 博客：studio 原文：https://mp.weixin.qq.com/s/2f_dODoVco-tSS66lF0U5A 吾生也有涯，而知也无涯。</description>
       <category>Java 基础教程</category>
       <pubDate>Tue, 05 Jul 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <p>原文：<a href="https://mp.weixin.qq.com/s/2f_dODoVco-tSS66lF0U5A" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/2f_dODoVco-tSS66lF0U5A</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
@@ -10990,14 +10990,14 @@
     </item>
     <item>
       <title>操作符</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se/20220706-operator.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se/20220706-operator.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">操作符</source>
-      <description>作者：村雨遥 博客：JavaPark 原文：https://mp.weixin.qq.com/s/49KRDz8bpcGdPlU15OJD0g 吾生也有涯，而知也无涯。</description>
+      <link>https://ez4jam1n.site/studio/md/java/se/20220706-operator.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se/20220706-operator.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">操作符</source>
+      <description>作者：村雨遥 博客：studio 原文：https://mp.weixin.qq.com/s/49KRDz8bpcGdPlU15OJD0g 吾生也有涯，而知也无涯。</description>
       <category>Java 基础教程</category>
       <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <p>原文：<a href="https://mp.weixin.qq.com/s/49KRDz8bpcGdPlU15OJD0g" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/49KRDz8bpcGdPlU15OJD0g</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
@@ -11321,20 +11321,20 @@
 <p>对于文中所遗漏或者存在错误的知识点，也欢迎大家评论指正呀！</p>
 <p><strong>关注公众号，获取最新文章更新</strong></p>
 <div style="text-align:center">
-<p><img src="https://cdn.jsdelivr.net/gh/cunyu1943/cunyu1943@main/imgs/wepublic.gif" alt="" width="200"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/ez4jam1n/ez4jam1n@main/imgs/wepublic.gif" alt="" width="200"></p>
 </div>
 ]]></content:encoded>
     </item>
     <item>
       <title>流程控制</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se/20220707-control-process.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se/20220707-control-process.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">流程控制</source>
-      <description>作者：村雨遥 博客：JavaPark 原文：https://mp.weixin.qq.com/s/3WU5l37DpPkR6o7CnFiStA 吾生也有涯，而知也无涯。</description>
+      <link>https://ez4jam1n.site/studio/md/java/se/20220707-control-process.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se/20220707-control-process.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">流程控制</source>
+      <description>作者：村雨遥 博客：studio 原文：https://mp.weixin.qq.com/s/3WU5l37DpPkR6o7CnFiStA 吾生也有涯，而知也无涯。</description>
       <category>Java 基础教程</category>
       <pubDate>Thu, 07 Jul 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <p>原文：<a href="https://mp.weixin.qq.com/s/3WU5l37DpPkR6o7CnFiStA" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/3WU5l37DpPkR6o7CnFiStA</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
@@ -11566,20 +11566,20 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <p>其次就是对于文中遗漏或者存在欠缺的知识点，还请大家不吝赐教，在评论区指出来！</p>
 <p><strong>关注公众号，获取最新文章更新</strong></p>
 <div style="text-align:center">
-<p><img src="https://cdn.jsdelivr.net/gh/cunyu1943/cunyu1943@main/imgs/wepublic.gif" alt="" width="200"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/ez4jam1n/ez4jam1n@main/imgs/wepublic.gif" alt="" width="200"></p>
 </div>
 ]]></content:encoded>
     </item>
     <item>
       <title>面向对象的 3、5 知识点</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se/20220709-oop-1.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se/20220709-oop-1.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">面向对象的 3、5 知识点</source>
-      <description>作者：村雨遥 博客：JavaPark 原文：https://mp.weixin.qq.com/s/Z4F7tsjLkPbTGy4_gJPQTw 吾生也有涯，而知也无涯。</description>
+      <link>https://ez4jam1n.site/studio/md/java/se/20220709-oop-1.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se/20220709-oop-1.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">面向对象的 3、5 知识点</source>
+      <description>作者：村雨遥 博客：studio 原文：https://mp.weixin.qq.com/s/Z4F7tsjLkPbTGy4_gJPQTw 吾生也有涯，而知也无涯。</description>
       <category>Java 基础教程</category>
       <pubDate>Sat, 09 Jul 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <p>原文：<a href="https://mp.weixin.qq.com/s/Z4F7tsjLkPbTGy4_gJPQTw" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/Z4F7tsjLkPbTGy4_gJPQTw</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
@@ -11670,14 +11670,14 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>类的相关知识</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se/20220710-oop-2.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se/20220710-oop-2.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">类的相关知识</source>
-      <description>作者：村雨遥 博客：JavaPark 原文：https://mp.weixin.qq.com/s/1BPFnyNuC3fdYBVxP7J3VA 吾生也有涯，而知也无涯。</description>
+      <link>https://ez4jam1n.site/studio/md/java/se/20220710-oop-2.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se/20220710-oop-2.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">类的相关知识</source>
+      <description>作者：村雨遥 博客：studio 原文：https://mp.weixin.qq.com/s/1BPFnyNuC3fdYBVxP7J3VA 吾生也有涯，而知也无涯。</description>
       <category>Java 基础教程</category>
       <pubDate>Sun, 10 Jul 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <p>原文：<a href="https://mp.weixin.qq.com/s/1BPFnyNuC3fdYBVxP7J3VA" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/1BPFnyNuC3fdYBVxP7J3VA</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
@@ -11693,7 +11693,7 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <blockquote>
 <p>若成员变量是一个单词组成，那么一般都是小写。</p>
 <p>若成员变量是多个单词组成，那么则采用驼峰法。</p>
-<p>关于更多的命名规定，推荐参考阿里巴巴出品的 《Java 开发手册》，下载地址：<a href="https://github.com/cunyu1943/ebooks" target="_blank" rel="noopener noreferrer">https://github.com/cunyu1943/ebooks</a></p>
+<p>关于更多的命名规定，推荐参考阿里巴巴出品的 《Java 开发手册》，下载地址：<a href="https://github.com/ez4jam1n/ebooks" target="_blank" rel="noopener noreferrer">https://github.com/ez4jam1n/ebooks</a></p>
 </blockquote>
 <p>成员变量的完整定义格式语如下，一般来说无需指定初始化值，它是存在默认值的。</p>
 <div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><table>
@@ -11868,14 +11868,14 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>包和 jar 文件的创建</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se/20220711-oop-3.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se/20220711-oop-3.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">包和 jar 文件的创建</source>
-      <description>作者：村雨遥 博客：JavaPark 原文：https://mp.weixin.qq.com/s/l4O4bhDMgHamQ5DVPcqUYA 吾生也有涯，而知也无涯。</description>
+      <link>https://ez4jam1n.site/studio/md/java/se/20220711-oop-3.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se/20220711-oop-3.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">包和 jar 文件的创建</source>
+      <description>作者：村雨遥 博客：studio 原文：https://mp.weixin.qq.com/s/l4O4bhDMgHamQ5DVPcqUYA 吾生也有涯，而知也无涯。</description>
       <category>Java 基础教程</category>
       <pubDate>Mon, 11 Jul 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <p>原文：<a href="https://mp.weixin.qq.com/s/l4O4bhDMgHamQ5DVPcqUYA" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/l4O4bhDMgHamQ5DVPcqUYA</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
@@ -11972,7 +11972,7 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <h2> jar 文件的创建</h2>
 <p>其实关于这个，我在之前的文章也写过。不过我是利用 IntelliJ IDEA 来对进行代码的打包，如果感兴趣，可以点击下方传送门去看看。</p>
 <blockquote>
-<p><a href="https://cunyu1943.github.io/JavaPark/dev-tools/idea/java-quick-start-with-idea" title="如何利用 IntelliJ IDEA 创建 Java 入门应用" target="_blank" rel="noopener noreferrer">如何利用 IntelliJ IDEA 创建 Java 入门应用</a></p>
+<p><a href="https://ez4jam1n.github.io/studio/dev-tools/idea/java-quick-start-with-idea" title="如何利用 IntelliJ IDEA 创建 Java 入门应用" target="_blank" rel="noopener noreferrer">如何利用 IntelliJ IDEA 创建 Java 入门应用</a></p>
 </blockquote>
 <p>不过那是借助工具来生成的，今天我们来看看如何利用 JDK 所提供的命令行工具，来创建一个能打印出 <code>Hello World!</code> 的 <code>jar</code> 包。</p>
 <p>同样的，我们仍然是需要先准备一个能输出 <code>Hello World!</code> 的 Java 源代码，命名为 <code>HelloWorld.java</code>。</p>
@@ -11989,20 +11989,20 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <p>以上就是今天博客的所有内容了，如果您觉得本文不错，那就来个一键三连吧，您的关注就是我坚持的不懈动力！</p>
 <p><strong>关注公众号，获取最新文章更新</strong></p>
 <div style="text-align:center">
-<p><img src="https://cdn.jsdelivr.net/gh/cunyu1943/cunyu1943@main/imgs/wepublic.gif" alt="" width="200"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/ez4jam1n/ez4jam1n@main/imgs/wepublic.gif" alt="" width="200"></p>
 </div>
 ]]></content:encoded>
     </item>
     <item>
       <title>成员变量、实例变量、静态变量、局部变量</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se/20220712-all-kinds-of-variable.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se/20220712-all-kinds-of-variable.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">成员变量、实例变量、静态变量、局部变量</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 学习 Java 的过程中，一开始很容易被这些各种变量绕晕，这篇博客主要介绍了这几种变量之间的关系和区别。 实例 package com.cunyu.demo public class Demo { private String name; //成员变量、实例变量 private int age; //成员变量、实例变量 private int ID; //成员变量、实例变量 public static final String school = &amp;quot;卡塞尔学院&amp;quot;; //成员变量、静态变量(类变量) public static String level = &amp;quot;SSS&amp;quot;; //成员变量、静态变量(类变量) public int getAge() { return age; } public int getId() { return ID; } public String getName() { return name; } public void setAge(int age) { this.age = age; } public void setId(int ID) { this.ID = ID; } public void setName(String name) { this.name = name; } public void study(){ String subject1 = &amp;quot;屠龙&amp;quot;; //局部变量 String subject2 = &amp;quot;炼金术&amp;quot;; //局部变量 System.out.println(&amp;quot;学习科目： &amp;quot; + subject1 + &amp;quot;、&amp;quot; + subject2); } public static void main(String[] args) { Demo demo = new Demo(); demo.setAge(23); demo.setId(14000001); demo.setName(&amp;quot;楚子航&amp;quot;); System.out.println(&amp;quot;ID: &amp;quot; + demo.getId() + &amp;quot;Age: &amp;quot; + demo.getAge() + &amp;quot;Name: &amp;quot; + demo.getName()); System.out.print(&amp;quot;主修科目： &amp;quot;); demo.study(); System.out.println(&amp;quot;学院：&amp;quot; + Demo.school); System.out.println(&amp;quot;等级：&amp;quot; + Demo.level); } }</description>
+      <link>https://ez4jam1n.site/studio/md/java/se/20220712-all-kinds-of-variable.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se/20220712-all-kinds-of-variable.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">成员变量、实例变量、静态变量、局部变量</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 学习 Java 的过程中，一开始很容易被这些各种变量绕晕，这篇博客主要介绍了这几种变量之间的关系和区别。 实例 package com.cunyu.demo public class Demo { private String name; //成员变量、实例变量 private int age; //成员变量、实例变量 private int ID; //成员变量、实例变量 public static final String school = &amp;quot;卡塞尔学院&amp;quot;; //成员变量、静态变量(类变量) public static String level = &amp;quot;SSS&amp;quot;; //成员变量、静态变量(类变量) public int getAge() { return age; } public int getId() { return ID; } public String getName() { return name; } public void setAge(int age) { this.age = age; } public void setId(int ID) { this.ID = ID; } public void setName(String name) { this.name = name; } public void study(){ String subject1 = &amp;quot;屠龙&amp;quot;; //局部变量 String subject2 = &amp;quot;炼金术&amp;quot;; //局部变量 System.out.println(&amp;quot;学习科目： &amp;quot; + subject1 + &amp;quot;、&amp;quot; + subject2); } public static void main(String[] args) { Demo demo = new Demo(); demo.setAge(23); demo.setId(14000001); demo.setName(&amp;quot;楚子航&amp;quot;); System.out.println(&amp;quot;ID: &amp;quot; + demo.getId() + &amp;quot;Age: &amp;quot; + demo.getAge() + &amp;quot;Name: &amp;quot; + demo.getName()); System.out.print(&amp;quot;主修科目： &amp;quot;); demo.study(); System.out.println(&amp;quot;学院：&amp;quot; + Demo.school); System.out.println(&amp;quot;等级：&amp;quot; + Demo.level); } }</description>
       <category>Java 基础教程</category>
       <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -12059,20 +12059,20 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <p>以上就是关于 Java 编程中，静态变量、类变量、实例变量、局部变量以及成员变量之间的相关区别了。读完本文，你是否对这几个变量之间能进行一定程度上的区分了呢？</p>
 <p><strong>关注公众号，获取最新文章更新</strong></p>
 <div style="text-align:center">
-<p><img src="https://cdn.jsdelivr.net/gh/cunyu1943/cunyu1943@main/imgs/wepublic.gif" alt="" width="200"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/ez4jam1n/ez4jam1n@main/imgs/wepublic.gif" alt="" width="200"></p>
 </div>
 ]]></content:encoded>
     </item>
     <item>
       <title>String 详解</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se/20220713-string.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se/20220713-string.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">String 详解</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 概述 String 类代表字符串，定义的变量可以用来指向字符串对象，然后操作该字符串，同时还提供了许多用于操作字符串的功能。Java 中，所有的字符串都用双引号 &amp;quot;&amp;quot; 括起来。</description>
+      <link>https://ez4jam1n.site/studio/md/java/se/20220713-string.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se/20220713-string.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">String 详解</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 概述 String 类代表字符串，定义的变量可以用来指向字符串对象，然后操作该字符串，同时还提供了许多用于操作字符串的功能。Java 中，所有的字符串都用双引号 &amp;quot;&amp;quot; 括起来。</description>
       <category>Java 基础教程</category>
       <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -12290,14 +12290,14 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>ArrayList 详解</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se/20220714-arraylist.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se/20220714-arraylist.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">ArrayList 详解</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 概述 ArrayList 代表的是集合类，集合是一种容器，类似于数组。不同的是数组一旦定义后，其类型和长度就固定了，但集合的大小却是动态变化的，而且其中的元素类型也是动态的。 因此，数组更适合数据个数和类型确定的场景，而集合则更适合数据个数不确定，且需要做增删元素的场景。</description>
+      <link>https://ez4jam1n.site/studio/md/java/se/20220714-arraylist.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se/20220714-arraylist.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">ArrayList 详解</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 概述 ArrayList 代表的是集合类，集合是一种容器，类似于数组。不同的是数组一旦定义后，其类型和长度就固定了，但集合的大小却是动态变化的，而且其中的元素类型也是动态的。 因此，数组更适合数据个数和类型确定的场景，而集合则更适合数据个数不确定，且需要做增删元素的场景。</description>
       <category>Java 基础教程</category>
       <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -12443,14 +12443,14 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>输入输出流</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se/20220715-in-out-stream.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se/20220715-in-out-stream.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">输入输出流</source>
-      <description>作者：村雨遥 博客：JavaPark 原文：https://mp.weixin.qq.com/s/I8UJKtTtdqcbbxcTx_dVzg 吾生也有涯，而知也无涯。</description>
+      <link>https://ez4jam1n.site/studio/md/java/se/20220715-in-out-stream.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se/20220715-in-out-stream.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">输入输出流</source>
+      <description>作者：村雨遥 博客：studio 原文：https://mp.weixin.qq.com/s/I8UJKtTtdqcbbxcTx_dVzg 吾生也有涯，而知也无涯。</description>
       <category>Java 基础教程</category>
       <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <p>原文：<a href="https://mp.weixin.qq.com/s/I8UJKtTtdqcbbxcTx_dVzg" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/I8UJKtTtdqcbbxcTx_dVzg</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
@@ -12492,8 +12492,8 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p></p>
 <p>对于我们传入文件的路径，既可以使用绝对路径，也可以使用相对路径。</p>
 <ul>
-<li><strong>相对路径</strong>：以当前文件所在位置为参考，然后建立出另一个文件所在位置路径。我们最常用的有 <code>.</code> 和 <code>..</code>，前者表示当前目录，而后者则表示当前目录的上一级目录。假设我们当前目录为 <code>/home/cunyu1943/data</code>，则 <code>.</code> 仍然表示该目录，而 <code>..</code> 则表示 <code>/home/cunyu1943</code> 目录。</li>
-<li><strong>绝对路径</strong>：又可以分为 <strong>本地绝对路径</strong> 和 <strong>网络绝对路径</strong>。本地绝对路径以根目录为参考，指文件在硬盘中真实存在的路径，比如在 Windows 系统，我们的一个绝对路径是 <code>D:\\Softwares\\Typora\\Typora.exe</code>，而在类 <code>Unix</code> 系统中则为 <code>/home/cunyu1943/IO.md</code>，此时需要注意平台间的分隔符是不一样的，但为了同一，推荐同一写成 <code>/</code>，这样程序在不同系统中迁移时也不会出现问题。而网络绝对位置则指带有网址的路径，比如 <code>https://cunyu1943.site/index.html</code>。</li>
+<li><strong>相对路径</strong>：以当前文件所在位置为参考，然后建立出另一个文件所在位置路径。我们最常用的有 <code>.</code> 和 <code>..</code>，前者表示当前目录，而后者则表示当前目录的上一级目录。假设我们当前目录为 <code>/home/ez4jam1n/data</code>，则 <code>.</code> 仍然表示该目录，而 <code>..</code> 则表示 <code>/home/ez4jam1n</code> 目录。</li>
+<li><strong>绝对路径</strong>：又可以分为 <strong>本地绝对路径</strong> 和 <strong>网络绝对路径</strong>。本地绝对路径以根目录为参考，指文件在硬盘中真实存在的路径，比如在 Windows 系统，我们的一个绝对路径是 <code>D:\\Softwares\\Typora\\Typora.exe</code>，而在类 <code>Unix</code> 系统中则为 <code>/home/ez4jam1n/IO.md</code>，此时需要注意平台间的分隔符是不一样的，但为了同一，推荐同一写成 <code>/</code>，这样程序在不同系统中迁移时也不会出现问题。而网络绝对位置则指带有网址的路径，比如 <code>https://ez4jam1n.site/index.html</code>。</li>
 </ul>
 <div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p></p>
 <h3> 文件和目录操作</h3>
@@ -12813,20 +12813,20 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <p>对于文中遗漏或者错误的知识点，欢迎大家评论留言，咱们评论区见！</p>
 <p><strong>关注公众号，获取最新文章更新</strong></p>
 <div style="text-align:center">
-<p><img src="https://cdn.jsdelivr.net/gh/cunyu1943/cunyu1943@main/imgs/wepublic.gif" alt="" width="200"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/ez4jam1n/ez4jam1n@main/imgs/wepublic.gif" alt="" width="200"></p>
 </div>
 ]]></content:encoded>
     </item>
     <item>
       <title>反射机制详解</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se/20220716-reflection.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se/20220716-reflection.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">反射机制详解</source>
-      <description>作者：村雨遥 博客：JavaPark 原文：https://mp.weixin.qq.com/s/f0sJpAhgI6B7oirsJfv9jQ 吾生也有涯，而知也无涯。</description>
+      <link>https://ez4jam1n.site/studio/md/java/se/20220716-reflection.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se/20220716-reflection.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">反射机制详解</source>
+      <description>作者：村雨遥 博客：studio 原文：https://mp.weixin.qq.com/s/f0sJpAhgI6B7oirsJfv9jQ 吾生也有涯，而知也无涯。</description>
       <category>Java 基础教程</category>
       <pubDate>Sat, 16 Jul 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <p>原文：<a href="https://mp.weixin.qq.com/s/f0sJpAhgI6B7oirsJfv9jQ" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/f0sJpAhgI6B7oirsJfv9jQ</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
@@ -13048,20 +13048,20 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <p>最后，对于文中知识点有错误或欠缺的地方，还请大家见谅，欢迎大家评论留言给我指正~</p>
 <p><strong>关注公众号，获取最新文章更新</strong></p>
 <div style="text-align:center">
-<p><img src="https://cdn.jsdelivr.net/gh/cunyu1943/cunyu1943@main/imgs/wepublic.gif" alt="" width="200"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/ez4jam1n/ez4jam1n@main/imgs/wepublic.gif" alt="" width="200"></p>
 </div>
 ]]></content:encoded>
     </item>
     <item>
       <title>JDBC 入门指南</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se/20220717-jdbc-introduction.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se/20220717-jdbc-introduction.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">JDBC 入门指南</source>
-      <description>作者：村雨遥 博客：JavaPark 原文：https://mp.weixin.qq.com/s/DOXFxk5dk9WBfAVK0UJUng 吾生也有涯，而知也无涯。</description>
+      <link>https://ez4jam1n.site/studio/md/java/se/20220717-jdbc-introduction.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se/20220717-jdbc-introduction.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">JDBC 入门指南</source>
+      <description>作者：村雨遥 博客：studio 原文：https://mp.weixin.qq.com/s/DOXFxk5dk9WBfAVK0UJUng 吾生也有涯，而知也无涯。</description>
       <category>Java 基础教程</category>
       <pubDate>Sun, 17 Jul 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <p>原文：<a href="https://mp.weixin.qq.com/s/DOXFxk5dk9WBfAVK0UJUng" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/DOXFxk5dk9WBfAVK0UJUng</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
@@ -13382,20 +13382,20 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <p>对于文中有错或遗漏的地方，还烦请各位大佬在评论区指出来。我是村雨遥，一个技术栈主要为 Java 的菜鸟程序员，关注我，一起学习成长吧！</p>
 <p><strong>关注公众号，获取最新文章更新</strong></p>
 <div style="text-align:center">
-<p><img src="https://cdn.jsdelivr.net/gh/cunyu1943/cunyu1943@main/imgs/wepublic.gif" alt="" width="200"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/ez4jam1n/ez4jam1n@main/imgs/wepublic.gif" alt="" width="200"></p>
 </div>
 ]]></content:encoded>
     </item>
     <item>
       <title>是时候拥抱 Junit 单元测试了</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se/20220718-test-with-junit.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se/20220718-test-with-junit.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">是时候拥抱 Junit 单元测试了</source>
-      <description>作者：村雨遥 博客：JavaPark 原文：https://mp.weixin.qq.com/s/_FWd0Bj3DlbCReex6pqJKQ 吾生也有涯，而知也无涯。</description>
+      <link>https://ez4jam1n.site/studio/md/java/se/20220718-test-with-junit.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se/20220718-test-with-junit.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">是时候拥抱 Junit 单元测试了</source>
+      <description>作者：村雨遥 博客：studio 原文：https://mp.weixin.qq.com/s/_FWd0Bj3DlbCReex6pqJKQ 吾生也有涯，而知也无涯。</description>
       <category>Java 基础教程</category>
       <pubDate>Mon, 18 Jul 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <p>原文：<a href="https://mp.weixin.qq.com/s/_FWd0Bj3DlbCReex6pqJKQ" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/_FWd0Bj3DlbCReex6pqJKQ</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
@@ -13609,20 +13609,20 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <p>好了，以上就是有关单元测试 Junit 的简单使用指南了。虽说大家现在还是有很多人在使用 Junit4，但如果你之前并未接触过 Junit，个人建议那就直接学习 Junit5 吧。当然了，Junit4 了解也是很有必要的，毕竟技多不压身，多一份技能少求人嘛。</p>
 <p><strong>关注公众号，获取最新文章更新</strong></p>
 <div style="text-align:center">
-<p><img src="https://cdn.jsdelivr.net/gh/cunyu1943/cunyu1943@main/imgs/wepublic.gif" alt="" width="200"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/ez4jam1n/ez4jam1n@main/imgs/wepublic.gif" alt="" width="200"></p>
 </div>
 ]]></content:encoded>
     </item>
     <item>
       <title>Lombok 安装及使用指南</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se/20220719-lombok-install-and-usage.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se/20220719-lombok-install-and-usage.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">Lombok 安装及使用指南</source>
-      <description>作者：村雨遥 博客：JavaPark 原文：https://mp.weixin.qq.com/s/t4h5VRfbYqNIRZVlMaqPEg 吾生也有涯，而知也无涯。</description>
+      <link>https://ez4jam1n.site/studio/md/java/se/20220719-lombok-install-and-usage.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se/20220719-lombok-install-and-usage.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">Lombok 安装及使用指南</source>
+      <description>作者：村雨遥 博客：studio 原文：https://mp.weixin.qq.com/s/t4h5VRfbYqNIRZVlMaqPEg 吾生也有涯，而知也无涯。</description>
       <category>Java 基础教程</category>
       <pubDate>Tue, 19 Jul 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <p>原文：<a href="https://mp.weixin.qq.com/s/t4h5VRfbYqNIRZVlMaqPEg" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/t4h5VRfbYqNIRZVlMaqPEg</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
@@ -13785,20 +13785,20 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 </ol>
 <p><strong>关注公众号，获取最新文章更新</strong></p>
 <div style="text-align:center">
-<p><img src="https://cdn.jsdelivr.net/gh/cunyu1943/cunyu1943@main/imgs/wepublic.gif" alt="" width="200"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/ez4jam1n/ez4jam1n@main/imgs/wepublic.gif" alt="" width="200"></p>
 </div>
 ]]></content:encoded>
     </item>
     <item>
       <title>Fastjson V2 简单使用手册</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se/20220720-fastjson2-quickstart.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se/20220720-fastjson2-quickstart.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">Fastjson V2 简单使用手册</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 在日常 Java 企业级开发中，可能避不开 JSON 这个格式。 JSON 源于 1999 年的 JS 语言规范 ECMA262 的一个子集，然后又在 2003 年作为一种数据格式 ECMA404 发布，到了 2006 年，又作为 rfc4627 发布。直到现在，JSON 的应用已经十分广泛了。</description>
+      <link>https://ez4jam1n.site/studio/md/java/se/20220720-fastjson2-quickstart.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se/20220720-fastjson2-quickstart.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">Fastjson V2 简单使用手册</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 在日常 Java 企业级开发中，可能避不开 JSON 这个格式。 JSON 源于 1999 年的 JS 语言规范 ECMA262 的一个子集，然后又在 2003 年作为一种数据格式 ECMA404 发布，到了 2006 年，又作为 rfc4627 发布。直到现在，JSON 的应用已经十分广泛了。</description>
       <category>Java 基础教程</category>
       <pubDate>Wed, 20 Jul 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -13818,7 +13818,7 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <p>首先，我们创建一个 <code>Maven</code> 项目，用来演示 <code>Fastjson</code> 的使用，也方便我们管理依赖。同时，这里选择 <code>Fastjson v2</code> 来作为今天的演示主角。</p>
 <p>当然，首要的工作就是创建一个 <code>Maven</code> 项目，如果你还有点摸不着头脑，那可以移步先去看看前备知识：</p>
 <blockquote>
-<p><a href="https://cunyu1943.github.io/JavaPark/md/java/maven/20220104-maven-project-with-idea" target="_blank" rel="noopener noreferrer">Maven 教程：使用 IDEA 创建 Maven 项目</a></p>
+<p><a href="https://ez4jam1n.github.io/studio/md/java/maven/20220104-maven-project-with-idea" target="_blank" rel="noopener noreferrer">Maven 教程：使用 IDEA 创建 Maven 项目</a></p>
 </blockquote>
 <p>当我们创建完成一个 <code>Maven</code> 项目之后，首要的工作就是在项目的 <code>pom.xml</code> 中添加 <code>Fastjson V2</code> 的依赖。</p>
 <div class="language-xml line-numbers-mode" data-ext="xml"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>接着我们创建一个 <code>Hero</code> 类，方便后续过程中的使用。</p>
@@ -13840,14 +13840,14 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>深入浅出 Java 注解</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se/20220721-annotations.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se/20220721-annotations.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">深入浅出 Java 注解</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 注解简介 所谓注解，其实就像一种拥有特定作用的注释，自 JDK1.5 及之后版本所引入的特性，它是放在 Java 源码的类、方法、字段、参数前的一种用作标注的“元数据”，与类、接口、枚举处于同一个层次中。 通过其作用的不同，我们常常将注解分为如下 3 类：</description>
+      <link>https://ez4jam1n.site/studio/md/java/se/20220721-annotations.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se/20220721-annotations.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">深入浅出 Java 注解</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 注解简介 所谓注解，其实就像一种拥有特定作用的注释，自 JDK1.5 及之后版本所引入的特性，它是放在 Java 源码的类、方法、字段、参数前的一种用作标注的“元数据”，与类、接口、枚举处于同一个层次中。 通过其作用的不同，我们常常将注解分为如下 3 类：</description>
       <category>Java 基础教程</category>
       <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -14026,20 +14026,20 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <p>好了，以上就是我们注解的相关概念以及自定义注解所需要的掌握的一些知识点了，如果你觉得对你有所帮助，那就来一波点赞关注吧！
 <strong>关注公众号，获取最新文章更新</strong></p>
 <div style="text-align:center">
-<p><img src="https://cdn.jsdelivr.net/gh/cunyu1943/cunyu1943@main/imgs/wepublic.gif" alt="" width="200"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/ez4jam1n/ez4jam1n@main/imgs/wepublic.gif" alt="" width="200"></p>
 </div>
 ]]></content:encoded>
     </item>
     <item>
       <title>流程控制知识大闯关</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se/20221127-loop-in-action.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se/20221127-loop-in-action.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">流程控制知识大闯关</source>
-      <description>作者：村雨遥 博客：JavaPark 原文：https://mp.weixin.qq.com/s/K4aL8o_ND7R_W0mooNhusw 吾生也有涯，而知也无涯。</description>
+      <link>https://ez4jam1n.site/studio/md/java/se/20221127-loop-in-action.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se/20221127-loop-in-action.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">流程控制知识大闯关</source>
+      <description>作者：村雨遥 博客：studio 原文：https://mp.weixin.qq.com/s/K4aL8o_ND7R_W0mooNhusw 吾生也有涯，而知也无涯。</description>
       <category>Java 基础教程</category>
       <pubDate>Sun, 27 Nov 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <p>原文：<a href="https://mp.weixin.qq.com/s/K4aL8o_ND7R_W0mooNhusw" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/K4aL8o_ND7R_W0mooNhusw</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
@@ -14171,20 +14171,20 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <p>以上就是关于流程控制中关于 <code>for</code>、<code>while</code> 的知识测验了，你闯过了几关呢？</p>
 <p>最后，文中所有代码已上传到 <code>Gitee</code>，有需要的朋友可以自取。</p>
 <blockquote>
-<p>传送门：<a href="https://gitee.com/cunyu1943/java-in-practice" target="_blank" rel="noopener noreferrer">https://gitee.com/cunyu1943/java-in-practice</a></p>
+<p>传送门：<a href="https://gitee.com/ez4jam1n/java-in-practice" target="_blank" rel="noopener noreferrer">https://gitee.com/ez4jam1n/java-in-practice</a></p>
 </blockquote>
 ]]></content:encoded>
     </item>
     <item>
       <title>static 和 final 小课堂</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se/20221203-oop-advance.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se/20221203-oop-advance.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">static 和 final 小课堂</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 学习了面向对象的一些知识点后，在看别人的代码中经常会看到 static 和 final 两个关键字，那你知道它俩都是做什么用的么，使用的时候需要注意啥呢？ 今天的内容就来一起了解下，static 和 final 关键字的使用。</description>
+      <link>https://ez4jam1n.site/studio/md/java/se/20221203-oop-advance.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se/20221203-oop-advance.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">static 和 final 小课堂</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 学习了面向对象的一些知识点后，在看别人的代码中经常会看到 static 和 final 两个关键字，那你知道它俩都是做什么用的么，使用的时候需要注意啥呢？ 今天的内容就来一起了解下，static 和 final 关键字的使用。</description>
       <category>Java 基础教程</category>
       <pubDate>Sat, 03 Dec 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -14236,14 +14236,14 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>抽象、接口和内部类</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se/20221211-abstract.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se/20221211-abstract.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">抽象、接口和内部类</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 抽象方法 定义 所谓抽象方法，就是将公共的行为（方法）抽取到一个父类后，由于每个子类中执行的内容是不一致的，所以父类中无法确认具体的方法体，此时就可以将该方法定义为抽象方法。 格式</description>
+      <link>https://ez4jam1n.site/studio/md/java/se/20221211-abstract.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se/20221211-abstract.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">抽象、接口和内部类</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 抽象方法 定义 所谓抽象方法，就是将公共的行为（方法）抽取到一个父类后，由于每个子类中执行的内容是不一致的，所以父类中无法确认具体的方法体，此时就可以将该方法定义为抽象方法。 格式 要定义一个抽象方法，那么需要遵循以下的格式，要注意，抽象方法一般都是没有定义</description>
       <category>Java 基础教程</category>
       <pubDate>Sun, 11 Dec 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -14371,14 +14371,14 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>学生成绩管理系统</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se-in-action/20220301-score-management.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se-in-action/20220301-score-management.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">学生成绩管理系统</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 对于计算机专业的学生来讲，一定对于学生成绩管理系统课程设计十分印象深刻。设计、上机、编码、写报告、答辩等一系列流程，虽然很简单，但也可以综合运用我们所学的一些知识了。 今天就来复习以下这个课题，用 Java SE 来实现该课题，也算是补上当初上课的时候没有好好写的遗憾吧。</description>
+      <link>https://ez4jam1n.site/studio/md/java/se-in-action/20220301-score-management.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se-in-action/20220301-score-management.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">学生成绩管理系统</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 对于计算机专业的学生来讲，一定对于学生成绩管理系统课程设计十分印象深刻。设计、上机、编码、写报告、答辩等一系列流程，虽然很简单，但也可以综合运用我们所学的一些知识了。 今天就来复习以下这个课题，用 Java SE 来实现该课题，也算是补上当初上课的时候没有好好写的遗憾吧。</description>
       <category>Java 基础实战</category>
       <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -14480,20 +14480,20 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>点菜系统</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se-in-action/20220302-order-system.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se-in-action/20220302-order-system.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">点菜系统</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 继上次写了一个 Java SE 版本的 学生成绩管理系统 之后，发现大家反响还不错，所以今天我有带来了差不多一样的点菜系统，希望利用我们所学的 Java SE 知识，实现我们的点菜系统。</description>
+      <link>https://ez4jam1n.site/studio/md/java/se-in-action/20220302-order-system.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se-in-action/20220302-order-system.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">点菜系统</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 继上次写了一个 Java SE 版本的 学生成绩管理系统 之后，发现大家反响还不错，所以今天我有带来了差不多一样的点菜系统，希望利用我们所学的 Java SE 知识，实现我们的点菜系统。</description>
       <category>Java 基础实战</category>
       <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
 <hr>
 <h2> 前言</h2>
-<p>继上次写了一个 Java SE 版本的 <a href="/JavaPark/md/java/se-in-action/20220301-score-management.html" target="blank">学生成绩管理系统</a> 之后，发现大家反响还不错，所以今天我有带来了差不多一样的点菜系统，希望利用我们所学的 Java SE 知识，实现我们的点菜系统。</p>
+<p>继上次写了一个 Java SE 版本的 <a href="/studio/md/java/se-in-action/20220301-score-management.html" target="blank">学生成绩管理系统</a> 之后，发现大家反响还不错，所以今天我有带来了差不多一样的点菜系统，希望利用我们所学的 Java SE 知识，实现我们的点菜系统。</p>
 <p>而在上次文章的评论中，我也看到了大家的一些建议，可能没有及时回复大家，但是在这次文章中，我会尽量满足大家提的一些好的建议，向着更好的方向前进！</p>
 <h2> 需求分析</h2>
 <p>此次可以，我们需要设计一个点菜系统，我们就需要对我们的系统进行分析，面向的对象是谁？对象常用的操作又有哪些？</p>
@@ -14557,26 +14557,26 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <h2> 总结</h2>
 <p>好了，以上就是我们点菜系统的实现了。如果你对 Java SE 部分的知识掌握较好的话，这一定不是啥难事，毕竟是个十分简单的控制台程序，主要语法熟悉，稍微理理逻辑即可。</p>
 <p>好了，今天的内容就到此结束了，如果你有什么好的建议，欢迎留言交流。</p>
-<p>最后的最后，贴出本设计的 Github 仓库地址：<a href="https://github.com/cunyu1943/java-in-actions" target="_blank" rel="noopener noreferrer">https://github.com/cunyu1943/java-in-actions</a></p>
+<p>最后的最后，贴出本设计的 Github 仓库地址：<a href="https://github.com/ez4jam1n/java-in-actions" target="_blank" rel="noopener noreferrer">https://github.com/ez4jam1n/java-in-actions</a></p>
 <p>有需要的童鞋可以自取，当然了，也希望大家给我一个 ⭐ <strong>star</strong>，满足一下我这个菜鸟的虚荣心呀 ~ ❤️❤️❤️</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>手撸记账本</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se-in-action/20220303-tally-book.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se-in-action/20220303-tally-book.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">手撸记账本</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 之前已经写过关于 学生成绩管理系统 以及 点菜系统 的文章，大家如果感兴趣，可以点击各自的传送门去看看呀！</description>
+      <link>https://ez4jam1n.site/studio/md/java/se-in-action/20220303-tally-book.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se-in-action/20220303-tally-book.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">手撸记账本</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 之前已经写过关于 学生成绩管理系统 以及 点菜系统 的文章，大家如果感兴趣，可以点击各自的传送门去看看呀！</description>
       <category>Java 基础实战</category>
       <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
 <hr>
 <h2> 前言</h2>
-<p>之前已经写过关于 <a href="/JavaPark/md/java/se-in-action/20220301-score-management.html" target="blank">学生成绩管理系统</a> 以及 <a href="/JavaPark/md/java/se-in-action/20220302-order-system.html" target="blank">点菜系统</a> 的文章，大家如果感兴趣，可以点击各自的传送门去看看呀！</p>
+<p>之前已经写过关于 <a href="/studio/md/java/se-in-action/20220301-score-management.html" target="blank">学生成绩管理系统</a> 以及 <a href="/studio/md/java/se-in-action/20220302-order-system.html" target="blank">点菜系统</a> 的文章，大家如果感兴趣，可以点击各自的传送门去看看呀！</p>
 <p>接下来开始我们今天的正题，我们日常生活中，想必有很多人都有记账的习惯，那今天，我们就来看看，如何设计并实现一个记账本。</p>
 <h2> 需求分析</h2>
 <p>打开我们手机里的记账本，可以发现主要提供如下几个功能：</p>
@@ -14705,26 +14705,26 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 </ul>
 <p></p>
 <h2> 总结</h2>
-<p>好了，以上就是我们简单的记账本的实现了。实现的功能比较简陋，程序的健壮性也不够强，还有很大的优化空间。大家如果感兴趣或者有优化的地方，欢迎到本设计的 Github 仓库地址：<a href="https://github.com/cunyu1943/java-in-actions" target="_blank" rel="noopener noreferrer">https://github.com/cunyu1943/java-in-actions</a> 提交 issue。当然了，如果你只是需要用来简单的做个示例，也可以自取。</p>
+<p>好了，以上就是我们简单的记账本的实现了。实现的功能比较简陋，程序的健壮性也不够强，还有很大的优化空间。大家如果感兴趣或者有优化的地方，欢迎到本设计的 Github 仓库地址：<a href="https://github.com/ez4jam1n/java-in-actions" target="_blank" rel="noopener noreferrer">https://github.com/ez4jam1n/java-in-actions</a> 提交 issue。当然了，如果你只是需要用来简单的做个示例，也可以自取。</p>
 <p>最后，如果本文对大家有用的话，希望给我一个 ⭐ <strong>star</strong>，满足一下我的虚荣心呀 ~ 🙊🙊🙊</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>MySQL + MyBatis 版学生成绩管理系统</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/se-in-action/20220304-mysql-mybatis-score-management.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/se-in-action/20220304-mysql-mybatis-score-management.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">MySQL + MyBatis 版学生成绩管理系统</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 之前写了一篇文章，是关于 Java SE 版本的学生成绩管理系统，发现反响还不错。同时也有不少小伙伴通过评论或者私信的方式问过有没有和数据库交互版本的学生成绩管理系统，然后自己也把这件事儿列入了自己的计划。害，都怪自己懒，所以一直拖到了现在。不过终究是逼迫自己完成了，也算是给私信和评论的小伙伴们一个交代吧。</description>
+      <link>https://ez4jam1n.site/studio/md/java/se-in-action/20220304-mysql-mybatis-score-management.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/se-in-action/20220304-mysql-mybatis-score-management.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">MySQL + MyBatis 版学生成绩管理系统</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 之前写了一篇文章，是关于 Java SE 版本的学生成绩管理系统，发现反响还不错。同时也有不少小伙伴通过评论或者私信的方式问过有没有和数据库交互版本的学生成绩管理系统，然后自己也把这件事儿列入了自己的计划。害，都怪自己懒，所以一直拖到了现在。不过终究是逼迫自己完成了，也算是给私信和评论的小伙伴们一个交代吧。</description>
       <category>Java 基础实战</category>
       <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
 <hr>
 <h2> 前言</h2>
-<p>之前写了一篇文章，是关于 <a href="https://cunyu1943.github.io/posts/cc1bbc33/" title="Java SE 版本的学生成绩管理系统" target="_blank" rel="noopener noreferrer">Java SE 版本的学生成绩管理系统</a>，发现反响还不错。同时也有不少小伙伴通过评论或者私信的方式问过有没有和数据库交互版本的学生成绩管理系统，然后自己也把这件事儿列入了自己的计划。害，都怪自己懒，所以一直拖到了现在。不过终究是逼迫自己完成了，也算是给私信和评论的小伙伴们一个交代吧。</p>
+<p>之前写了一篇文章，是关于 <a href="https://ez4jam1n.github.io/posts/cc1bbc33/" title="Java SE 版本的学生成绩管理系统" target="_blank" rel="noopener noreferrer">Java SE 版本的学生成绩管理系统</a>，发现反响还不错。同时也有不少小伙伴通过评论或者私信的方式问过有没有和数据库交互版本的学生成绩管理系统，然后自己也把这件事儿列入了自己的计划。害，都怪自己懒，所以一直拖到了现在。不过终究是逼迫自己完成了，也算是给私信和评论的小伙伴们一个交代吧。</p>
 <p>同样的，本次和数据交互版本的学生成绩管理系统具有增删改查成绩等功能。不过相比于之前 SE 版本的功能做了点精简，少了两个小的功能点。因此此次版本的学生成绩管理系统主要分为如下功能：</p>
 <ol>
 <li><strong>录入学生成绩</strong></li>
@@ -14773,7 +14773,7 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <h2> 功能设计与实现</h2>
 <p>与 SE 项目不同的是，本系统需要与数据库进行交互，所以这里选择使用 MyBatis 作为数据库交互框架。接下来我就对本系统的搭建过程做一个记录，留给有需要的小伙伴。</p>
 <h3> 环境搭建</h3>
-<p>本项目主要采用 Maven 来构造，而 IDE 则用的是最新版的 IntelliJ IDEA。所以首要工作就是搭建一个 Maven 工程，因为之前我已经写过相关的文章了，所以这里就不再啰嗦了，如果你还对创建 Maven 工程不太熟悉，可以参考：👉 <a href="https://cunyu1943.github.io/JavaPark/md/java/maven/20220104-maven-project-with-idea" target="_blank" rel="noopener noreferrer">如何使用 IDEA 创建 Maven 项目</a>。</p>
+<p>本项目主要采用 Maven 来构造，而 IDE 则用的是最新版的 IntelliJ IDEA。所以首要工作就是搭建一个 Maven 工程，因为之前我已经写过相关的文章了，所以这里就不再啰嗦了，如果你还对创建 Maven 工程不太熟悉，可以参考：👉 <a href="https://ez4jam1n.github.io/studio/md/java/maven/20220104-maven-project-with-idea" target="_blank" rel="noopener noreferrer">如何使用 IDEA 创建 Maven 项目</a>。</p>
 <h3> POM 文件</h3>
 <p>要实现本项目，主要需要以下依赖，所以我们需要在项目的 <code>pom.xml</code> 文件引入对应依赖。</p>
 <ul>
@@ -14783,12 +14783,12 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 </ul>
 <div class="language-xml line-numbers-mode" data-ext="xml"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>这里你可能对 Lombok 比较陌生，它主要是为了简化我们的代码而使用，所以也推荐大家了解下。对于 Lombok 的简单使用，我之前特意写了一篇相关文章，如果有感兴趣的小伙伴，可以去了解一下。传送门 👇：</p>
 <blockquote>
-<p><a href="https://cunyu1943.github.io/JavaPark/md/java/se/20220719-lombok-install-and-usage" target="_blank" rel="noopener noreferrer">Lombok 安装及使用指南</a></p>
+<p><a href="https://ez4jam1n.github.io/studio/md/java/se/20220719-lombok-install-and-usage" target="_blank" rel="noopener noreferrer">Lombok 安装及使用指南</a></p>
 </blockquote>
 <h3> 数据库准备</h3>
 <p>既然要把数据存入数据库，那肯定得准备下数据库。关于数据库的安装以及环境搭建，可以去网上找个教程看一下，我这里的话只提供创建表的数据脚本。</p>
 <div class="language-sql line-numbers-mode" data-ext="sql"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> MyBatis 配置</h3>
-<p>既然要使用 MyBatis，那肯定少不了对它配置一番。这里呢，主要需要配置 MyBatis 的核心配置文件以及设置一个工具类。然后添加对数据库进行增删改查的接口，方便后边使用。如果你对 MyBatis 不是很熟悉，建议先去了解下，关于更多 MyBatis 的使用方法，可以参考我之前写的一些文章：<a href="https://cunyu1943.github.io/MyBatis-%E4%B8%93%E6%A0%8F/" title="MyBatis 专栏" target="_blank" rel="noopener noreferrer">MyBatis 专栏</a>。</p>
+<p>既然要使用 MyBatis，那肯定少不了对它配置一番。这里呢，主要需要配置 MyBatis 的核心配置文件以及设置一个工具类。然后添加对数据库进行增删改查的接口，方便后边使用。如果你对 MyBatis 不是很熟悉，建议先去了解下，关于更多 MyBatis 的使用方法，可以参考我之前写的一些文章：<a href="https://ez4jam1n.github.io/MyBatis-%E4%B8%93%E6%A0%8F/" title="MyBatis 专栏" target="_blank" rel="noopener noreferrer">MyBatis 专栏</a>。</p>
 <ol>
 <li><strong>MyBatis 配置文件</strong></li>
 </ol>
@@ -14832,14 +14832,14 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>简介</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/spring/20220201-spring-intro.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/spring/20220201-spring-intro.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">简介</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 为了解决我们开发者在 J2EE 开发时所遇到的众多问题，Rob Johnson 等人发起了 Spring 框架项目。Spring 是一个开源的 J2EE 应用程序框架，是针对 Bean 的生命周期进行管理的轻量级容器。它既可以单独用于构建程序，也能和当前众多的 Web 框架进行组合使用，能够十分方便的降低当前企业应用开发的复杂性。既然 Spring 如此强大，那我们今天就来探究一下 Spring 的内容。</description>
+      <link>https://ez4jam1n.site/studio/md/java/spring/20220201-spring-intro.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/spring/20220201-spring-intro.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">简介</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 为了解决我们开发者在 J2EE 开发时所遇到的众多问题，Rob Johnson 等人发起了 Spring 框架项目。Spring 是一个开源的 J2EE 应用程序框架，是针对 Bean 的生命周期进行管理的轻量级容器。它既可以单独用于构建程序，也能和当前众多的 Web 框架进行组合使用，能够十分方便的降低当前企业应用开发的复杂性。既然 Spring 如此强大，那我们今天就来探究一下 Spring 的内容。</description>
       <category>Spring 教程</category>
       <pubDate>Tue, 01 Feb 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -15036,14 +15036,14 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>IoC 简介及入门实例</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/spring/20220202-ioc.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/spring/20220202-ioc.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">IoC 简介及入门实例</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 IoC IoC（Inversion of Control），中文名又叫做控制反转。 针对当前书写代码时耦合度偏高的现状，大牛们提出了对应的解决方案。那就是在使用对象时，不要再通过主动使用 new 来创建对象，而是转变为由外部来提供对象。而这种将对象的创建控制权从程序转移到外部的思想就叫做控制反转。</description>
+      <link>https://ez4jam1n.site/studio/md/java/spring/20220202-ioc.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/spring/20220202-ioc.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">IoC 简介及入门实例</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 IoC IoC（Inversion of Control），中文名又叫做控制反转。 针对当前书写代码时耦合度偏高的现状，大牛们提出了对应的解决方案。那就是在使用对象时，不要再通过主动使用 new 来创建对象，而是转变为由外部来提供对象。而这种将对象的创建控制权从程序转移到外部的思想就叫做控制反转。</description>
       <category>Spring 教程</category>
       <pubDate>Wed, 02 Feb 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -15058,7 +15058,7 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <p>IoC 容器虽然负责了创建和初始化对象等一系列工作，但实际上不同的对象之间或多或少存在着依赖关系，这个问题 IoC 是解决不了的，因此才有了 DI 的提出。依赖注入实现了容器中 Bean 与 Bean 之间依赖关系的建立。</p>
 <h2> 入门案例</h2>
 <p>接下来我们来看看 IoC 的一个入门实例。</p>
-<p>首先，我们创建一个 Maven 项目，如果不太熟悉如何创建，可以参考我之前的一篇教程 -&gt; <a href="https://cunyu1943.github.io/JavaPark/md/java/maven/20220104-maven-project-with-idea" target="_blank" rel="noopener noreferrer">使用 IDEA 创建 Maven 项目</a></p>
+<p>首先，我们创建一个 Maven 项目，如果不太熟悉如何创建，可以参考我之前的一篇教程 -&gt; <a href="https://ez4jam1n.github.io/studio/md/java/maven/20220104-maven-project-with-idea" target="_blank" rel="noopener noreferrer">使用 IDEA 创建 Maven 项目</a></p>
 <p>接着我们分别创建 DAO 层和 Service 层接口，并实现其接口，最后则是在主程序入口中调用，创建后的项目结构如下：</p>
 <p></p>
 <ul>
@@ -15087,19 +15087,19 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <p>本文主要讲了 IoC 和 DI 的定义，然后对比了传统方式、IoC 方式和 DI 方式用来管理对象，而且最终三者的结果都是一样的，但其中还是有一点的区别。通过引入 Spring 中的 IoC 和 DI 特性，我们只需要配置相关配置即可，而不用再去通过 <code>new</code> 手动创建对象以及管理 Bean 之间的依赖关系。</p>
 <p>最后，关于本文的示例代码，我已经上传到远程仓库，有需要的小伙伴可以自取。</p>
 <blockquote>
-<p><a href="https://github.com/cunyu1943/java-learning-demos/tree/main/spring-ioc-demo" target="_blank" rel="noopener noreferrer">Spring-IoC-Demo</a></p>
+<p><a href="https://github.com/ez4jam1n/java-learning-demos/tree/main/spring-ioc-demo" target="_blank" rel="noopener noreferrer">Spring-IoC-Demo</a></p>
 </blockquote>
 ]]></content:encoded>
     </item>
     <item>
       <title></title>
-      <link>https://cunyu1943.site/JavaPark/md/java/spring/20220203-di.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/spring/20220203-di.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml"></source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 依赖注入的方式 如果要想一个类中传递数据，我们常用的可以通过构造方法来传递，而另一种就是常用的 getter\setter 方法。 之前说过依赖注入描述了容器中 Bean 和 Bean 之间的依赖关系，但如果 Bean 在运行中书需要的不是对象，而是其他类型的数据比如数字或者字符串呢？</description>
+      <link>https://ez4jam1n.site/studio/md/java/spring/20220203-di.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/spring/20220203-di.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml"></source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 依赖注入的方式 如果要想一个类中传递数据，我们常用的可以通过构造方法来传递，而另一种就是常用的 getter\setter 方法。 之前说过依赖注入描述了容器中 Bean 和 Bean 之间的依赖关系，但如果 Bean 在运行中书需要的不是对象，而是其他类型的数据比如数字或者字符串呢？</description>
       <pubDate>Fri, 10 Mar 2023 06:19:45 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -15115,14 +15115,14 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>3 种创建项目的方式</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/spring/20220204-the-methods-to-create-spring-project.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/spring/20220204-the-methods-to-create-spring-project.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">3 种创建项目的方式</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 上一篇文章中我们讲了 Spring 的相关简介，那么这一节我们就来看看，如何使用 Spring 来创建一个最简单的 HelloWorld 入门实例。等到我们上手之后，再去研究一下 Spring 的一些核心原理及配置。</description>
+      <link>https://ez4jam1n.site/studio/md/java/spring/20220204-the-methods-to-create-spring-project.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/spring/20220204-the-methods-to-create-spring-project.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">3 种创建项目的方式</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 上一篇文章中我们讲了 Spring 的相关简介，那么这一节我们就来看看，如何使用 Spring 来创建一个最简单的 HelloWorld 入门实例。等到我们上手之后，再去研究一下 Spring 的一些核心原理及配置。</description>
       <category>Spring 教程</category>
       <pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -15201,14 +15201,14 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>Bean 详解</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/spring/20220205-bean.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/spring/20220205-bean.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">Bean 详解</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 Bean 的别名配置 接着上一篇文章中的 &amp;lt;bean&amp;gt; 配置，其中配置了 id 属性，通过 id 属性我们就可以获取到对象。其实 &amp;lt;bean&amp;gt; 配置也提供了 name 属性，它是用于定义 Bean 的别名，一个 Bean 的别名是可以有多个的，各个别名之间可以通过逗号（,）、分号（;）、空格（``）分隔。</description>
+      <link>https://ez4jam1n.site/studio/md/java/spring/20220205-bean.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/spring/20220205-bean.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">Bean 详解</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 Bean 的别名配置 接着上一篇文章中的 &amp;lt;bean&amp;gt; 配置，其中配置了 id 属性，通过 id 属性我们就可以获取到对象。其实 &amp;lt;bean&amp;gt; 配置也提供了 name 属性，它是用于定义 Bean 的别名，一个 Bean 的别名是可以有多个的，各个别名之间可以通过逗号（,）、分号（;）、空格（``）分隔。</description>
       <category>Spring 教程</category>
       <pubDate>Sat, 05 Feb 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -15273,14 +15273,14 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>入门简介</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/springboot/20220101-introduction.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/springboot/20220101-introduction.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">入门简介</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 Spring 是重量级企业开发框架 EJB（Enterprise JavaBean） 的替代品，是为了解决企业级应用开发的复杂性而创建的，简化开发。通过 依赖注入（DI） 和 面向切面编程，用简单的 Java 对象（POJO，Plain Old Java Object） 实现 EJB 的功能，其组件代码轻量，但是配置很繁琐（需要大量 XML 配置）。Spring 2.5 引入基于注解的组件扫描，Spring 3.0 引入基于 Java 的配置，可以代替 XML，虽然引入的特性大大提高了配置的效率，但是也无法避免，针对这一问题，Spring Boot 应运而生。</description>
+      <link>https://ez4jam1n.site/studio/md/java/springboot/20220101-introduction.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/springboot/20220101-introduction.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">入门简介</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 Spring 是重量级企业开发框架 EJB（Enterprise JavaBean） 的替代品，是为了解决企业级应用开发的复杂性而创建的，简化开发。通过 依赖注入（DI） 和 面向切面编程，用简单的 Java 对象（POJO，Plain Old Java Object） 实现 EJB 的功能，其组件代码轻量，但是配置很繁琐（需要大量 XML 配置）。Spring 2.5 引入基于注解的组件扫描，Spring 3.0 引入基于 Java 的配置，可以代替 XML，虽然引入的特性大大提高了配置的效率，但是也无法避免，针对这一问题，Spring Boot 应运而生。</description>
       <category>Spring Boot 基础教程</category>
       <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -15346,20 +15346,20 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <p>最后，如果本文对你有所帮助，那就点个赞再走吧 ~</p>
 <p><strong>关注公众号，获取最新文章更新</strong></p>
 <div style="text-align:center">
-<p><img src="https://cdn.jsdelivr.net/gh/cunyu1943/cunyu1943@main/imgs/wepublic.gif" alt="" width="200"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/ez4jam1n/ez4jam1n@main/imgs/wepublic.gif" alt="" width="200"></p>
 </div>
 ]]></content:encoded>
     </item>
     <item>
       <title>创建项目的 3 种方式</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/springboot/20220102-the-methods-to-create-springboot-project.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/springboot/20220102-the-methods-to-create-springboot-project.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">创建项目的 3 种方式</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 如果你是一个浸淫 SpringBoot 已久的老手，那么可能下面的内容可能不那么适合你，写得很简单。但如果是 对于一个刚学习 SpringBoot 的新手而言，我想多少还是有些用的。本文就来手把手教你如何创建一个 SpringBoot 项目，并对其中的一些关键信息进行简单分析，让你更加快速的掌握如何创建一个 SpringBoot 项目。</description>
+      <link>https://ez4jam1n.site/studio/md/java/springboot/20220102-the-methods-to-create-springboot-project.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/springboot/20220102-the-methods-to-create-springboot-project.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">创建项目的 3 种方式</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 如果你是一个浸淫 SpringBoot 已久的老手，那么可能下面的内容可能不那么适合你，写得很简单。但如果是 对于一个刚学习 SpringBoot 的新手而言，我想多少还是有些用的。本文就来手把手教你如何创建一个 SpringBoot 项目，并对其中的一些关键信息进行简单分析，让你更加快速的掌握如何创建一个 SpringBoot 项目。</description>
       <category>Spring Boot 基础教程</category>
       <pubDate>Sun, 02 Jan 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -15494,14 +15494,14 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>配置详解</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/springboot/20220103-configuration.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/springboot/20220103-configuration.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">配置详解</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 为了 Spring Boot 能够更好地生成配置元数据文件，我们可以在创建项目时添加 Spring Configuartion Processor 依赖，或者在创建好项目后的 pom.xml 文件中手动添加。添加该依赖后，我们在编写配置时就会有属性提示，大大降低编写错误。</description>
+      <link>https://ez4jam1n.site/studio/md/java/springboot/20220103-configuration.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/springboot/20220103-configuration.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">配置详解</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 为了 Spring Boot 能够更好地生成配置元数据文件，我们可以在创建项目时添加 Spring Configuartion Processor 依赖，或者在创建好项目后的 pom.xml 文件中手动添加。添加该依赖后，我们在编写配置时就会有属性提示，大大降低编写错误。</description>
       <category>Spring Boot 基础教程</category>
       <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -15596,14 +15596,14 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>集成 Swagger2</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/springboot/20220104-integrated-swagger2.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/springboot/20220104-integrated-swagger2.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">集成 Swagger2</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 不管你是从事前端还是后端开发，相信都难免被接口文档折磨过。如果你是一个前端开发者，可能你会经常发现后端给的接口文档跟实际代码有所出入。而假设你是一个后端开发者，你可能又会觉得自己开发后端接口已经够烦的了，还要花费大量精力去编写和维护接口文档，所以难免有时候会更新不及时。这就可能造成了前后端相互不理解，最后甚至吵起来，哈哈哈 🤪。</description>
+      <link>https://ez4jam1n.site/studio/md/java/springboot/20220104-integrated-swagger2.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/springboot/20220104-integrated-swagger2.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">集成 Swagger2</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 不管你是从事前端还是后端开发，相信都难免被接口文档折磨过。如果你是一个前端开发者，可能你会经常发现后端给的接口文档跟实际代码有所出入。而假设你是一个后端开发者，你可能又会觉得自己开发后端接口已经够烦的了，还要花费大量精力去编写和维护接口文档，所以难免有时候会更新不及时。这就可能造成了前后端相互不理解，最后甚至吵起来，哈哈哈 🤪。</description>
       <category>Spring Boot 基础教程</category>
       <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -15635,7 +15635,7 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <h2> Spring Boot 集成 Swagger</h2>
 <h3> 创建 Spring Boot 项目</h3>
 <p>通过以上对 Swagger 简单的介绍之后，我们来看看如何在 Spring Boot 项目中使用 Swagger。</p>
-<p>首先需要创建一个简单的 Spring Boot 项目，如果你还不知道如何创建，可以参考我之前的一篇文章 <a href="https://cunyu1943.blog.csdn.net/article/details/119618308" target="_blank" rel="noopener noreferrer">创建 Spring Boot 项目的 3 种方式</a>。</p>
+<p>首先需要创建一个简单的 Spring Boot 项目，如果你还不知道如何创建，可以参考我之前的一篇文章 <a href="https://ez4jam1n.blog.csdn.net/article/details/119618308" target="_blank" rel="noopener noreferrer">创建 Spring Boot 项目的 3 种方式</a>。</p>
 <p>创建好之后的项目接口如下：</p>
 <p></p>
 <h3> 引入依赖</h3>
@@ -15675,14 +15675,14 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>集成 Swagger3</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/springboot/20220105-integrated-swagger3.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/springboot/20220105-integrated-swagger3.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">集成 Swagger3</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 在之前的文章中，我们已经讲了如何利用 Spring Boot 来集成 Swagger2，详情可戳：Spring Boot 集成 Swagger2，构建强大的 API 文档。但其实 Swagger2 中主流的 2.9.2 自 2018 年发布后就已经好久没更新了，而在时隔两年之后的 2020 年，Swagger3 终于发布了。</description>
+      <link>https://ez4jam1n.site/studio/md/java/springboot/20220105-integrated-swagger3.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/springboot/20220105-integrated-swagger3.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">集成 Swagger3</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 在之前的文章中，我们已经讲了如何利用 Spring Boot 来集成 Swagger2，详情可戳：Spring Boot 集成 Swagger2，构建强大的 API 文档。但其实 Swagger2 中主流的 2.9.2 自 2018 年发布后就已经好久没更新了，而在时隔两年之后的 2020 年，Swagger3 终于发布了。</description>
       <category>Spring Boot 基础教程</category>
       <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -15698,7 +15698,7 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <p>不过虽然两者的使用方式不一样，但是总体流程还是差不多了，只不过有些步骤有所小变动而已，只要你掌握了 Swagger2 的使用方法，那使用 Swagger3 起来就是需要注意小改动就行了。那接下来，我们就来看看，如何利用 Spring Boot 来集成 Swagger3，对我们的 Swagger2 进行一次升级！</p>
 <h2> Spring Boot 集成 Swagger</h2>
 <h3> 创建 Spring Boot 项目</h3>
-<p>同样的，开始之前，我们需要创建一个简单的 Spring Boot 项目，这里不展开讲了，如果你对此还有所疑惑，可以先去熟悉下，这里建议参考我之前写过的一篇文章：<a href="https://cunyu1943.blog.csdn.net/article/details/119618308" title="创建 Spring Boot 项目的 3 种方式" target="_blank" rel="noopener noreferrer">创建 Spring Boot 项目的 3 种方式</a>。</p>
+<p>同样的，开始之前，我们需要创建一个简单的 Spring Boot 项目，这里不展开讲了，如果你对此还有所疑惑，可以先去熟悉下，这里建议参考我之前写过的一篇文章：<a href="https://ez4jam1n.blog.csdn.net/article/details/119618308" title="创建 Spring Boot 项目的 3 种方式" target="_blank" rel="noopener noreferrer">创建 Spring Boot 项目的 3 种方式</a>。</p>
 <p>项目创建成功之后，总体结构如下：</p>
 <p></p>
 <p>这里的 <code>config</code>、<code>controller</code>、<code>entity</code> 模块是我后续加入的，所以不用理会，也就是说你创建好之后的项目是不包含这三个部分的，关于他们的用途，文章后续内容我会讲到。</p>
@@ -15768,14 +15768,14 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>集成 Knife4j</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/springboot/20220106-integrated-knife4j.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/springboot/20220106-integrated-knife4j.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">集成 Knife4j</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 之前介绍了如何在 Spring Boot 中集成 Swagger2 和 Swagger3，对于我们日常的接口管理已经够用了。但是作为一个颜值党，无论是 Swagger2 还是 Swagger3，都难以满足我们的审美。而且 Swagger2 和 Swagger3 都已经好久没更新了，更新还是比较慢的。</description>
+      <link>https://ez4jam1n.site/studio/md/java/springboot/20220106-integrated-knife4j.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/springboot/20220106-integrated-knife4j.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">集成 Knife4j</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 之前介绍了如何在 Spring Boot 中集成 Swagger2 和 Swagger3，对于我们日常的接口管理已经够用了。但是作为一个颜值党，无论是 Swagger2 还是 Swagger3，都难以满足我们的审美。而且 Swagger2 和 Swagger3 都已经好久没更新了，更新还是比较慢的。</description>
       <category>Spring Boot 基础教程</category>
       <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -15784,7 +15784,7 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <p>偶然之间发现了一个国产的接口文档管理工具 <a href="https://doc.xiaominfo.com/knife4j/" target="_blank" rel="noopener noreferrer">Knife4j</a>，它基于 Swagger 而来，但是又对 Swagger 进行了增强，增加两个越来越多的个性化需求，可以说兼具颜值与实力了。今天我们就来看看，如何在 Spring Boot 中集成 Knife4j 这个接口文档管理工具。</p>
 <h2> 集成过程</h2>
 <h3> 创建 Spring Boot 项目</h3>
-<p>既然要在 Spring Boot 中使用 Knife4j，那首先就得创建一个 Spring Boot 项目。当然，我在之前已经写过文章介绍如何创建 Spring Boot 项目了，所以这里不再赘述。如果你还对 Spring Boot 创建方式不太熟悉，可以参考我之前的文章：<a href="https://cunyu1943.github.io/JavaPark/java/spring-boot/the-methods-to-create-springboot-project.html" target="_blank" rel="noopener noreferrer">Spring Boot 基础教程：创建项目的 3 种方式 | JavaPark</a></p>
+<p>既然要在 Spring Boot 中使用 Knife4j，那首先就得创建一个 Spring Boot 项目。当然，我在之前已经写过文章介绍如何创建 Spring Boot 项目了，所以这里不再赘述。如果你还对 Spring Boot 创建方式不太熟悉，可以参考我之前的文章：<a href="https://ez4jam1n.github.io/studio/java/spring-boot/the-methods-to-create-springboot-project.html" target="_blank" rel="noopener noreferrer">Spring Boot 基础教程：创建项目的 3 种方式 | studio</a></p>
 <h3> 添加依赖</h3>
 <p>既然是用 Maven 来管理项目依赖，那我们在项目 <code>pom.xml</code> 中引入 <code>Knife4j</code> 的相关依赖包，引入代码如下。</p>
 <div class="language-xml line-numbers-mode" data-ext="xml"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 配置添加</h3>
@@ -15824,19 +15824,19 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>整合 FreeMarker 实例</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/springboot/20220107-integrated-freemarker.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/springboot/20220107-integrated-freemarker.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">整合 FreeMarker 实例</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 在之前的文章Spring Boot 整合 Thymeleaf中，我们学习了如何将模板 Thymeleaf 整合到 Spring Boot 中，那今天我们就来看看，另一个老牌的开源免费模板引擎 - FreeMarker！</description>
+      <link>https://ez4jam1n.site/studio/md/java/springboot/20220107-integrated-freemarker.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/springboot/20220107-integrated-freemarker.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">整合 FreeMarker 实例</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 在之前的文章Spring Boot 整合 Thymeleaf中，我们学习了如何将模板 Thymeleaf 整合到 Spring Boot 中，那今天我们就来看看，另一个老牌的开源免费模板引擎 - FreeMarker！</description>
       <category>Spring Boot 基础教程</category>
       <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
 <h2> 前言</h2>
-<p>在之前的文章<a href="https://cunyu1943.blog.csdn.net/article/details/107671467" target="_blank" rel="noopener noreferrer">Spring Boot 整合 Thymeleaf</a>中，我们学习了如何将模板 Thymeleaf 整合到 Spring Boot 中，那今天我们就来看看，另一个老牌的开源免费模板引擎 - FreeMarker！</p>
+<p>在之前的文章<a href="https://ez4jam1n.blog.csdn.net/article/details/107671467" target="_blank" rel="noopener noreferrer">Spring Boot 整合 Thymeleaf</a>中，我们学习了如何将模板 Thymeleaf 整合到 Spring Boot 中，那今天我们就来看看，另一个老牌的开源免费模板引擎 - FreeMarker！</p>
 <h2> FreeMarker 简介</h2>
 <blockquote>
 <p>FreeMarker 是一款模板引擎：即一种基于模板和要改变的数据，并用来生成输出文本(HTML 网页，电子邮件，配置文件，源代码等)的通用工具。 它不是面向最终用户的，而是一个 Java 类库，是一款程序员可以嵌入他们所开发产品的组件。</p>
@@ -15853,7 +15853,7 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <li>SpringBoot 2.x</li>
 </ul>
 <h3> 添加 FreeMarker 依赖</h3>
-<p>开始之前，我们需要添加 FreeMarker 的相关依赖，同样这里我们可以选择两种方式。一种是在创建项目时就添加上，另一种则是创建项目后在项目 <code>pom.xml</code> 文件中手动添加，接下来我们分别来看看两种不同的方式应该如何添加。如果还不清楚如何创建 Spring Boot 项目，可以参照我之前的一篇文章：<a href="https://cunyu1943.blog.csdn.net/article/details/119618308" target="_blank" rel="noopener noreferrer">创建 Spring Boot 项目的 3 种方式</a>。</p>
+<p>开始之前，我们需要添加 FreeMarker 的相关依赖，同样这里我们可以选择两种方式。一种是在创建项目时就添加上，另一种则是创建项目后在项目 <code>pom.xml</code> 文件中手动添加，接下来我们分别来看看两种不同的方式应该如何添加。如果还不清楚如何创建 Spring Boot 项目，可以参照我之前的一篇文章：<a href="https://ez4jam1n.blog.csdn.net/article/details/119618308" target="_blank" rel="noopener noreferrer">创建 Spring Boot 项目的 3 种方式</a>。</p>
 <ol>
 <li><strong>第一种</strong></li>
 </ol>
@@ -15878,19 +15878,19 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <p>如果显示如下图中的信息，那么就说明我们此次的整合工作顺利完成！</p>
 <p></p>
 <h2> 总结</h2>
-<p>以上就是 Spring Boot 整合 FreeMarker 的具体过程了，可以结合之前的文章：<a href="https://cunyu1943.blog.csdn.net/article/details/107671467" target="_blank" rel="noopener noreferrer">Spring Boot 整合 Thymeleaf 实例</a>共同阅读，对比 Thymeleaf 和 FreeMarker 在整合过程中的一些共同点和不同点，相信你会有更多的收获。</p>
+<p>以上就是 Spring Boot 整合 FreeMarker 的具体过程了，可以结合之前的文章：<a href="https://ez4jam1n.blog.csdn.net/article/details/107671467" target="_blank" rel="noopener noreferrer">Spring Boot 整合 Thymeleaf 实例</a>共同阅读，对比 Thymeleaf 和 FreeMarker 在整合过程中的一些共同点和不同点，相信你会有更多的收获。</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>整合 Thymeleaf 实例</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/springboot/20220108-integrated-thymeleaf.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/springboot/20220108-integrated-thymeleaf.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">整合 Thymeleaf 实例</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 什么是 Thymeleaf Thymeleaf 是新一代的 Java 模板引擎，类似于 Velocity、FreeMarker 等传统引擎，其语言和 HTML 很接近，而且扩展性更高； Thymeleaf 的主要目的是将优雅的模板引入开发工作流程中，并将 HTML 在浏览器中正确显示。同时能够作为静态引擎，让开发成员之间更方便协作开发； Spring Boot 官方推荐使用模板，而且 Spring Boot 也为 Thymeleaf 提供了完整的自动化 配置解决方案； Thymeleaf 使用教程请戳 Tutorial: Using Thymeleaf，配合 Spring 使用的教程请戳 Tutorial: Thymeleaf + Spring。</description>
+      <link>https://ez4jam1n.site/studio/md/java/springboot/20220108-integrated-thymeleaf.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/springboot/20220108-integrated-thymeleaf.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">整合 Thymeleaf 实例</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 什么是 Thymeleaf Thymeleaf 是新一代的 Java 模板引擎，类似于 Velocity、FreeMarker 等传统引擎，其语言和 HTML 很接近，而且扩展性更高； Thymeleaf 的主要目的是将优雅的模板引入开发工作流程中，并将 HTML 在浏览器中正确显示。同时能够作为静态引擎，让开发成员之间更方便协作开发； Spring Boot 官方推荐使用模板，而且 Spring Boot 也为 Thymeleaf 提供了完整的自动化 配置解决方案； Thymeleaf 使用教程请戳 Tutorial: Using Thymeleaf，配合 Spring 使用的教程请戳 Tutorial: Thymeleaf + Spring。</description>
       <category>Spring Boot 基础教程</category>
       <pubDate>Sat, 08 Jan 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -15967,14 +15967,14 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>集成 Spring Security</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/springboot/20220109-integrated-security.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/springboot/20220109-integrated-security.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">集成 Spring Security</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 Spring Security 是 Spring 家族中一个强大可定制的身份验证和访问控制框架，和 Shiro 一样，它们都具有认证、授权、加密等用于权限管理的功能。但相比于 Shiro，Spring Security 的功能无疑更加强大。而且作为 Spring 家族中的一份子，配合家族中的其它兄弟 - Spring Boot、Spring Cloud 使用起来更加丝滑。</description>
+      <link>https://ez4jam1n.site/studio/md/java/springboot/20220109-integrated-security.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/springboot/20220109-integrated-security.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">集成 Spring Security</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 Spring Security 是 Spring 家族中一个强大可定制的身份验证和访问控制框架，和 Shiro 一样，它们都具有认证、授权、加密等用于权限管理的功能。但相比于 Shiro，Spring Security 的功能无疑更加强大。而且作为 Spring 家族中的一份子，配合家族中的其它兄弟 - Spring Boot、Spring Cloud 使用起来更加丝滑。</description>
       <category>Spring Boot 基础教程</category>
       <pubDate>Sun, 09 Jan 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -15990,7 +15990,7 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <h3> 创建 Spring Boot 项目</h3>
 <p>这个过程只要你学习过 Spring Boot，那么你肯定是已经很熟悉了，所以在这里我也就不再赘述了。当然，如果你对这个过程还是不太熟悉，那么可以参考我之前的一篇文章：</p>
 <blockquote>
-<p><a href="/JavaPark/md/java/springboot/20220102-the-methods-to-create-springboot-project.html" target="blank">Spring Boot 基础教程：创建项目的 3 种方式</a></p>
+<p><a href="/studio/md/java/springboot/20220102-the-methods-to-create-springboot-project.html" target="blank">Spring Boot 基础教程：创建项目的 3 种方式</a></p>
 </blockquote>
 <h3> 添加相关依赖</h3>
 <p>项目创建好之后，一般默认是已经添加了 <code>Web</code> 依赖，这个时候，我们只需要在项目的 <code>pom.xml</code> 文件中添加 Spring Security 的相关依赖即可。</p>
@@ -16015,7 +16015,7 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <p>Security 为我们提供了配置，我们可以在项目的配置文件 <code>application.yml</code> 中去定义自己的用户名和密码，然后它就会覆盖掉 Security 为我们提供的默认用户和密码。</p>
 <p>在项目的配置文件中配置用户和密码，当然，项目生成的默认配置文件是位于 <code>resources</code> 目录下的 <code>application.properties</code>，所以需要将其后缀改成 <code>.yml</code>。关于 Spring Boot 中的这两种配置文件的区别，可以参考我之前的一篇文章：</p>
 <blockquote>
-<p><a href="/JavaPark/md/java/springboot/20220103-configuration.html" target="blank">Spring Boot 基础教程：配置详解</a></p>
+<p><a href="/studio/md/java/springboot/20220103-configuration.html" target="blank">Spring Boot 基础教程：配置详解</a></p>
 </blockquote>
 <div class="language-yaml line-numbers-mode" data-ext="yml"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>然后重启我们的项目，就可以用我们配置的用户和密码来进行登陆了。</p>
 <h3> 创建页面</h3>
@@ -16032,14 +16032,14 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>Spring Boot 简介</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/springboot3/20230114-first-app.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/springboot3/20230114-first-app.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">Spring Boot 简介</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 简介 Spring Boot 能够帮助开发者创建独立的、可运行的、生产级的基于 Spring 的应用程序。通过基础的 Spring 平台和第三方库的组合，我们就能十分轻松地使用 Spring Boot 进行开发，而这些 Spring Boot 应用只需要简单的配置即可。</description>
+      <link>https://ez4jam1n.site/studio/md/java/springboot3/20230114-first-app.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/springboot3/20230114-first-app.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">Spring Boot 简介</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 简介 Spring Boot 能够帮助开发者创建独立的、可运行的、生产级的基于 Spring 的应用程序。通过基础的 Spring 平台和第三方库的组合，我们就能十分轻松地使用 Spring Boot 进行开发，而这些 Spring Boot 应用只需要简单的配置即可。</description>
       <category>Spring Boot 3 基础教程</category>
       <pubDate>Sun, 09 Jan 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -16061,14 +16061,14 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>简介及入门实例</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/springmvc/20220201-intro-and-quick-start.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/springmvc/20220201-intro-and-quick-start.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">简介及入门实例</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 MVC 简介 所谓 MVC（Model、View、Controller），其实是一种软件设计范式，通过将 业务逻辑、数据、显示分离的方法来组织代码，最主要的目的是降低视图和业务逻辑代码之间的双向耦合。其中的各部分如下：</description>
+      <link>https://ez4jam1n.site/studio/md/java/springmvc/20220201-intro-and-quick-start.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/springmvc/20220201-intro-and-quick-start.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">简介及入门实例</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 MVC 简介 所谓 MVC（Model、View、Controller），其实是一种软件设计范式，通过将 业务逻辑、数据、显示分离的方法来组织代码，最主要的目的是降低视图和业务逻辑代码之间的双向耦合。其中的各部分如下：</description>
       <category>Spring MVC 指南</category>
       <pubDate>Sun, 16 Jan 2022 20:11:39 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -16219,14 +16219,14 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>简介及入门实例</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/vue3/20221001-introduction.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/vue3/20221001-introduction.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">简介及入门实例</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 之前已经学习过来 HTML、 CSS 以及 JavaScript 的相关知识，也算是基本了解了关于这前端三件套的一些基本用法。今天就来了解下，当前前端开发中最炙手可热的当红辣子鸡 - Vue。本文主要介绍 Vue 的一些入门知识和最经典的 Vue 入门 Hello World 程序，如果你想了解的是更高级的使用技巧，那么完全可以忽略。</description>
+      <link>https://ez4jam1n.site/studio/md/java/vue3/20221001-introduction.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/vue3/20221001-introduction.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">简介及入门实例</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 之前已经学习过来 HTML、 CSS 以及 JavaScript 的相关知识，也算是基本了解了关于这前端三件套的一些基本用法。今天就来了解下，当前前端开发中最炙手可热的当红辣子鸡 - Vue。本文主要介绍 Vue 的一些入门知识和最经典的 Vue 入门 Hello World 程序，如果你想了解的是更高级的使用技巧，那么完全可以忽略。</description>
       <category>Vue3 笔记</category>
       <pubDate>Sat, 01 Oct 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -16271,14 +16271,14 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>常用指令</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/vue3/20221002-common-commands.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/vue3/20221002-common-commands.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">常用指令</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 插值 文本 要进行文本部分替换，可以用 {{}} 将变量元素括起来； &amp;lt;div id = &amp;quot;app&amp;quot;&amp;gt; {{message}} &amp;lt;/div&amp;gt;</description>
+      <link>https://ez4jam1n.site/studio/md/java/vue3/20221002-common-commands.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/vue3/20221002-common-commands.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">常用指令</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 插值 文本 要进行文本部分替换，可以用 {{}} 将变量元素括起来； &amp;lt;div id = &amp;quot;app&amp;quot;&amp;gt; {{message}} &amp;lt;/div&amp;gt;</description>
       <category>Vue3 笔记</category>
       <pubDate>Sun, 02 Oct 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -16340,14 +16340,14 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>Axios 简单使用指南</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/vue3/20221003-axios-quickstart.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/vue3/20221003-axios-quickstart.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">Axios 简单使用指南</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 概述 什么是 Axios ？ Axios 是一个开源的基于 promise 的 HTTP 请求库，一般常用于浏览器和 node.js 中。它能够在具有相同代码库的浏览器和 nodejs 中同时运行，在服务器侧，它利用服务器端原生的 node.js http 模块，而在客户端侧（一般是浏览器），则使用的是 XMLHttpRequest。</description>
+      <link>https://ez4jam1n.site/studio/md/java/vue3/20221003-axios-quickstart.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/vue3/20221003-axios-quickstart.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">Axios 简单使用指南</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 概述 什么是 Axios ？ Axios 是一个开源的基于 promise 的 HTTP 请求库，一般常用于浏览器和 node.js 中。它能够在具有相同代码库的浏览器和 nodejs 中同时运行，在服务器侧，它利用服务器端原生的 node.js http 模块，而在客户端侧（一般是浏览器），则使用的是 XMLHttpRequest。</description>
       <category>Vue3 笔记</category>
       <pubDate>Mon, 03 Oct 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -16445,14 +16445,14 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>搭建 Vue + Vite 入门项目</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/vue3/20221004-vite-quickstart.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/vue3/20221004-vite-quickstart.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">搭建 Vue + Vite 入门项目</source>
-      <description>作者：村雨遥 博客：JavaPark 吾生也有涯，而知也无涯。 前言 虽然市面上有很多的打包工具，例如 webpack、Rollup 以及 Parcel 等。毫无疑问，通过使用这些工具，在很大程度上改善了前端开发者的游戏体验。 但随着业务变得越来越复杂，我们不得构建比之前更大型的应用。此时，所需要处理的代码量也越来越大。这时候，上面提到的打包工具就开始遇到性能瓶颈，我们可能需要很长的时间才能启动开发服务器，这样一来，开发效率就变得越来越低。 针对这一现状，大佬们又构建了一个打包工具 ，也就是今天文章的主角 - Vite。Vite 旨在利用生态系统中的新进展来解决上面的问题，通过将应用中的 依赖 和 源码 相分开，从而缩减开发服务器的启动时间。</description>
+      <link>https://ez4jam1n.site/studio/md/java/vue3/20221004-vite-quickstart.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/vue3/20221004-vite-quickstart.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">搭建 Vue + Vite 入门项目</source>
+      <description>作者：村雨遥 博客：studio 吾生也有涯，而知也无涯。 前言 虽然市面上有很多的打包工具，例如 webpack、Rollup 以及 Parcel 等。毫无疑问，通过使用这些工具，在很大程度上改善了前端开发者的游戏体验。 但随着业务变得越来越复杂，我们不得构建比之前更大型的应用。此时，所需要处理的代码量也越来越大。这时候，上面提到的打包工具就开始遇到性能瓶颈，我们可能需要很长的时间才能启动开发服务器，这样一来，开发效率就变得越来越低。 针对这一现状，大佬们又构建了一个打包工具 ，也就是今天文章的主角 - Vite。Vite 旨在利用生态系统中的新进展来解决上面的问题，通过将应用中的 依赖 和 源码 相分开，从而缩减开发服务器的启动时间。</description>
       <category>Vue3 笔记</category>
       <pubDate>Tue, 04 Oct 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>作者：村雨遥</p>
-<p>博客：<a href="https://cunyu1943.github.io/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></p>
+<p>博客：<a href="https://ez4jam1n.github.io/studio" target="_blank" rel="noopener noreferrer">studio</a></p>
 <blockquote>
 <p>吾生也有涯，而知也无涯。</p>
 </blockquote>
@@ -16491,7 +16491,7 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p></p>
 <p>如何还是不太清楚，那么可以参考我之前的一篇文章：</p>
 <blockquote>
-<p><a href="https://cunyu1943.github.io/JavaPark/md/tools/windows/20220414-nodejs-install" target="_blank" rel="noopener noreferrer">Windows 教程：Node.js 安装教程</a></p>
+<p><a href="https://ez4jam1n.github.io/studio/md/tools/windows/20220414-nodejs-install" target="_blank" rel="noopener noreferrer">Windows 教程：Node.js 安装教程</a></p>
 </blockquote>
 <p>初始工作做好之后，我们就可以开始搭建我们的第一个 <code>Vite</code> 项目了。</p>
 <p>如果我们只是要构建一个 <code>Vite</code> 项目，那么简单地使用以下命令即可。</p>
@@ -16524,9 +16524,9 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>HTML 基础标签</title>
-      <link>https://cunyu1943.site/JavaPark/md/java/web/20220501-basic-lable.html</link>
-      <guid>https://cunyu1943.site/JavaPark/md/java/web/20220501-basic-lable.html</guid>
-      <source url="https://cunyu1943.site/JavaPark/rss.xml">HTML 基础标签</source>
+      <link>https://ez4jam1n.site/studio/md/java/web/20220501-basic-lable.html</link>
+      <guid>https://ez4jam1n.site/studio/md/java/web/20220501-basic-lable.html</guid>
+      <source url="https://ez4jam1n.site/studio/rss.xml">HTML 基础标签</source>
       <description>什么是 HTML HTML（Hypertext Markup Language），中文名超文本标记语言，是一种用于结构化 Web 网页及其内容的标记语言。 严格意义上讲，HTML 并不是一门编程语言，而是一种用于定义内容结构的标记语言。它由一系列的元素所构成，通过标签与内容组合得到我们所需效果，使其以某种形式呈现。 HTML 中的基础标签 既然说了 HTML 是由一系列的元素组成，那我们就来看看元素相关的内容。 元素又是由一对标签加上内容所共同构成，以下是一个简单的文本标签示例。 该元素中，主要组成部分如下：</description>
       <category>HTML 教程</category>
       <pubDate>Mon, 25 Apr 2022 16:00:00 GMT</pubDate>
