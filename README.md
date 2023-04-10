@@ -2,7 +2,7 @@
 
 > 你好，我是benjamin。一个从事 `Java` 的工程师。
 
-- 👉 推荐 [Github 在线阅读](https://benjam1n.eu.org) | [Gitee 在线阅读](https://ez4jam1n.gitee.io/studio)，`Github` 访问较慢，所以部分资源可能会加载较慢。
+- 👉 推荐 [Github 在线阅读](http://benjam1n.eu.org) | [Gitee 在线阅读](https://ez4jam1n.gitee.io/studio)，`Github` 访问较慢，所以部分资源可能会加载较慢。
 
 - 👉 项目同步维护：[Github](https://github.com/ez4jam1n/studio) | [Gitee](https://gitee.com/ez4jam1n/studio)
 
